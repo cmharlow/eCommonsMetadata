@@ -110,6 +110,8 @@ In front-facing records, they are shown as is (with thesis prefix).
 
 In the DIM feed, these fields become unmapped text at the end of the <metadata> field (making XML output invalid).
 
+None of these fields appear as is in the ETDMS feed (?). 
+
 ###dcterms
 Includes DC elements and DC terms, as well as some invalid (made up to look like DC) elements. Some DCMI Class Names, Date Types, other non-elements used as elements.
 
@@ -174,6 +176,12 @@ dcterms.type | The nature or genre of the resource. |
 dcterms.valid | Date (often a range) of validity of a resource. |
 
 ###eperson (DSpace eperson)
+Not sure we use. Just has these fields configured:
+
+- eperson.firstname - Metadata field used for the first name
+- eperson.language - Metadata field used for the language
+- eperson.lastname - Metadata field used for the last name
+- eperson.phone - Metadata field used for the phone number
 
 ##Metadata Formats as Appear in OAI Feeds:
 ###OAI_DC
@@ -262,3 +270,22 @@ dc:description.statementofresponsibility: |                         |      2/350
 ```
 
 ###ETDMS 
+The **ETDMS feed** has 35,062 records. Field usage overview in that feed:
+
+```
+{http://www.ndltd.org/standards/metadata/etdms/1.0/}contributor: |==                       |   3255/35062 |   9% 
+    {http://www.ndltd.org/standards/metadata/etdms/1.0/}creator: |===================      |  27411/35062 |  78% 
+       {http://www.ndltd.org/standards/metadata/etdms/1.0/}date: |=========================|  35062/35062 | 100% 
+     {http://www.ndltd.org/standards/metadata/etdms/1.0/}degree: |==                       |   3158/35062 |   9% 
+{http://www.ndltd.org/standards/metadata/etdms/1.0/}description: |======================   |  31543/35062 |  89% 
+ {http://www.ndltd.org/standards/metadata/etdms/1.0/}identifier: |======================== |  35061/35062 |  99% 
+   {http://www.ndltd.org/standards/metadata/etdms/1.0/}language: |=======================  |  33233/35062 |  94% 
+  {http://www.ndltd.org/standards/metadata/etdms/1.0/}publisher: |=============            |  19376/35062 |  55% 
+   {http://www.ndltd.org/standards/metadata/etdms/1.0/}relation: |===                      |   4506/35062 |  12% 
+     {http://www.ndltd.org/standards/metadata/etdms/1.0/}rights: |                         |     33/35062 |   0% 
+     {http://www.ndltd.org/standards/metadata/etdms/1.0/}source: |                         |      1/35062 |   0% 
+    {http://www.ndltd.org/standards/metadata/etdms/1.0/}subject: |====================     |  28616/35062 |  81% 
+      {http://www.ndltd.org/standards/metadata/etdms/1.0/}title: |=========================|  35062/35062 | 100% 
+       {http://www.ndltd.org/standards/metadata/etdms/1.0/}type: |=======================  |  32972/35062 |  94% 
+```
+
