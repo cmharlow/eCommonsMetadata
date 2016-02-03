@@ -11,6 +11,8 @@ This is configured with the DCMI website URL as namespace in platform, not one o
 
 Fields used (with platform specific use notes where exists):
 
+terms | eCommons def | my notes
+--- | --- | ---
 dc.contributor.advisor | Use primarily for thesis advisor. |
 dc.contributor.author |  |
 dc.contributor.chair |  |
@@ -113,6 +115,8 @@ Includes DC elements and DC terms, as well as some invalid (made up to look like
 
 Fields used (with platform specific use notes where exists):
 
+terms | eCommons def | my notes
+--- | --- | ---
 dcterms.abstract | A summary of the resource. |
 dcterms.accessRights | Information about who can access the resource or an indication of its security status. May include information regarding access or restrictions based on privacy, security, or other policies. |
 dcterms.accrualMethod | The method by which items are added to a collection. |
