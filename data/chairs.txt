@@ -1,0 +1,3368 @@
+oai:ecommons.cornell.edu:1813/29110	Cook, Robert
+oai:ecommons.cornell.edu:1813/29112	Byrne, Sahara E.
+oai:ecommons.cornell.edu:1813/29113	Wise, Frank William
+oai:ecommons.cornell.edu:1813/29114	Collum, David B
+oai:ecommons.cornell.edu:1813/29115	Koslowski, Barbara Marie
+oai:ecommons.cornell.edu:1813/29116	Bodenschatz, Eberhard
+oai:ecommons.cornell.edu:1813/29117	McNeal, Robin
+oai:ecommons.cornell.edu:1813/29118	Hay, Anthony G.
+oai:ecommons.cornell.edu:1813/29119	Gomez, Miguel I.
+oai:ecommons.cornell.edu:1813/29120	Resnick, Sidney Ira
+oai:ecommons.cornell.edu:1813/29121	Diamessis, Peter J.
+oai:ecommons.cornell.edu:1813/29122	Morgan, Stephen L.
+oai:ecommons.cornell.edu:1813/29123	Gomes, Carla P
+oai:ecommons.cornell.edu:1813/29124	McLeod, Poppy L
+oai:ecommons.cornell.edu:1813/29125	Shapiro, Michael A
+oai:ecommons.cornell.edu:1813/29126	Bisogni Jr, James John
+oai:ecommons.cornell.edu:1813/29127	Phipps-Morgan, Jason
+oai:ecommons.cornell.edu:1813/29128	Gillespie, Tarleton L.
+oai:ecommons.cornell.edu:1813/29129	Wittich, Peter
+oai:ecommons.cornell.edu:1813/29130	Brown, Larry Douglas
+oai:ecommons.cornell.edu:1813/29131	Lehmann, Christopher Johannes
+oai:ecommons.cornell.edu:1813/29132	Bazarov, Ivan
+oai:ecommons.cornell.edu:1813/29133	Muscalu, Florin Camil
+oai:ecommons.cornell.edu:1813/29134	Gibson, Kathleen Joan
+oai:ecommons.cornell.edu:1813/29135	Searle, Angela E.
+oai:ecommons.cornell.edu:1813/29136	Eloundou-Enyegue, Parfait  M.
+oai:ecommons.cornell.edu:1813/29137	Hemami, Sheila S
+oai:ecommons.cornell.edu:1813/29138	Berest, Yuri
+oai:ecommons.cornell.edu:1813/29139	Becker, Franklin David
+oai:ecommons.cornell.edu:1813/29140	Sipple, John W
+oai:ecommons.cornell.edu:1813/29141	Pass, Rafael N.
+oai:ecommons.cornell.edu:1813/29142	Maurer, Kirk
+oai:ecommons.cornell.edu:1813/29143	Xu, Chunhui
+oai:ecommons.cornell.edu:1813/29144	Elliott, John Jack R.
+oai:ecommons.cornell.edu:1813/29145	Johnson, Patricia A
+oai:ecommons.cornell.edu:1813/29146	Lasansky, Diana Medina
+oai:ecommons.cornell.edu:1813/29147	Peck, Mason
+oai:ecommons.cornell.edu:1813/29148	Jennings, Jan
+oai:ecommons.cornell.edu:1813/29149	Mukherjee, Subrata
+oai:ecommons.cornell.edu:1813/29150	Bodenschatz, Eberhard
+oai:ecommons.cornell.edu:1813/29151	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/29152	Gossett, James Michael
+oai:ecommons.cornell.edu:1813/29153	Lawless, Harry Thomas
+oai:ecommons.cornell.edu:1813/29154	Luo, Dan
+oai:ecommons.cornell.edu:1813/29155	Barbano, David Mark
+oai:ecommons.cornell.edu:1813/29156	Hale, John T.
+oai:ecommons.cornell.edu:1813/29157	Bento, Antonio Miguel R.
+oai:ecommons.cornell.edu:1813/29158	Albonesi, David H.
+oai:ecommons.cornell.edu:1813/29159	Mohanty, Satya P
+oai:ecommons.cornell.edu:1813/29160	Wagner, Aaron B.
+oai:ecommons.cornell.edu:1813/29161	Trumbull, Deborah J
+oai:ecommons.cornell.edu:1813/29162	Bean, Rachel E.
+oai:ecommons.cornell.edu:1813/29163	Van Dover, Robert B.
+oai:ecommons.cornell.edu:1813/29164	Cowen III, Edwin Alfred
+oai:ecommons.cornell.edu:1813/29165	Albonesi, David H.
+oai:ecommons.cornell.edu:1813/29166	Herring, Ronald J
+oai:ecommons.cornell.edu:1813/29167	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/29168	Scott, Norman Roy
+oai:ecommons.cornell.edu:1813/29169	Varner, Jeffrey D.
+oai:ecommons.cornell.edu:1813/29170	Bell, James F
+oai:ecommons.cornell.edu:1813/29171	Elliott, John Jack R.
+oai:ecommons.cornell.edu:1813/29172	Richardson, Troy A
+oai:ecommons.cornell.edu:1813/29173	Sirer, Emin G.
+oai:ecommons.cornell.edu:1813/29174	Kress Gazit, Hadas
+oai:ecommons.cornell.edu:1813/29175	Jordan, Kurt Anders
+oai:ecommons.cornell.edu:1813/29176	McBride, Murray Brian
+oai:ecommons.cornell.edu:1813/29177	Wolfe, David Walter
+oai:ecommons.cornell.edu:1813/29178	Henley, Christopher Lee
+oai:ecommons.cornell.edu:1813/29179	Ralph, Daniel C
+oai:ecommons.cornell.edu:1813/29180	Van Loan, Charles Francis
+oai:ecommons.cornell.edu:1813/29181	Elber, Ron
+oai:ecommons.cornell.edu:1813/29182	Bustamante, Carlos D.
+oai:ecommons.cornell.edu:1813/29183	Becker, Franklin David
+oai:ecommons.cornell.edu:1813/29184	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/29185	Hanson, Ellis
+oai:ecommons.cornell.edu:1813/29186	Hirschl, Thomas A
+oai:ecommons.cornell.edu:1813/29187	Riles, Annelise
+oai:ecommons.cornell.edu:1813/29188	Weiss, Michael L
+oai:ecommons.cornell.edu:1813/29189	Melas, Natalie Anne-Marie
+oai:ecommons.cornell.edu:1813/29190	Varner, Jeffrey D.
+oai:ecommons.cornell.edu:1813/29191	Kemphues, Kenneth J
+oai:ecommons.cornell.edu:1813/29192	Reeves, Anthony P
+oai:ecommons.cornell.edu:1813/29193	Nozick, Linda K.
+oai:ecommons.cornell.edu:1813/29194	Datta, Ashim K
+oai:ecommons.cornell.edu:1813/29195	Buck-Morss, Susan
+oai:ecommons.cornell.edu:1813/29196	Loeckenhoff, Corinna E
+oai:ecommons.cornell.edu:1813/29197	Zamudio, Kelly
+oai:ecommons.cornell.edu:1813/29198	Lynch, Michael E.
+oai:ecommons.cornell.edu:1813/29199	Hines, Melissa A
+oai:ecommons.cornell.edu:1813/29200	Sturgeon, Nicholas Lee
+oai:ecommons.cornell.edu:1813/29201	Cassano, Patricia Ann
+oai:ecommons.cornell.edu:1813/29202	Dollahite, Jamie S.
+oai:ecommons.cornell.edu:1813/29203	Hanson, Maureen R
+oai:ecommons.cornell.edu:1813/29204	Shoemaker, Christine Ann
+oai:ecommons.cornell.edu:1813/29205	Adams Jr., James Eli
+oai:ecommons.cornell.edu:1813/29206	Apsel, Alyssa B.
+oai:ecommons.cornell.edu:1813/29207	Davisson, Robin L
+oai:ecommons.cornell.edu:1813/29208	Winans, Stephen C
+oai:ecommons.cornell.edu:1813/29209	Kessler, Andre
+oai:ecommons.cornell.edu:1813/29210	Haynes, Martha Patricia
+oai:ecommons.cornell.edu:1813/29212	Goodale, Christine L
+oai:ecommons.cornell.edu:1813/29213	Lipson, Michal
+oai:ecommons.cornell.edu:1813/29214	Moraru, Carmen I
+oai:ecommons.cornell.edu:1813/29215	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/29216	Shoemaker, Christine Ann
+oai:ecommons.cornell.edu:1813/29217	Barbash, Daniel A.
+oai:ecommons.cornell.edu:1813/29218	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/29219	Cowen III, Edwin Alfred
+oai:ecommons.cornell.edu:1813/29220	Richards, Annette
+oai:ecommons.cornell.edu:1813/29221	Angenent, Largus
+oai:ecommons.cornell.edu:1813/29222	Schatz, Alfred Harry
+oai:ecommons.cornell.edu:1813/29223	Allred, Shorna Broussard
+oai:ecommons.cornell.edu:1813/29224	Rawlings III, Hunter R.
+oai:ecommons.cornell.edu:1813/29225	Welker, Marina Andrea
+oai:ecommons.cornell.edu:1813/29226	Cowen III, Edwin Alfred
+oai:ecommons.cornell.edu:1813/29227	Mezey, Jason G.
+oai:ecommons.cornell.edu:1813/29228	Erickson, David
+oai:ecommons.cornell.edu:1813/29229	Brown, David L
+oai:ecommons.cornell.edu:1813/29230	Chusid, Jeffrey M.
+oai:ecommons.cornell.edu:1813/29231	Ramakrishna, Ravi Kumar
+oai:ecommons.cornell.edu:1813/29232	Kirby, Brian
+oai:ecommons.cornell.edu:1813/29233	Cassano, Patricia Ann
+oai:ecommons.cornell.edu:1813/29234	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/29235	Reeves, Anthony P
+oai:ecommons.cornell.edu:1813/29236	Cook, Kerry Harrison
+oai:ecommons.cornell.edu:1813/29237	Jenkins, James Thomas
+oai:ecommons.cornell.edu:1813/29238	Turnbull, Bruce William
+oai:ecommons.cornell.edu:1813/29239	Manohar, Rajit
+oai:ecommons.cornell.edu:1813/29240	Mohammed, Hussni Omar
+oai:ecommons.cornell.edu:1813/29241	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/29242	O'Brien, Kimberly O
+oai:ecommons.cornell.edu:1813/29243	Chiang, Hsiao-Dong
+oai:ecommons.cornell.edu:1813/29244	Coates, Geoffrey
+oai:ecommons.cornell.edu:1813/29245	Wang, Michelle D
+oai:ecommons.cornell.edu:1813/29246	Jennings, Jan
+oai:ecommons.cornell.edu:1813/29247	Lipson, Hod
+oai:ecommons.cornell.edu:1813/29248	Miller, William
+oai:ecommons.cornell.edu:1813/29249	Schimenti, John C.
+oai:ecommons.cornell.edu:1813/29250	White, William M
+oai:ecommons.cornell.edu:1813/29251	Chang, Derek S.
+oai:ecommons.cornell.edu:1813/29252	Parker, Alan R.
+oai:ecommons.cornell.edu:1813/29253	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/29254	Mount, Timothy Douglas
+oai:ecommons.cornell.edu:1813/29255	Parrish, Colin Ross
+oai:ecommons.cornell.edu:1813/29256	Dubreuil, Laurent
+oai:ecommons.cornell.edu:1813/29257	Schrader, Dawn Ellen
+oai:ecommons.cornell.edu:1813/29258	Gossett, James Michael
+oai:ecommons.cornell.edu:1813/29259	Liu, Philip Li-Fan
+oai:ecommons.cornell.edu:1813/29260	Nikitin, Alexander
+oai:ecommons.cornell.edu:1813/29261	Altier, Craig
+oai:ecommons.cornell.edu:1813/29262	Lowi, Theodore J
+oai:ecommons.cornell.edu:1813/29263	Lal, Amit
+oai:ecommons.cornell.edu:1813/29264	Brooks, Samantha A.
+oai:ecommons.cornell.edu:1813/29265	Rangarajan, Anusuya
+oai:ecommons.cornell.edu:1813/29266	Hernandez, Christopher J.
+oai:ecommons.cornell.edu:1813/29267	Allred, Shorna Broussard
+oai:ecommons.cornell.edu:1813/29268	Cox, William Joseph
+oai:ecommons.cornell.edu:1813/29269	Fiskesjo, N Magnus G
+oai:ecommons.cornell.edu:1813/29270	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/29271	Angert, Esther R.
+oai:ecommons.cornell.edu:1813/29272	Campbell, Mark
+oai:ecommons.cornell.edu:1813/29273	Stover, Patrick J
+oai:ecommons.cornell.edu:1813/29274	Hite, Molly Patricia
+oai:ecommons.cornell.edu:1813/29275	Baird, Barbara Ann
+oai:ecommons.cornell.edu:1813/29276	Lee, David M
+oai:ecommons.cornell.edu:1813/29277	Hammer, David A
+oai:ecommons.cornell.edu:1813/29278	Pfeffer, Max John
+oai:ecommons.cornell.edu:1813/29279	Eckenrode, John Joseph
+oai:ecommons.cornell.edu:1813/29280	Lee, David R
+oai:ecommons.cornell.edu:1813/29281	Koslowski, Barbara Marie
+oai:ecommons.cornell.edu:1813/29282	Denkers, Eric Young
+oai:ecommons.cornell.edu:1813/29283	Jenkins, James Thomas
+oai:ecommons.cornell.edu:1813/29284	Decker, Daniel Joseph
+oai:ecommons.cornell.edu:1813/29285	Obendorf, Sharon Kay
+oai:ecommons.cornell.edu:1813/29286	Pendall, Rolf J.
+oai:ecommons.cornell.edu:1813/29287	Wolczanski, Peter Thomas
+oai:ecommons.cornell.edu:1813/29288	Lassoie, James Philip
+oai:ecommons.cornell.edu:1813/29289	Jirousek, Charlotte Ann
+oai:ecommons.cornell.edu:1813/29290	Whitman, John
+oai:ecommons.cornell.edu:1813/29291	Pillemer, Karl Andrew
+oai:ecommons.cornell.edu:1813/29292	Hite, Molly Patricia
+oai:ecommons.cornell.edu:1813/29293	Lowi, Theodore J
+oai:ecommons.cornell.edu:1813/29294	Scanlon, Michael J.
+oai:ecommons.cornell.edu:1813/29295	Bhave, Sunil A.
+oai:ecommons.cornell.edu:1813/29296	Johnston, Robert Elliott
+oai:ecommons.cornell.edu:1813/29297	Schrader, Dawn Ellen
+oai:ecommons.cornell.edu:1813/29298	Hysell, David Lee
+oai:ecommons.cornell.edu:1813/29299	Marohn, John A.
+oai:ecommons.cornell.edu:1813/29300	Manohar, Rajit
+oai:ecommons.cornell.edu:1813/29301	Schaffer, Chris
+oai:ecommons.cornell.edu:1813/29302	Bassuk, Nina Lauren
+oai:ecommons.cornell.edu:1813/29303	Quirk, Susan Mary
+oai:ecommons.cornell.edu:1813/29304	Halpern, Bruce Peter
+oai:ecommons.cornell.edu:1813/29305	Williams, Linda Brooks
+oai:ecommons.cornell.edu:1813/29306	Van Amburgh, Michael E
+oai:ecommons.cornell.edu:1813/29307	Wells, Martin Timothy
+oai:ecommons.cornell.edu:1813/29308	Bowser, Paul Raymond
+oai:ecommons.cornell.edu:1813/29309	Miller, William
+oai:ecommons.cornell.edu:1813/29310	Pawlowski, Wojciech
+oai:ecommons.cornell.edu:1813/29311	Helmann, John D
+oai:ecommons.cornell.edu:1813/29312	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/29313	Webb, Watt Wetmore
+oai:ecommons.cornell.edu:1813/29314	Hong, Yongmiao
+oai:ecommons.cornell.edu:1813/29315	Suarez, Susan Stevens
+oai:ecommons.cornell.edu:1813/29316	Sturgeon, Nicholas Lee
+oai:ecommons.cornell.edu:1813/29317	Derry, Louis A.
+oai:ecommons.cornell.edu:1813/29318	Sjamaar, Reyer
+oai:ecommons.cornell.edu:1813/29319	Lipson, Michal
+oai:ecommons.cornell.edu:1813/29320	Logevall, Fredrik
+oai:ecommons.cornell.edu:1813/29321	Rand, Richard Herbert
+oai:ecommons.cornell.edu:1813/29322	Reppy, Judith V
+oai:ecommons.cornell.edu:1813/29323	Kline, Ronald R
+oai:ecommons.cornell.edu:1813/29324	Brenna, James Thomas
+oai:ecommons.cornell.edu:1813/29325	Booth, James
+oai:ecommons.cornell.edu:1813/29326	Mukherjee, Subrata
+oai:ecommons.cornell.edu:1813/29327	Sacks, Gavin Lavi
+oai:ecommons.cornell.edu:1813/29328	Malliaras, George G
+oai:ecommons.cornell.edu:1813/29329	Rooth, Mats
+oai:ecommons.cornell.edu:1813/29330	Gross, James A
+oai:ecommons.cornell.edu:1813/29331	Brock, Joel Donald
+oai:ecommons.cornell.edu:1813/29332	Weber, Courtney A.
+oai:ecommons.cornell.edu:1813/29333	Steen, Paul Herman
+oai:ecommons.cornell.edu:1813/29334	King, Cynthia A.
+oai:ecommons.cornell.edu:1813/29335	Tauer, Loren William
+oai:ecommons.cornell.edu:1813/29336	Yen, Andrew
+oai:ecommons.cornell.edu:1813/29337	Dhondt, Andre Alfons
+oai:ecommons.cornell.edu:1813/29338	Harris Jr., Robert L
+oai:ecommons.cornell.edu:1813/29339	Laquatra Jr, Joseph
+oai:ecommons.cornell.edu:1813/29340	Miller, Matthew Peter
+oai:ecommons.cornell.edu:1813/29341	Lipson, Hod
+oai:ecommons.cornell.edu:1813/29342	Angert, Esther R.
+oai:ecommons.cornell.edu:1813/29343	Kenkel, Donald S.
+oai:ecommons.cornell.edu:1813/29344	Constas, Mark Alexander
+oai:ecommons.cornell.edu:1813/29345	Varner, Jeffrey D.
+oai:ecommons.cornell.edu:1813/29346	Henderson, David W.
+oai:ecommons.cornell.edu:1813/29347	Gomez, Miguel I.
+oai:ecommons.cornell.edu:1813/29348	Holowka, David Allan
+oai:ecommons.cornell.edu:1813/29349	Eshelman, Paul Edwin
+oai:ecommons.cornell.edu:1813/29350	Weiss, Robert S.
+oai:ecommons.cornell.edu:1813/29351	Swedberg, Richard
+oai:ecommons.cornell.edu:1813/29352	Loos, Tamara
+oai:ecommons.cornell.edu:1813/29353	Mount, Timothy Douglas
+oai:ecommons.cornell.edu:1813/29354	Drinkwater, Laurie E
+oai:ecommons.cornell.edu:1813/29355	Luckow, Melissa A
+oai:ecommons.cornell.edu:1813/29356	Overton, Thomas R
+oai:ecommons.cornell.edu:1813/29357	Marschner, Stephen Robert
+oai:ecommons.cornell.edu:1813/29358	Jordan, Kurt Anders
+oai:ecommons.cornell.edu:1813/29359	Mira de Orduna Heidinger, Ramon
+oai:ecommons.cornell.edu:1813/29360	Putnam, David A.
+oai:ecommons.cornell.edu:1813/29361	Varner, Jeffrey D.
+oai:ecommons.cornell.edu:1813/29362	Gay, Geraldine K
+oai:ecommons.cornell.edu:1813/29363	Williamson, David P
+oai:ecommons.cornell.edu:1813/29364	Estroff, Lara A.
+oai:ecommons.cornell.edu:1813/29365	Danforth, Bryan Nicholas
+oai:ecommons.cornell.edu:1813/29366	Campbell, Mark
+oai:ecommons.cornell.edu:1813/29367	Kan, Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/29368	Flecker, Alexander S
+oai:ecommons.cornell.edu:1813/29369	Irwin, Terence Henry
+oai:ecommons.cornell.edu:1813/29370	van de Walle, Nicolas
+oai:ecommons.cornell.edu:1813/29371	Wells, Nancy M.
+oai:ecommons.cornell.edu:1813/29372	Schneider, Fred Barry
+oai:ecommons.cornell.edu:1813/29373	Frey, Margaret W
+oai:ecommons.cornell.edu:1813/29374	Brenna, James Thomas
+oai:ecommons.cornell.edu:1813/29375	Lassoie, James Philip
+oai:ecommons.cornell.edu:1813/29376	Baines, Joel D
+oai:ecommons.cornell.edu:1813/29377	Gossett, James Michael
+oai:ecommons.cornell.edu:1813/29378	Gleach, Frederic Wright
+oai:ecommons.cornell.edu:1813/29379	Casey, James Wilton
+oai:ecommons.cornell.edu:1813/29380	Gibson, Kathleen Joan
+oai:ecommons.cornell.edu:1813/29381	Bass, Andrew Howard
+oai:ecommons.cornell.edu:1813/29382	King, Michael R.
+oai:ecommons.cornell.edu:1813/29383	Doerschuk, Peter
+oai:ecommons.cornell.edu:1813/29384	Weeden, Kim
+oai:ecommons.cornell.edu:1813/29385	Lewenstein, Bruce Voss
+oai:ecommons.cornell.edu:1813/29386	Villarejo, Amy
+oai:ecommons.cornell.edu:1813/29387	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/29388	Kahn, Lawrence M
+oai:ecommons.cornell.edu:1813/29389	Baeumner, Antje J
+oai:ecommons.cornell.edu:1813/29390	Antczak, Douglas Francis
+oai:ecommons.cornell.edu:1813/29391	Birman, Kenneth Paul
+oai:ecommons.cornell.edu:1813/29392	Cohen, Itai
+oai:ecommons.cornell.edu:1813/29393	Nelson, Rebecca J.
+oai:ecommons.cornell.edu:1813/29394	Harrington, Laura C.
+oai:ecommons.cornell.edu:1813/29395	Appleton, Judith Ann
+oai:ecommons.cornell.edu:1813/29396	Pollack, Lois
+oai:ecommons.cornell.edu:1813/29397	Goldstein, Michael H.
+oai:ecommons.cornell.edu:1813/29398	Setter, Timothy Lloyd
+oai:ecommons.cornell.edu:1813/29399	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/29400	Mulvaney, Steven J
+oai:ecommons.cornell.edu:1813/29401	Gu, Zhenglong
+oai:ecommons.cornell.edu:1813/29402	Trochim, William Michael
+oai:ecommons.cornell.edu:1813/29403	Delisa, Matthew
+oai:ecommons.cornell.edu:1813/29404	Strauss, Barry Stuart
+oai:ecommons.cornell.edu:1813/29405	Cherney, Debbie Jeannine
+oai:ecommons.cornell.edu:1813/29406	Cao, Xiaodong
+oai:ecommons.cornell.edu:1813/29407	D'Souza, Julia
+oai:ecommons.cornell.edu:1813/29408	Greene, Charles H
+oai:ecommons.cornell.edu:1813/29409	McNulty, Tracy K.
+oai:ecommons.cornell.edu:1813/29410	Samorodnitsky, Gennady
+oai:ecommons.cornell.edu:1813/29411	Frongillo Jr., Edward A
+oai:ecommons.cornell.edu:1813/29412	Davis, James C.
+oai:ecommons.cornell.edu:1813/29413	Bauman, Dale Elton
+oai:ecommons.cornell.edu:1813/29414	Murray, Timothy Conway
+oai:ecommons.cornell.edu:1813/29415	Webster, James
+oai:ecommons.cornell.edu:1813/29416	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/29417	Rand, Richard Herbert
+oai:ecommons.cornell.edu:1813/29418	Kassam, Karim-Aly Saleh
+oai:ecommons.cornell.edu:1813/29419	Greenberg, Donald P
+oai:ecommons.cornell.edu:1813/29420	Nozick, Linda K.
+oai:ecommons.cornell.edu:1813/29421	de Bary, Brett
+oai:ecommons.cornell.edu:1813/29422	Russell, David G
+oai:ecommons.cornell.edu:1813/29423	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/29424	McBride, Patrizia C.
+oai:ecommons.cornell.edu:1813/29425	Henderson, Shane G.
+oai:ecommons.cornell.edu:1813/29426	Bell, James F
+oai:ecommons.cornell.edu:1813/29427	Angenent, Largus
+oai:ecommons.cornell.edu:1813/29428	Hairston Jr., Nelson George
+oai:ecommons.cornell.edu:1813/29429	Milgroom, Michael Gordon
+oai:ecommons.cornell.edu:1813/29430	Fine, Terrence Leon
+oai:ecommons.cornell.edu:1813/29431	Worobo, Randy W.
+oai:ecommons.cornell.edu:1813/29432	Culler, Jonathan Dwight
+oai:ecommons.cornell.edu:1813/29433	Hilgartner, Stephen H
+oai:ecommons.cornell.edu:1813/29434	Hines, Melissa A
+oai:ecommons.cornell.edu:1813/29435	Gehrke, Johannes E.
+oai:ecommons.cornell.edu:1813/29436	Boor, Kathryn Jean
+oai:ecommons.cornell.edu:1813/29437	Bonassar, Lawrence
+oai:ecommons.cornell.edu:1813/29438	Sirer, Emin G.
+oai:ecommons.cornell.edu:1813/29439	Thonney, Michael Larry
+oai:ecommons.cornell.edu:1813/29440	Holowka, David Allan
+oai:ecommons.cornell.edu:1813/29441	Melas, Natalie Anne-Marie
+oai:ecommons.cornell.edu:1813/29442	Sturgeon, Nicholas Lee
+oai:ecommons.cornell.edu:1813/29443	Zec, Draga
+oai:ecommons.cornell.edu:1813/29444	Loucks, Daniel Peter
+oai:ecommons.cornell.edu:1813/29445	Campbell, Mark
+oai:ecommons.cornell.edu:1813/29446	Joo, Yong L.
+oai:ecommons.cornell.edu:1813/29447	Koch, Christoph E.
+oai:ecommons.cornell.edu:1813/29448	Makki, Fouad M
+oai:ecommons.cornell.edu:1813/29449	Allmendinger, Richard Waldron
+oai:ecommons.cornell.edu:1813/29450	Ellner, Stephen Paul
+oai:ecommons.cornell.edu:1813/29451	Scarlett, Janet May
+oai:ecommons.cornell.edu:1813/29452	Keich, Uri
+oai:ecommons.cornell.edu:1813/29453	Blalock, Garrick
+oai:ecommons.cornell.edu:1813/29454	Lloyd, James
+oai:ecommons.cornell.edu:1813/29455	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/29456	Lassoie, James Philip
+oai:ecommons.cornell.edu:1813/29457	Craighead, Harold G
+oai:ecommons.cornell.edu:1813/29458	Sacks, Gavin Lavi
+oai:ecommons.cornell.edu:1813/29459	Goldsmith, William W
+oai:ecommons.cornell.edu:1813/29460	Pond, Steven F.
+oai:ecommons.cornell.edu:1813/29461	Park, Travis D.
+oai:ecommons.cornell.edu:1813/29462	Bonassar, Lawrence
+oai:ecommons.cornell.edu:1813/29463	Easley, David Alan
+oai:ecommons.cornell.edu:1813/29464	Mansfield, Anna K.
+oai:ecommons.cornell.edu:1813/29465	Sipple, John W
+oai:ecommons.cornell.edu:1813/29466	Hua, Ying
+oai:ecommons.cornell.edu:1813/29467	Duhamel, Gerald E.
+oai:ecommons.cornell.edu:1813/29468	Otto, Christian F
+oai:ecommons.cornell.edu:1813/29469	Loucks, Daniel Peter
+oai:ecommons.cornell.edu:1813/29470	Van Es, Harold Mathijs
+oai:ecommons.cornell.edu:1813/29471	Razin, Assaf
+oai:ecommons.cornell.edu:1813/29472	Conrad, Jon M
+oai:ecommons.cornell.edu:1813/29473	Goldsmith, William W
+oai:ecommons.cornell.edu:1813/29474	Schukken, Ynte Hein
+oai:ecommons.cornell.edu:1813/29475	Hay, Anthony G.
+oai:ecommons.cornell.edu:1813/29476	Billera, Louis J.
+oai:ecommons.cornell.edu:1813/29477	Schimenti, John C.
+oai:ecommons.cornell.edu:1813/29478	Strogatz, Steven H
+oai:ecommons.cornell.edu:1813/29479	Rickard, Bradley J.
+oai:ecommons.cornell.edu:1813/29480	Sanderson, John P
+oai:ecommons.cornell.edu:1813/29481	Brown, Laura Schaefer
+oai:ecommons.cornell.edu:1813/29482	Evans, Gary William
+oai:ecommons.cornell.edu:1813/29483	MacDonald, Scott C
+oai:ecommons.cornell.edu:1813/29484	Monroe, Jonathan Beck
+oai:ecommons.cornell.edu:1813/29485	Mulvaney, Steven J
+oai:ecommons.cornell.edu:1813/29486	Kirby, Brian
+oai:ecommons.cornell.edu:1813/29487	Jin, Moonsoo
+oai:ecommons.cornell.edu:1813/29488	Maxwell, Lorraine E
+oai:ecommons.cornell.edu:1813/29489	Daniel, Susan
+oai:ecommons.cornell.edu:1813/29490	Chirik, Paul
+oai:ecommons.cornell.edu:1813/29491	Rangarajan, Anusuya
+oai:ecommons.cornell.edu:1813/29492	Stoltzfus, Rebecca Joyce
+oai:ecommons.cornell.edu:1813/29493	Lal, Amit
+oai:ecommons.cornell.edu:1813/29494	Datta, Ashim K
+oai:ecommons.cornell.edu:1813/29495	Just, David R.
+oai:ecommons.cornell.edu:1813/29496	Kan, Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/29497	Loos, Tamara
+oai:ecommons.cornell.edu:1813/29498	Jennings, Jan
+oai:ecommons.cornell.edu:1813/29499	Whitman, John
+oai:ecommons.cornell.edu:1813/29500	Mansury, Yuri Surtadi
+oai:ecommons.cornell.edu:1813/29501	Rose, Jocelyn
+oai:ecommons.cornell.edu:1813/29502	Delisa, Matthew
+oai:ecommons.cornell.edu:1813/29503	Lehmann, Christopher Johannes
+oai:ecommons.cornell.edu:1813/29504	Engstrom, James R
+oai:ecommons.cornell.edu:1813/29505	Vogtmann, Karen L
+oai:ecommons.cornell.edu:1813/29506	Lal, Amit
+oai:ecommons.cornell.edu:1813/29507	Tester, Jefferson William
+oai:ecommons.cornell.edu:1813/29508	Trochim, William Michael
+oai:ecommons.cornell.edu:1813/29509	Feathers, David Joseph
+oai:ecommons.cornell.edu:1813/29510	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/29511	Bustamante, Carlos D.
+oai:ecommons.cornell.edu:1813/29512	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/29513	Bassuk, Nina Lauren
+oai:ecommons.cornell.edu:1813/29514	Anderson, Christopher K
+oai:ecommons.cornell.edu:1813/29515	Kan, Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/29516	Apsel, Alyssa B.
+oai:ecommons.cornell.edu:1813/29517	Gruner, Sol Michael
+oai:ecommons.cornell.edu:1813/29518	Ralph, Daniel C
+oai:ecommons.cornell.edu:1813/29519	Anker, Elizabeth Susan
+oai:ecommons.cornell.edu:1813/29520	Brainerd, Charles
+oai:ecommons.cornell.edu:1813/29521	Rose, Jocelyn
+oai:ecommons.cornell.edu:1813/29522	Michaely, Roni
+oai:ecommons.cornell.edu:1813/29523	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/29524	Wolfner, Mariana Federica
+oai:ecommons.cornell.edu:1813/29525	Dadi, Muhammad Iftikhar
+oai:ecommons.cornell.edu:1813/29526	Quirk, Susan Mary
+oai:ecommons.cornell.edu:1813/29527	Baeumner, Antje J
+oai:ecommons.cornell.edu:1813/29529	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/29530	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/29531	Gomes, Carla P
+oai:ecommons.cornell.edu:1813/29532	Huffaker, Tim Clark
+oai:ecommons.cornell.edu:1813/29533	Peters, Joseph E.
+oai:ecommons.cornell.edu:1813/29534	Stucky, Steven Edward
+oai:ecommons.cornell.edu:1813/30599	Erickson, David
+oai:ecommons.cornell.edu:1813/30600	Boyer, Dominic C.
+oai:ecommons.cornell.edu:1813/30601	Yen, Andrew
+oai:ecommons.cornell.edu:1813/30602	Bisogni, Carole Ayres
+oai:ecommons.cornell.edu:1813/30603	Batt, Carl A
+oai:ecommons.cornell.edu:1813/30604	Alani, Eric E
+oai:ecommons.cornell.edu:1813/30605	Kudva, Neema
+oai:ecommons.cornell.edu:1813/30606	Sobal, Jeffery
+oai:ecommons.cornell.edu:1813/30607	Stedinger, Jery Russell
+oai:ecommons.cornell.edu:1813/30608	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/30609	Fry, William Earl
+oai:ecommons.cornell.edu:1813/30610	Richardson, Ruth E.
+oai:ecommons.cornell.edu:1813/30611	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/30612	Ndulo, Muna Baron
+oai:ecommons.cornell.edu:1813/30613	Eklund, Matti
+oai:ecommons.cornell.edu:1813/30614	Wagner, Aaron B.
+oai:ecommons.cornell.edu:1813/30615	Cerione, Richard A
+oai:ecommons.cornell.edu:1813/30616	Steen, Paul Herman
+oai:ecommons.cornell.edu:1813/30617	Marquis, Helene
+oai:ecommons.cornell.edu:1813/30618	Ehrenberg, Ronald Gordon
+oai:ecommons.cornell.edu:1813/30619	Sirer, Emin G.
+oai:ecommons.cornell.edu:1813/30620	Ceci, Stephen John
+oai:ecommons.cornell.edu:1813/30621	van de Walle, Nicolas
+oai:ecommons.cornell.edu:1813/30622	McCune, Amy R.
+oai:ecommons.cornell.edu:1813/30623	Wong, Sunn Shelley
+oai:ecommons.cornell.edu:1813/30624	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/30625	Nozick, Linda K.
+oai:ecommons.cornell.edu:1813/30626	Galloway, Andrew Scott
+oai:ecommons.cornell.edu:1813/30627	Pendall, Rolf J.
+oai:ecommons.cornell.edu:1813/30628	Haas, Jere Douglas
+oai:ecommons.cornell.edu:1813/30629	Tye, Sze-Hoi Henry
+oai:ecommons.cornell.edu:1813/30630	Richards, Annette
+oai:ecommons.cornell.edu:1813/30631	Peters, Scott
+oai:ecommons.cornell.edu:1813/30632	Batt, Carl A
+oai:ecommons.cornell.edu:1813/30633	Crawford, Barbara A
+oai:ecommons.cornell.edu:1813/30634	Brown, Kenneth Stephen
+oai:ecommons.cornell.edu:1813/30635	Nyrop, Jan Peter
+oai:ecommons.cornell.edu:1813/30636	Gossett, James Michael
+oai:ecommons.cornell.edu:1813/30637	Steen, Paul Herman
+oai:ecommons.cornell.edu:1813/30638	Hart, Stuart Lloyd
+oai:ecommons.cornell.edu:1813/30639	Ndulo, Muna B.
+oai:ecommons.cornell.edu:1813/30640	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/30641	Rossi, Frank S
+oai:ecommons.cornell.edu:1813/30642	Washington, Margaret
+oai:ecommons.cornell.edu:1813/30643	Davis, Harry Floyd
+oai:ecommons.cornell.edu:1813/30644	Worobo, Randy W.
+oai:ecommons.cornell.edu:1813/30645	Garcia, Ephrahim
+oai:ecommons.cornell.edu:1813/30646	Winans, Stephen C
+oai:ecommons.cornell.edu:1813/30647	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/30648	Bunce, Valerie Jane
+oai:ecommons.cornell.edu:1813/30649	Frey, Margaret W
+oai:ecommons.cornell.edu:1813/30650	Ashdown, Susan P
+oai:ecommons.cornell.edu:1813/30651	Bretscher, Anthony Paul
+oai:ecommons.cornell.edu:1813/30652	Teukolsky, Saul A
+oai:ecommons.cornell.edu:1813/30653	Bensel, Richard F
+oai:ecommons.cornell.edu:1813/30654	Lee, Siu Sylvia
+oai:ecommons.cornell.edu:1813/30655	Coates, Geoffrey
+oai:ecommons.cornell.edu:1813/30656	Williams, Linda Brooks
+oai:ecommons.cornell.edu:1813/30657	Pinet, Simone
+oai:ecommons.cornell.edu:1813/30658	Tauer, Loren William
+oai:ecommons.cornell.edu:1813/30659	Gillespie, Tarleton L.
+oai:ecommons.cornell.edu:1813/30660	Gainor, J Ellen
+oai:ecommons.cornell.edu:1813/30661	Blackburn, Anne M.
+oai:ecommons.cornell.edu:1813/30662	van de Walle, Nicolas
+oai:ecommons.cornell.edu:1813/30663	Ehrenberg, Ronald Gordon
+oai:ecommons.cornell.edu:1813/30664	Jones-Correa, Michael
+oai:ecommons.cornell.edu:1813/30665	Christopherson, Susan M
+oai:ecommons.cornell.edu:1813/30666	Fuchs, Marc F.
+oai:ecommons.cornell.edu:1813/30667	Canina, Linda
+oai:ecommons.cornell.edu:1813/30668	Tarrow, Sidney G
+oai:ecommons.cornell.edu:1813/30669	Cerione, Richard A
+oai:ecommons.cornell.edu:1813/30670	Hanson, Ellis
+oai:ecommons.cornell.edu:1813/30671	Rusmevichientong, Paat
+oai:ecommons.cornell.edu:1813/30672	Gilbert, Roger Stephen
+oai:ecommons.cornell.edu:1813/30673	Hopkins, Carl D
+oai:ecommons.cornell.edu:1813/30674	Shell, Karl
+oai:ecommons.cornell.edu:1813/30675	Baeumner, Antje J
+oai:ecommons.cornell.edu:1813/30676	Lehmann, C.Johannes
+oai:ecommons.cornell.edu:1813/30677	Ceci, Stephen John
+oai:ecommons.cornell.edu:1813/30678	Sherman, Paul Willard
+oai:ecommons.cornell.edu:1813/30679	Bustamante, Carlos D.
+oai:ecommons.cornell.edu:1813/30680	Engstrom, James R
+oai:ecommons.cornell.edu:1813/30681	Kiefer, Nicholas Maximillian
+oai:ecommons.cornell.edu:1813/30682	Tolbert, Pamela S
+oai:ecommons.cornell.edu:1813/30683	Hancock, Jeffrey T.
+oai:ecommons.cornell.edu:1813/30684	Resnick, Sidney Ira
+oai:ecommons.cornell.edu:1813/30685	Sturman, Michael Craig
+oai:ecommons.cornell.edu:1813/30686	Easley, David Alan
+oai:ecommons.cornell.edu:1813/30687	Shore, Richard A
+oai:ecommons.cornell.edu:1813/30688	Peck, Mason
+oai:ecommons.cornell.edu:1813/30689	Fajans, Jane
+oai:ecommons.cornell.edu:1813/30690	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/30691	Nicholson, Sean
+oai:ecommons.cornell.edu:1813/30692	Erickson, David
+oai:ecommons.cornell.edu:1813/30693	Seeley, Thomas Dyer
+oai:ecommons.cornell.edu:1813/30694	Sethna, James Patarasp
+oai:ecommons.cornell.edu:1813/30695	Samuels, Shirley R
+oai:ecommons.cornell.edu:1813/30696	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/30697	Pass, Rafael N.
+oai:ecommons.cornell.edu:1813/30698	Shapiro, Michael A
+oai:ecommons.cornell.edu:1813/30699	O'Connor, Kathleen M
+oai:ecommons.cornell.edu:1813/30700	Wicker, Stephen B.
+oai:ecommons.cornell.edu:1813/30701	Lust, Barbara Catherine
+oai:ecommons.cornell.edu:1813/30702	Schaffer, Chris
+oai:ecommons.cornell.edu:1813/30703	Lipson, Michal
+oai:ecommons.cornell.edu:1813/30704	Rodriguez-Garcia, Jose M.
+oai:ecommons.cornell.edu:1813/30705	Coates, Geoffrey
+oai:ecommons.cornell.edu:1813/30706	Raskolnikov, Masha
+oai:ecommons.cornell.edu:1813/30707	Padilla-Zakour, Olga I.
+oai:ecommons.cornell.edu:1813/30708	Utermohlen, Virginia
+oai:ecommons.cornell.edu:1813/30709	Stoltzfus, Rebecca Joyce
+oai:ecommons.cornell.edu:1813/30710	Peeva, Irena Vassileva
+oai:ecommons.cornell.edu:1813/30711	Galton, David Malcolm
+oai:ecommons.cornell.edu:1813/30712	Kessler, Andre
+oai:ecommons.cornell.edu:1813/30713	Grohn, Yrjo Tapio
+oai:ecommons.cornell.edu:1813/30714	Cowen III, Edwin Alfred
+oai:ecommons.cornell.edu:1813/30715	Soderlund, David Matthew
+oai:ecommons.cornell.edu:1813/30716	Rusten, Jeffrey S
+oai:ecommons.cornell.edu:1813/30717	Richards, Annette
+oai:ecommons.cornell.edu:1813/30718	Eloundou-Enyegue, Parfait  M.
+oai:ecommons.cornell.edu:1813/30719	Wolf, Steven A.
+oai:ecommons.cornell.edu:1813/30720	Brann, Ross
+oai:ecommons.cornell.edu:1813/30721	Goncalo, Jack A.
+oai:ecommons.cornell.edu:1813/30722	Mueller, Erich
+oai:ecommons.cornell.edu:1813/30723	Hill, Thomas Dana
+oai:ecommons.cornell.edu:1813/30724	Pond, Steven F.
+oai:ecommons.cornell.edu:1813/30725	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/30726	Parker, Alan R.
+oai:ecommons.cornell.edu:1813/30727	Goldstein, Michael H.
+oai:ecommons.cornell.edu:1813/30728	Nelson, Rebecca J.
+oai:ecommons.cornell.edu:1813/30729	Wicker, Stephen B.
+oai:ecommons.cornell.edu:1813/30730	Lagoze, Carl Jay
+oai:ecommons.cornell.edu:1813/30731	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/30732	Gao, Huaizhu
+oai:ecommons.cornell.edu:1813/30733	Hyams, Paul R
+oai:ecommons.cornell.edu:1813/30734	Christini, David
+oai:ecommons.cornell.edu:1813/30735	Eloundou-Enyegue, Parfait  M.
+oai:ecommons.cornell.edu:1813/30736	Webb, Watt Wetmore
+oai:ecommons.cornell.edu:1813/30737	Bretscher, Anthony Paul
+oai:ecommons.cornell.edu:1813/30738	Clark, Andrew
+oai:ecommons.cornell.edu:1813/30739	D'Souza, Julia
+oai:ecommons.cornell.edu:1813/30740	Hopcroft, John E
+oai:ecommons.cornell.edu:1813/30741	Van Renesse, Robbert
+oai:ecommons.cornell.edu:1813/30742	Razin, Assaf
+oai:ecommons.cornell.edu:1813/30743	Razin, Assaf
+oai:ecommons.cornell.edu:1813/30744	Tye, Sze-Hoi Henry
+oai:ecommons.cornell.edu:1813/30745	Conrad, Jon M
+oai:ecommons.cornell.edu:1813/30746	Bosteels, Bruno
+oai:ecommons.cornell.edu:1813/30747	Peraino, Judith Ann
+oai:ecommons.cornell.edu:1813/30748	Enz, Cathy Ann
+oai:ecommons.cornell.edu:1813/30749	Vatamaniuk, Olena K
+oai:ecommons.cornell.edu:1813/30750	Culler, Jonathan Dwight
+oai:ecommons.cornell.edu:1813/30751	Pinstrup-Anderson, Per
+oai:ecommons.cornell.edu:1813/30752	Friedman, Eric J.
+oai:ecommons.cornell.edu:1813/30753	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/30754	Van Renesse, Robbert
+oai:ecommons.cornell.edu:1813/30755	Guckenheimer, John Mark
+oai:ecommons.cornell.edu:1813/30756	Winkler, David Ward
+oai:ecommons.cornell.edu:1813/30757	Csaki, Csaba
+oai:ecommons.cornell.edu:1813/30758	Chan, Garnet
+oai:ecommons.cornell.edu:1813/30759	Stillman, Michael Eugene
+oai:ecommons.cornell.edu:1813/30760	Fussell, Susan R.
+oai:ecommons.cornell.edu:1813/30761	Galloway, Andrew Scott
+oai:ecommons.cornell.edu:1813/30762	Marohn, John A.
+oai:ecommons.cornell.edu:1813/30763	Schaffer, Chris
+oai:ecommons.cornell.edu:1813/30764	Lipson, Michal
+oai:ecommons.cornell.edu:1813/30765	Peeva, Irena Vassileva
+oai:ecommons.cornell.edu:1813/30766	Lipson, Michal
+oai:ecommons.cornell.edu:1813/30767	Verma, Rohit
+oai:ecommons.cornell.edu:1813/30768	Afshari, Ehsan
+oai:ecommons.cornell.edu:1813/30769	Vogtmann, Karen L
+oai:ecommons.cornell.edu:1813/30770	Shore, Richard A
+oai:ecommons.cornell.edu:1813/30771	Hammer, David A.
+oai:ecommons.cornell.edu:1813/30772	Leclair, Andre Roger
+oai:ecommons.cornell.edu:1813/30773	Clancy, Paulette
+oai:ecommons.cornell.edu:1813/30774	Saloff-Coste, Laurent Pascal
+oai:ecommons.cornell.edu:1813/30775	Durrett, Richard Timothy
+oai:ecommons.cornell.edu:1813/30776	Durrett, Richard Timothy
+oai:ecommons.cornell.edu:1813/30777	Reyna, Valerie
+oai:ecommons.cornell.edu:1813/30778	Macy, Michael Walton
+oai:ecommons.cornell.edu:1813/30779	Pass, Rafael N.
+oai:ecommons.cornell.edu:1813/30780	Alexander, James Paul
+oai:ecommons.cornell.edu:1813/30781	Zhang, Ke
+oai:ecommons.cornell.edu:1813/30782	Elser, Veit
+oai:ecommons.cornell.edu:1813/30783	Jackson, Peter
+oai:ecommons.cornell.edu:1813/30784	Hong, Yongmiao
+oai:ecommons.cornell.edu:1813/30785	Rooth, Mats
+oai:ecommons.cornell.edu:1813/30963	Caudill, Marie A.
+oai:ecommons.cornell.edu:1813/30964	Miller, Dennis Dean
+oai:ecommons.cornell.edu:1813/30965	Martin, Gregory B
+oai:ecommons.cornell.edu:1813/30966	Rebillard, Eric
+oai:ecommons.cornell.edu:1813/30967	Nixon, Alan J
+oai:ecommons.cornell.edu:1813/30968	Stern, David
+oai:ecommons.cornell.edu:1813/30969	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/30970	Mount, Timothy Douglas
+oai:ecommons.cornell.edu:1813/30971	Finley, Cheryl
+oai:ecommons.cornell.edu:1813/30972	Fahey, Timothy James
+oai:ecommons.cornell.edu:1813/30973	Hausknecht, John P.
+oai:ecommons.cornell.edu:1813/30974	Hassan, Salah
+oai:ecommons.cornell.edu:1813/30975	Villenas, Sofia A
+oai:ecommons.cornell.edu:1813/30976	Reyna, Valerie
+oai:ecommons.cornell.edu:1813/30977	Reyna, Valerie
+oai:ecommons.cornell.edu:1813/30978	Berger, Anne Emanuelle
+oai:ecommons.cornell.edu:1813/30979	Wolfner, Mariana Federica
+oai:ecommons.cornell.edu:1813/30980	Moraru, Carmen I
+oai:ecommons.cornell.edu:1813/30981	Crane, Brian
+oai:ecommons.cornell.edu:1813/30982	Cardie, Claire T
+oai:ecommons.cornell.edu:1813/30983	Wolfner, Mariana Federica
+oai:ecommons.cornell.edu:1813/30984	Escobedo, Fernando
+oai:ecommons.cornell.edu:1813/30985	Samuels, Shirley R
+oai:ecommons.cornell.edu:1813/30986	Apsel, Alyssa B.
+oai:ecommons.cornell.edu:1813/30987	Dickinson, Janis Lou
+oai:ecommons.cornell.edu:1813/30988	Hairston Jr, Nelson George
+oai:ecommons.cornell.edu:1813/30989	Fernandez, Maria
+oai:ecommons.cornell.edu:1813/30990	Rusmevichientong, Paat
+oai:ecommons.cornell.edu:1813/30991	Lee, Lillian Jane
+oai:ecommons.cornell.edu:1813/30992	Mukherjee, Subrata
+oai:ecommons.cornell.edu:1813/30993	Delisa, Matthew
+oai:ecommons.cornell.edu:1813/30994	Molnar, Alyosha Christopher
+oai:ecommons.cornell.edu:1813/30995	Van Es, Harold Mathijs
+oai:ecommons.cornell.edu:1813/30996	Jordan, Teresa Eileen
+oai:ecommons.cornell.edu:1813/30997	Chen, Tsuhan
+oai:ecommons.cornell.edu:1813/30998	Kassam, Karim-Aly Saleh
+oai:ecommons.cornell.edu:1813/30999	Park, Young-Hoon
+oai:ecommons.cornell.edu:1813/31000	Rand, Richard Herbert
+oai:ecommons.cornell.edu:1813/31001	Gilbert, Robert Owen
+oai:ecommons.cornell.edu:1813/31002	Jackson, Peter
+oai:ecommons.cornell.edu:1813/31003	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/31004	Taylor, Keith Weller
+oai:ecommons.cornell.edu:1813/31005	Manohar, Rajit
+oai:ecommons.cornell.edu:1813/31006	Ehrenberg, Ronald Gordon
+oai:ecommons.cornell.edu:1813/31007	Flaminio, Maria Julia Bevilaqua Felippe
+oai:ecommons.cornell.edu:1813/31008	Grinstein, Yaniv
+oai:ecommons.cornell.edu:1813/31009	Mettler, Suzanne Bridget
+oai:ecommons.cornell.edu:1813/31010	Archer, Lynden  A.
+oai:ecommons.cornell.edu:1813/31011	Bonassar, Lawrence
+oai:ecommons.cornell.edu:1813/31012	Molinari, Francesca
+oai:ecommons.cornell.edu:1813/31013	McAllister, Liam
+oai:ecommons.cornell.edu:1813/31014	Williams, Linda Brooks
+oai:ecommons.cornell.edu:1813/31015	McNeal, Robin
+oai:ecommons.cornell.edu:1813/31016	Resnick, Sidney Ira
+oai:ecommons.cornell.edu:1813/31017	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/31018	Nelson, Eric Bronson
+oai:ecommons.cornell.edu:1813/31019	Rayor, Linda Susan
+oai:ecommons.cornell.edu:1813/31020	Waldman, Michael
+oai:ecommons.cornell.edu:1813/31021	Reiners, Stephen
+oai:ecommons.cornell.edu:1813/31022	Kenkel, Donald S.
+oai:ecommons.cornell.edu:1813/31023	Mueller, Erich
+oai:ecommons.cornell.edu:1813/31024	Jirousek, Charlotte Ann
+oai:ecommons.cornell.edu:1813/31025	Fischbach, Claudia
+oai:ecommons.cornell.edu:1813/31026	Buhrman, Robert A
+oai:ecommons.cornell.edu:1813/31027	Just, David R.
+oai:ecommons.cornell.edu:1813/31028	Coates, Geoffrey
+oai:ecommons.cornell.edu:1813/31029	Hencey, Brandon M.
+oai:ecommons.cornell.edu:1813/31030	Hallock, Kevin F.
+oai:ecommons.cornell.edu:1813/31031	Gilmour Jr., Robert F
+oai:ecommons.cornell.edu:1813/31032	Lacapra, Dominick C
+oai:ecommons.cornell.edu:1813/31033	Stoltzfus, Rebecca Joyce
+oai:ecommons.cornell.edu:1813/31034	Sassler, Sharon
+oai:ecommons.cornell.edu:1813/31035	Kan, Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/31036	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/31037	Tester, Jefferson William
+oai:ecommons.cornell.edu:1813/31038	Sakai, Naoki
+oai:ecommons.cornell.edu:1813/31039	Shmoys, David B
+oai:ecommons.cornell.edu:1813/31040	Gu, Zhenglong
+oai:ecommons.cornell.edu:1813/31041	Hysell, David Lee
+oai:ecommons.cornell.edu:1813/31042	Barbano, David Mark
+oai:ecommons.cornell.edu:1813/31043	Henderson, John S.
+oai:ecommons.cornell.edu:1813/31044	Lacapra, Dominick C
+oai:ecommons.cornell.edu:1813/31045	Logevall, Fredrik
+oai:ecommons.cornell.edu:1813/31046	Hopcroft, John E
+oai:ecommons.cornell.edu:1813/31047	Hunter, Jean B
+oai:ecommons.cornell.edu:1813/31048	Strichartz, Robert Stephen
+oai:ecommons.cornell.edu:1813/31049	Buckler, Edward S
+oai:ecommons.cornell.edu:1813/31050	Reeve, Hudson Kern
+oai:ecommons.cornell.edu:1813/31051	Grossman, Yuval
+oai:ecommons.cornell.edu:1813/31052	Christiansen, Morten H.
+oai:ecommons.cornell.edu:1813/31053	Simon, Kosali I.
+oai:ecommons.cornell.edu:1813/31054	Gilovich, Thomas Dashiff
+oai:ecommons.cornell.edu:1813/31055	Ferguson, Melissa J.
+oai:ecommons.cornell.edu:1813/31057	Gavirneni, Srinagesh
+oai:ecommons.cornell.edu:1813/31058	Gomez, Miguel I.
+oai:ecommons.cornell.edu:1813/31059	Muckstadt, John Anthony
+oai:ecommons.cornell.edu:1813/31060	Zinder, Stephen H
+oai:ecommons.cornell.edu:1813/31061	Hua, Ying
+oai:ecommons.cornell.edu:1813/31062	Chirik, Paul
+oai:ecommons.cornell.edu:1813/31063	Angenent, Largus
+oai:ecommons.cornell.edu:1813/31064	Stayman, Douglas M.
+oai:ecommons.cornell.edu:1813/31065	Wiesner, Ulrich B.
+oai:ecommons.cornell.edu:1813/31066	Masson, Robert Tempest
+oai:ecommons.cornell.edu:1813/31067	Boyer, George R
+oai:ecommons.cornell.edu:1813/31068	Walker, Larry P
+oai:ecommons.cornell.edu:1813/31069	Saloff-Coste, Laurent Pascal
+oai:ecommons.cornell.edu:1813/31070	Samuels, Shirley R
+oai:ecommons.cornell.edu:1813/31071	Worobo, Randy W.
+oai:ecommons.cornell.edu:1813/31072	Muckstadt, John Anthony
+oai:ecommons.cornell.edu:1813/31073	Lehmann, Christopher Johannes
+oai:ecommons.cornell.edu:1813/31074	Lazzaro, Claudia
+oai:ecommons.cornell.edu:1813/31075	Brown, William J
+oai:ecommons.cornell.edu:1813/31076	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/31077	Roberson, Mark Stephen
+oai:ecommons.cornell.edu:1813/31078	Wang, Yi
+oai:ecommons.cornell.edu:1813/31079	Sparks, Jed P.
+oai:ecommons.cornell.edu:1813/31080	Warner, Derek H.
+oai:ecommons.cornell.edu:1813/31081	Norton, Mary Beth
+oai:ecommons.cornell.edu:1813/31082	Buck-Morss, Susan
+oai:ecommons.cornell.edu:1813/31083	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/31084	Starr, Deborah A.
+oai:ecommons.cornell.edu:1813/31085	Moraru, Carmen I
+oai:ecommons.cornell.edu:1813/31086	Lipson, Michal
+oai:ecommons.cornell.edu:1813/31087	Buhrman, Robert A
+oai:ecommons.cornell.edu:1813/31088	Peck, Mason
+oai:ecommons.cornell.edu:1813/31089	Forester, John F
+oai:ecommons.cornell.edu:1813/31090	McComas, Katherine Anne
+oai:ecommons.cornell.edu:1813/31091	Lehmann, C.Johannes
+oai:ecommons.cornell.edu:1813/31092	Ruppert, David
+oai:ecommons.cornell.edu:1813/31093	Ke, Ailong
+oai:ecommons.cornell.edu:1813/31094	Obendorf, Sharon Kay
+oai:ecommons.cornell.edu:1813/31095	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/31096	Loring, Roger F
+oai:ecommons.cornell.edu:1813/31097	Pelliccia, Hayden Newhall
+oai:ecommons.cornell.edu:1813/31098	Webster, James
+oai:ecommons.cornell.edu:1813/31099	Shaw, Harry Edmund
+oai:ecommons.cornell.edu:1813/31100	Evans, Gary William
+oai:ecommons.cornell.edu:1813/31101	Holm, Tara S.
+oai:ecommons.cornell.edu:1813/31102	Lichter, Daniel T.
+oai:ecommons.cornell.edu:1813/31103	Schimenti, John C.
+oai:ecommons.cornell.edu:1813/31104	Cohen, Itai
+oai:ecommons.cornell.edu:1813/31105	Resnick, Sidney Ira
+oai:ecommons.cornell.edu:1813/31106	Bosteels, Bruno
+oai:ecommons.cornell.edu:1813/31107	Bento, Antonio Miguel R.
+oai:ecommons.cornell.edu:1813/31108	Lazzaro, Brian
+oai:ecommons.cornell.edu:1813/31109	Wu, Mingming
+oai:ecommons.cornell.edu:1813/31110	Tang, Ao
+oai:ecommons.cornell.edu:1813/31111	Apsel, Alyssa B.
+oai:ecommons.cornell.edu:1813/31112	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/31113	Appleton, Judith Ann
+oai:ecommons.cornell.edu:1813/31114	Lis, John T
+oai:ecommons.cornell.edu:1813/31115	Flanagan, Eanna E
+oai:ecommons.cornell.edu:1813/31116	Kozen, Dexter Campbell
+oai:ecommons.cornell.edu:1813/31117	Hui, Chung-Yuen
+oai:ecommons.cornell.edu:1813/31118	Mount, Timothy Douglas
+oai:ecommons.cornell.edu:1813/31119	Berest, Yuri
+oai:ecommons.cornell.edu:1813/31120	Hua, Ying
+oai:ecommons.cornell.edu:1813/31121	Silbey, Joel H
+oai:ecommons.cornell.edu:1813/31122	Emr, Scott David
+oai:ecommons.cornell.edu:1813/31123	Coates, Geoffrey
+oai:ecommons.cornell.edu:1813/31124	Nussbaum, Michael
+oai:ecommons.cornell.edu:1813/31125	Guckenheimer, John Mark
+oai:ecommons.cornell.edu:1813/31126	Jenkins, James Thomas
+oai:ecommons.cornell.edu:1813/31127	Calderone, Nicholas W
+oai:ecommons.cornell.edu:1813/31128	van de Walle, Nicolas
+oai:ecommons.cornell.edu:1813/31129	Dieckmann, Rudiger
+oai:ecommons.cornell.edu:1813/31130	Just, David R.
+oai:ecommons.cornell.edu:1813/31131	Craib, Raymond B.
+oai:ecommons.cornell.edu:1813/31132	Peters, H. Elizabeth
+oai:ecommons.cornell.edu:1813/31133	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/31134	Wilson, Arthur L.
+oai:ecommons.cornell.edu:1813/31135	Bosteels, Bruno
+oai:ecommons.cornell.edu:1813/31136	Forester, John F
+oai:ecommons.cornell.edu:1813/31137	Wells, Martin Timothy
+oai:ecommons.cornell.edu:1813/31138	Selman, Bart
+oai:ecommons.cornell.edu:1813/31139	Jin, Moonsoo
+oai:ecommons.cornell.edu:1813/31140	Parker, Robert Stanley
+oai:ecommons.cornell.edu:1813/31141	Sacks, Gavin Lavi
+oai:ecommons.cornell.edu:1813/31142	Hinestroza, Juan
+oai:ecommons.cornell.edu:1813/31143	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/31144	Kuruvilla, Sarosh C
+oai:ecommons.cornell.edu:1813/31145	Frazier, Peter
+oai:ecommons.cornell.edu:1813/31146	Dhondt, Andre Alfons
+oai:ecommons.cornell.edu:1813/31147	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/31148	Samuels, Shirley R
+oai:ecommons.cornell.edu:1813/31149	Rickard, Bradley J.
+oai:ecommons.cornell.edu:1813/31150	Elliott, John Jack R.
+oai:ecommons.cornell.edu:1813/31151	Hong, Yongmiao
+oai:ecommons.cornell.edu:1813/31152	Riles, Annelise
+oai:ecommons.cornell.edu:1813/31153	Wise, Frank William
+oai:ecommons.cornell.edu:1813/31154	Tiwari, Sandip
+oai:ecommons.cornell.edu:1813/31155	Dhondt, Andre Alfons
+oai:ecommons.cornell.edu:1813/31156	Chau, Ho Yan
+oai:ecommons.cornell.edu:1813/31157	Coates, Geoffrey
+oai:ecommons.cornell.edu:1813/31158	Bedford, Barbara Lynn
+oai:ecommons.cornell.edu:1813/31159	Lazzaro, Brian
+oai:ecommons.cornell.edu:1813/31160	Cerione, Richard A
+oai:ecommons.cornell.edu:1813/31161	Razin, Assaf
+oai:ecommons.cornell.edu:1813/31162	Basu, Kaushik
+oai:ecommons.cornell.edu:1813/31163	Suarez, Susan Stevens
+oai:ecommons.cornell.edu:1813/31164	Fajans, Jane
+oai:ecommons.cornell.edu:1813/31165	Sierra, Roberto
+oai:ecommons.cornell.edu:1813/31166	Fisher, William L.
+oai:ecommons.cornell.edu:1813/31167	Casasola, Marianella
+oai:ecommons.cornell.edu:1813/31168	Schaffer, Chris
+oai:ecommons.cornell.edu:1813/31169	Lacapra, Dominick C
+oai:ecommons.cornell.edu:1813/31170	Feldman, Shelley
+oai:ecommons.cornell.edu:1813/31171	Goncalo, Jack A.
+oai:ecommons.cornell.edu:1813/31172	Lipson, Michal
+oai:ecommons.cornell.edu:1813/31173	Wise, Frank William
+oai:ecommons.cornell.edu:1813/31174	Afshari, Ehsan
+oai:ecommons.cornell.edu:1813/31175	McGowan, Kaja Maria
+oai:ecommons.cornell.edu:1813/31176	Gunn, Edward Mansfield
+oai:ecommons.cornell.edu:1813/31177	Jin, Moonsoo
+oai:ecommons.cornell.edu:1813/31178	Crane, Brian
+oai:ecommons.cornell.edu:1813/31179	Cohen, Paula
+oai:ecommons.cornell.edu:1813/31180	Karolyi, George Andrew
+oai:ecommons.cornell.edu:1813/31181	Lemley, Ann Theresa
+oai:ecommons.cornell.edu:1813/31182	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/31183	Apsel, Alyssa B.
+oai:ecommons.cornell.edu:1813/31184	Gaur, Vishal
+oai:ecommons.cornell.edu:1813/31185	Just, David R.
+oai:ecommons.cornell.edu:1813/31186	Giannelis, Emmanuel P
+oai:ecommons.cornell.edu:1813/31187	Vogt, Volker M
+oai:ecommons.cornell.edu:1813/31188	Lal, Amit
+oai:ecommons.cornell.edu:1813/31189	Afshari, Ehsan
+oai:ecommons.cornell.edu:1813/31190	Hammer, Tove Helland
+oai:ecommons.cornell.edu:1813/31191	Grossman, Yuval
+oai:ecommons.cornell.edu:1813/31192	Pollack, Lois
+oai:ecommons.cornell.edu:1813/31193	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/31194	Fox, Thomas David
+oai:ecommons.cornell.edu:1813/31195	Nelson, Eric Bronson
+oai:ecommons.cornell.edu:1813/31196	Woods, Mary Norman
+oai:ecommons.cornell.edu:1813/31197	Walker, Larry P
+oai:ecommons.cornell.edu:1813/31198	Doerschuk, Peter
+oai:ecommons.cornell.edu:1813/31199	Lipson, Hod
+oai:ecommons.cornell.edu:1813/31200	Ralph, Daniel C
+oai:ecommons.cornell.edu:1813/31201	James, Douglas Leonard
+oai:ecommons.cornell.edu:1813/31202	Zehnder, Alan Taylor
+oai:ecommons.cornell.edu:1813/31203	Boor, Kathryn Jean
+oai:ecommons.cornell.edu:1813/31204	Batt, Carl A
+oai:ecommons.cornell.edu:1813/31205	Dunning, David Alan
+oai:ecommons.cornell.edu:1813/31206	Tester, Jefferson William
+oai:ecommons.cornell.edu:1813/31207	Webster Jr, Michael Stilson
+oai:ecommons.cornell.edu:1813/31208	Sjamaar, Reyer
+oai:ecommons.cornell.edu:1813/31209	Winans, Stephen C
+oai:ecommons.cornell.edu:1813/31210	Deitcher, David Lawrence
+oai:ecommons.cornell.edu:1813/31211	Gruner, Sol Michael
+oai:ecommons.cornell.edu:1813/31212	Kusse, Bruce Raymond
+oai:ecommons.cornell.edu:1813/31213	Stedman, Richard Clark
+oai:ecommons.cornell.edu:1813/31214	Lazzaro, Brian
+oai:ecommons.cornell.edu:1813/31215	Bowers, John S
+oai:ecommons.cornell.edu:1813/31216	Vogtmann, Karen L
+oai:ecommons.cornell.edu:1813/31217	Manning, Sturt
+oai:ecommons.cornell.edu:1813/31218	Bento, Antonio Miguel R.
+oai:ecommons.cornell.edu:1813/31219	Wise, Frank William
+oai:ecommons.cornell.edu:1813/31220	Lion, Leonard William
+oai:ecommons.cornell.edu:1813/31221	Netravali, Anil Narayan
+oai:ecommons.cornell.edu:1813/31222	Hammer, David A.
+oai:ecommons.cornell.edu:1813/31223	Allmon, Warren Douglas
+oai:ecommons.cornell.edu:1813/31224	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/31225	Lion, Leonard William
+oai:ecommons.cornell.edu:1813/31226	Myers, Andrew C.
+oai:ecommons.cornell.edu:1813/31227	Kusse, Bruce Raymond
+oai:ecommons.cornell.edu:1813/31228	Gilbert, Roger Stephen
+oai:ecommons.cornell.edu:1813/31229	Fajans, Jane
+oai:ecommons.cornell.edu:1813/31230	Lohman, Rowena B.
+oai:ecommons.cornell.edu:1813/31231	Kelley, Michael Charles
+oai:ecommons.cornell.edu:1813/31232	Kemphues, Kenneth J
+oai:ecommons.cornell.edu:1813/31233	Lichter, Daniel T.
+oai:ecommons.cornell.edu:1813/31234	Whitman, John
+oai:ecommons.cornell.edu:1813/31235	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/31236	Stedinger, Jery Russell
+oai:ecommons.cornell.edu:1813/31237	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/31238	Dieckmann, Rudiger
+oai:ecommons.cornell.edu:1813/31371	Rutger, J. Neil
+oai:ecommons.cornell.edu:1813/31373	Sirer, Emin G.
+oai:ecommons.cornell.edu:1813/31374	Mezey, Jason G.
+oai:ecommons.cornell.edu:1813/31375	Lehmann, Christopher Johannes
+oai:ecommons.cornell.edu:1813/31376	Scott, Jeffrey Graham
+oai:ecommons.cornell.edu:1813/31377	Pendall, Rolf J.
+oai:ecommons.cornell.edu:1813/31378	Jarrow, Robert A.
+oai:ecommons.cornell.edu:1813/31379	Gehrke, Johannes E.
+oai:ecommons.cornell.edu:1813/31380	Howarth, Robert Warren
+oai:ecommons.cornell.edu:1813/31381	Hua, Ying
+oai:ecommons.cornell.edu:1813/31382	Kassam, Karim-Aly Saleh
+oai:ecommons.cornell.edu:1813/31383	McEuen, Paul L.
+oai:ecommons.cornell.edu:1813/31384	Ruina, Andy Lee
+oai:ecommons.cornell.edu:1813/31385	McAllister, Liam
+oai:ecommons.cornell.edu:1813/31386	Thaler, Jennifer S.
+oai:ecommons.cornell.edu:1813/31387	Lis, John T
+oai:ecommons.cornell.edu:1813/31388	Bhave, Sunil A.
+oai:ecommons.cornell.edu:1813/31389	Russo, J. Edward
+oai:ecommons.cornell.edu:1813/31390	Nasrallah, June Bowman
+oai:ecommons.cornell.edu:1813/31391	Kennedy, William John
+oai:ecommons.cornell.edu:1813/31392	Merwin, Ian Alexander
+oai:ecommons.cornell.edu:1813/31393	Acree, Terry Edward
+oai:ecommons.cornell.edu:1813/31394	Davisson, Robin L
+oai:ecommons.cornell.edu:1813/31395	Wagner, Aaron B.
+oai:ecommons.cornell.edu:1813/31396	Chen, Peng
+oai:ecommons.cornell.edu:1813/31397	Allmendinger, Richard Waldron
+oai:ecommons.cornell.edu:1813/31398	Molnar, Alyosha Christopher
+oai:ecommons.cornell.edu:1813/31399	Brown, Laura Schaefer
+oai:ecommons.cornell.edu:1813/31400	Hill, Thomas Dana
+oai:ecommons.cornell.edu:1813/31401	Craighead, Harold G
+oai:ecommons.cornell.edu:1813/31402	Pfeffer, Max John
+oai:ecommons.cornell.edu:1813/31403	Thies, Janice E.
+oai:ecommons.cornell.edu:1813/31404	Garcia-Garcia, Maria J
+oai:ecommons.cornell.edu:1813/31405	Elliott, John Jack R.
+oai:ecommons.cornell.edu:1813/31406	McComas, Katherine Anne
+oai:ecommons.cornell.edu:1813/31407	Pawlowski, Wojciech
+oai:ecommons.cornell.edu:1813/31408	Hirsh, Charlotte Elizabeth
+oai:ecommons.cornell.edu:1813/31409	McNulty, Tracy K.
+oai:ecommons.cornell.edu:1813/31410	Mansfield, Anna K.
+oai:ecommons.cornell.edu:1813/31411	Yan, Haiping
+oai:ecommons.cornell.edu:1813/31412	Curtis, Paul D
+oai:ecommons.cornell.edu:1813/31413	Sparks, Jed P.
+oai:ecommons.cornell.edu:1813/31414	Kleinberg, Jon M
+oai:ecommons.cornell.edu:1813/31415	Degloria, Stephen Daniel
+oai:ecommons.cornell.edu:1813/31416	Brittain, Charles Francis
+oai:ecommons.cornell.edu:1813/31417	Stucky, Steven Edward
+oai:ecommons.cornell.edu:1813/31418	de Gorter, Harry
+oai:ecommons.cornell.edu:1813/31419	Cheng, Lailiang
+oai:ecommons.cornell.edu:1813/31420	Umrigar, Cyrus Jehangir
+oai:ecommons.cornell.edu:1813/31421	Miyazaki, Hirokazu
+oai:ecommons.cornell.edu:1813/31422	Olbricht, William Lee
+oai:ecommons.cornell.edu:1813/31423	Shmoys, David B
+oai:ecommons.cornell.edu:1813/31424	Besharov, Marya L.
+oai:ecommons.cornell.edu:1813/31425	de Bary, Brett
+oai:ecommons.cornell.edu:1813/31426	Koch, Donald L
+oai:ecommons.cornell.edu:1813/31427	McCouch, Susan Rutherford
+oai:ecommons.cornell.edu:1813/31428	Bean, Rachel E.
+oai:ecommons.cornell.edu:1813/31429	Van Dover, Robert B.
+oai:ecommons.cornell.edu:1813/31430	Willford, Andrew C.
+oai:ecommons.cornell.edu:1813/31431	Diamessis, Peter J.
+oai:ecommons.cornell.edu:1813/31432	Gilbert, Roger Stephen
+oai:ecommons.cornell.edu:1813/31433	Xu, Chunhui
+oai:ecommons.cornell.edu:1813/31434	Leifer, Cynthia Anne
+oai:ecommons.cornell.edu:1813/31435	Psiaki, Mark Lockwood
+oai:ecommons.cornell.edu:1813/31436	Kenkel, Donald S.
+oai:ecommons.cornell.edu:1813/31437	Delisa, Matthew
+oai:ecommons.cornell.edu:1813/31438	Loos, Tamara
+oai:ecommons.cornell.edu:1813/31439	Lieberwitz, Risa L
+oai:ecommons.cornell.edu:1813/31440	Van Wijk, Klaas
+oai:ecommons.cornell.edu:1813/31441	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/31442	DiTommaso, Antonio
+oai:ecommons.cornell.edu:1813/31443	Masson, Robert Tempest
+oai:ecommons.cornell.edu:1813/31444	King, Cynthia A.
+oai:ecommons.cornell.edu:1813/31445	Nicholson, Sean
+oai:ecommons.cornell.edu:1813/31446	Saar, Gideon
+oai:ecommons.cornell.edu:1813/31447	Lee, Ji-Young
+oai:ecommons.cornell.edu:1813/31448	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/31449	MacDonald, Scott C.
+oai:ecommons.cornell.edu:1813/31450	Krasny, Marianne Elizabeth
+oai:ecommons.cornell.edu:1813/31451	Hammer, Tove Helland
+oai:ecommons.cornell.edu:1813/31452	Libby, Robert
+oai:ecommons.cornell.edu:1813/31453	Strang, David
+oai:ecommons.cornell.edu:1813/31454	Willford, Andrew C.
+oai:ecommons.cornell.edu:1813/31455	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/31456	Sengers, Phoebe J.
+oai:ecommons.cornell.edu:1813/31457	Utermohlen, Virginia
+oai:ecommons.cornell.edu:1813/31458	Hirschl, Thomas A
+oai:ecommons.cornell.edu:1813/31459	Garcia, Ephrahim
+oai:ecommons.cornell.edu:1813/31460	Stedman, Richard Clark
+oai:ecommons.cornell.edu:1813/31461	Villenas, Sofia A
+oai:ecommons.cornell.edu:1813/31462	Mohammed, Hussni Omar
+oai:ecommons.cornell.edu:1813/31463	Lichter, Daniel T.
+oai:ecommons.cornell.edu:1813/31464	Abowd, John Maron
+oai:ecommons.cornell.edu:1813/31465	Pfeffer, Max John
+oai:ecommons.cornell.edu:1813/31466	English-Loeb, Gregory M.
+oai:ecommons.cornell.edu:1813/31467	Fiskesjo, N Magnus G
+oai:ecommons.cornell.edu:1813/31468	Gierasch, Peter Jay
+oai:ecommons.cornell.edu:1813/31469	Ferguson, Melissa J.
+oai:ecommons.cornell.edu:1813/31470	Shmoys, David B
+oai:ecommons.cornell.edu:1813/31471	Nozick, Linda K.
+oai:ecommons.cornell.edu:1813/31472	Archer, Lynden  A.
+oai:ecommons.cornell.edu:1813/31473	Nydam, Daryl Van
+oai:ecommons.cornell.edu:1813/31474	Mansury, Yuri Surtadi
+oai:ecommons.cornell.edu:1813/31475	Kay, Suzanne Mahlburg
+oai:ecommons.cornell.edu:1813/31476	Van Wijk, Klaas
+oai:ecommons.cornell.edu:1813/31477	Cochran, Sherman Gilbert
+oai:ecommons.cornell.edu:1813/31478	Reisch, Bruce Irving
+oai:ecommons.cornell.edu:1813/31479	Blau, Francine D
+oai:ecommons.cornell.edu:1813/31480	Liu, Rui Hai
+oai:ecommons.cornell.edu:1813/31481	Munasinghe, Viranjini P
+oai:ecommons.cornell.edu:1813/31482	Streeter, Deborah H
+oai:ecommons.cornell.edu:1813/31483	Lawler, Edward J
+oai:ecommons.cornell.edu:1813/31484	MacDonald, Scott C.
+oai:ecommons.cornell.edu:1813/31485	Padilla-Zakour, Olga I.
+oai:ecommons.cornell.edu:1813/31486	Kessler, Andre
+oai:ecommons.cornell.edu:1813/31487	Agrawal, Anurag
+oai:ecommons.cornell.edu:1813/31488	Cathles, Lawrence M
+oai:ecommons.cornell.edu:1813/31489	Mount, Timothy Douglas
+oai:ecommons.cornell.edu:1813/31490	Collum, David B
+oai:ecommons.cornell.edu:1813/31491	Frey, Margaret W
+oai:ecommons.cornell.edu:1813/31492	Culler, Jonathan Dwight
+oai:ecommons.cornell.edu:1813/31493	Stucky, Steven Edward
+oai:ecommons.cornell.edu:1813/31494	McNulty, Tracy K.
+oai:ecommons.cornell.edu:1813/31495	Vanden Heuvel, Justine E.
+oai:ecommons.cornell.edu:1813/31496	Wolford, Wendy W.
+oai:ecommons.cornell.edu:1813/31497	Lee, Siu Sylvia
+oai:ecommons.cornell.edu:1813/31498	Luo, Dan
+oai:ecommons.cornell.edu:1813/31499	Escobedo, Fernando
+oai:ecommons.cornell.edu:1813/31500	Healey, Timothy James
+oai:ecommons.cornell.edu:1813/31501	Hite, Molly Patricia
+oai:ecommons.cornell.edu:1813/31502	Michaely, Roni
+oai:ecommons.cornell.edu:1813/31503	Lai, Dong
+oai:ecommons.cornell.edu:1813/31504	Manning, Sturt
+oai:ecommons.cornell.edu:1813/31505	Gossett, James Michael
+oai:ecommons.cornell.edu:1813/31506	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/31507	Kanbur, Ravi
+oai:ecommons.cornell.edu:1813/31508	Brown, Susan K
+oai:ecommons.cornell.edu:1813/31509	Hedge, Alan
+oai:ecommons.cornell.edu:1813/31510	Saar, Gideon
+oai:ecommons.cornell.edu:1813/31511	Helmann, John D
+oai:ecommons.cornell.edu:1813/31512	Razin, Assaf
+oai:ecommons.cornell.edu:1813/31513	Cerione, Richard A
+oai:ecommons.cornell.edu:1813/33364	Cohn,Abigail C
+oai:ecommons.cornell.edu:1813/33468	McEuen, Paul L.
+oai:ecommons.cornell.edu:1813/33469	Joachims, Thorsten
+oai:ecommons.cornell.edu:1813/33470	Andronicos, Christopher
+oai:ecommons.cornell.edu:1813/33471	Vladimirsky, Alexander B.
+oai:ecommons.cornell.edu:1813/33472	Knutson, Allen
+oai:ecommons.cornell.edu:1813/33473	Tye, Sze-Hoi Henry
+oai:ecommons.cornell.edu:1813/33474	Sobal, Jeffery
+oai:ecommons.cornell.edu:1813/33475	Shealy, James Richard
+oai:ecommons.cornell.edu:1813/33476	Apsel, Alyssa B.
+oai:ecommons.cornell.edu:1813/33477	Ryd, Anders
+oai:ecommons.cornell.edu:1813/33478	Craib, Raymond B.
+oai:ecommons.cornell.edu:1813/33479	Dawson, Paul Richard
+oai:ecommons.cornell.edu:1813/33480	Samuels, Shirley R
+oai:ecommons.cornell.edu:1813/33481	Wang, Yi
+oai:ecommons.cornell.edu:1813/33482	Weatherspoon, Hakim
+oai:ecommons.cornell.edu:1813/33483	Fontaine, Michael Scott
+oai:ecommons.cornell.edu:1813/33484	Spencer, Michael G.
+oai:ecommons.cornell.edu:1813/33485	Zabaras, Nicholas John
+oai:ecommons.cornell.edu:1813/33486	Joachims, Thorsten
+oai:ecommons.cornell.edu:1813/33487	Schukken, Ynte Hein
+oai:ecommons.cornell.edu:1813/33488	Bodenschatz, Eberhard
+oai:ecommons.cornell.edu:1813/33489	McGowan, Kaja Maria
+oai:ecommons.cornell.edu:1813/33490	Chirik, Paul
+oai:ecommons.cornell.edu:1813/33491	Stipanuk, Martha Harney
+oai:ecommons.cornell.edu:1813/33492	Pollock, Clifford Raymond
+oai:ecommons.cornell.edu:1813/33493	Swedberg, Richard
+oai:ecommons.cornell.edu:1813/33494	Feldman, Shelley
+oai:ecommons.cornell.edu:1813/33495	Brenna, James Thomas
+oai:ecommons.cornell.edu:1813/33496	Reeve, Hudson Kern
+oai:ecommons.cornell.edu:1813/33497	Mohammed, Hussni Omar
+oai:ecommons.cornell.edu:1813/33498	Leifer, Cynthia Anne
+oai:ecommons.cornell.edu:1813/33499	Gilbert, Roger Stephen
+oai:ecommons.cornell.edu:1813/33500	Moraru, Carmen I
+oai:ecommons.cornell.edu:1813/33501	Reeves, Anthony P
+oai:ecommons.cornell.edu:1813/33502	Craighead, Harold G
+oai:ecommons.cornell.edu:1813/33503	Winans, Stephen C
+oai:ecommons.cornell.edu:1813/33504	Miller, William
+oai:ecommons.cornell.edu:1813/33505	Malliaras, George G
+oai:ecommons.cornell.edu:1813/33506	Miller, Richard William
+oai:ecommons.cornell.edu:1813/33507	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/33508	Collins, Ruth N.
+oai:ecommons.cornell.edu:1813/33509	Chirik, Paul
+oai:ecommons.cornell.edu:1813/33510	Boisvert, Richard N
+oai:ecommons.cornell.edu:1813/33511	Hemami, Sheila S
+oai:ecommons.cornell.edu:1813/33512	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/33513	Fields, Gary S
+oai:ecommons.cornell.edu:1813/33514	Adams, James Eli
+oai:ecommons.cornell.edu:1813/33515	Strawderman, Robert Lee
+oai:ecommons.cornell.edu:1813/33516	Wilks, Daniel Stephen
+oai:ecommons.cornell.edu:1813/33517	Lacapra, Dominick C
+oai:ecommons.cornell.edu:1813/33518	Sorrells, Mark Earl
+oai:ecommons.cornell.edu:1813/33519	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/33520	Van Amburgh, Michael E
+oai:ecommons.cornell.edu:1813/33521	Feigenson, Gerald W
+oai:ecommons.cornell.edu:1813/33522	Smith, Anna Marie
+oai:ecommons.cornell.edu:1813/33523	Steen, Paul Herman
+oai:ecommons.cornell.edu:1813/33524	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/33525	Sipple, John W
+oai:ecommons.cornell.edu:1813/33527	Culler, Jonathan Dwight
+oai:ecommons.cornell.edu:1813/33528	Ashdown, Susan P
+oai:ecommons.cornell.edu:1813/33529	Pan, An-Yi
+oai:ecommons.cornell.edu:1813/33530	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/33531	Katzenstein, Mary Fainsod
+oai:ecommons.cornell.edu:1813/33532	Jones-Correa, Michael
+oai:ecommons.cornell.edu:1813/33533	Feldman, Shelley
+oai:ecommons.cornell.edu:1813/33534	Woods, Mary Norman
+oai:ecommons.cornell.edu:1813/33535	Shelton, Anthony M
+oai:ecommons.cornell.edu:1813/33536	Lei, Xingen
+oai:ecommons.cornell.edu:1813/33537	Xu, Chunhui
+oai:ecommons.cornell.edu:1813/33538	Wright, Patrick M.
+oai:ecommons.cornell.edu:1813/33539	Vanden Heuvel, Justine E.
+oai:ecommons.cornell.edu:1813/33540	Morgan, Stephen L.
+oai:ecommons.cornell.edu:1813/33541	Thom, Julia
+oai:ecommons.cornell.edu:1813/33542	Squyres, Steven Weldon
+oai:ecommons.cornell.edu:1813/33543	O'Rourke, Thomas Denis
+oai:ecommons.cornell.edu:1813/33544	Watkins, Christopher Brian
+oai:ecommons.cornell.edu:1813/33545	Reeves, Anthony P
+oai:ecommons.cornell.edu:1813/33546	Garcia, Ephrahim
+oai:ecommons.cornell.edu:1813/33547	Vanden Heuvel, Justine E.
+oai:ecommons.cornell.edu:1813/33548	Mills, Edward Lewis
+oai:ecommons.cornell.edu:1813/33549	Buckley, Daniel H
+oai:ecommons.cornell.edu:1813/33550	Waldman, Michael
+oai:ecommons.cornell.edu:1813/33551	Nicholson, Linda K
+oai:ecommons.cornell.edu:1813/33552	Waldman, Michael
+oai:ecommons.cornell.edu:1813/33553	Chu, Chih-Chang
+oai:ecommons.cornell.edu:1813/33554	Basu, Kaushik
+oai:ecommons.cornell.edu:1813/33555	MacDonald, Scott C
+oai:ecommons.cornell.edu:1813/33556	Bustamante, Carlos D.
+oai:ecommons.cornell.edu:1813/33557	Eastman, Lester Fuess
+oai:ecommons.cornell.edu:1813/33558	Baer Jr, Richard A
+oai:ecommons.cornell.edu:1813/33559	Nelson, Mark W.
+oai:ecommons.cornell.edu:1813/33560	Lis, John T
+oai:ecommons.cornell.edu:1813/33561	Kraus, William Lee
+oai:ecommons.cornell.edu:1813/33562	Overton, Thomas R
+oai:ecommons.cornell.edu:1813/33563	Oswald, Robert Edward
+oai:ecommons.cornell.edu:1813/33564	Chirik, Paul
+oai:ecommons.cornell.edu:1813/33565	Hay, Anthony G.
+oai:ecommons.cornell.edu:1813/33566	Overton, Thomas R
+oai:ecommons.cornell.edu:1813/33567	Johnson, Patricia A
+oai:ecommons.cornell.edu:1813/33568	Walker, Larry P
+oai:ecommons.cornell.edu:1813/33569	Aquino, Wilkins
+oai:ecommons.cornell.edu:1813/33570	O'Brien, Kimberly O
+oai:ecommons.cornell.edu:1813/33571	Wang, Michelle D
+oai:ecommons.cornell.edu:1813/33572	Simpson, Kenneth William
+oai:ecommons.cornell.edu:1813/33573	Geisler, Charles C
+oai:ecommons.cornell.edu:1813/33574	Lipson, Hod
+oai:ecommons.cornell.edu:1813/33575	Scaglione, Anna
+oai:ecommons.cornell.edu:1813/33576	Brown, William J
+oai:ecommons.cornell.edu:1813/33577	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/33578	Ingraffea, Anthony R
+oai:ecommons.cornell.edu:1813/33579	Ellner, Stephen Paul
+oai:ecommons.cornell.edu:1813/33580	Miller, Richard William
+oai:ecommons.cornell.edu:1813/33581	Seem, Robert Charles
+oai:ecommons.cornell.edu:1813/33582	Kanbur, Ravi
+oai:ecommons.cornell.edu:1813/33583	Adelson, Leslie Allen
+oai:ecommons.cornell.edu:1813/33584	Garcia-Garcia, Maria J
+oai:ecommons.cornell.edu:1813/33585	Goodale, Christine L
+oai:ecommons.cornell.edu:1813/33586	Lipson, Hod
+oai:ecommons.cornell.edu:1813/33587	Easley, David Alan
+oai:ecommons.cornell.edu:1813/33588	Swedberg, Richard
+oai:ecommons.cornell.edu:1813/33589	Kraus, William Lee
+oai:ecommons.cornell.edu:1813/33590	Chen, Peng
+oai:ecommons.cornell.edu:1813/33591	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/33592	Brenna, James Thomas
+oai:ecommons.cornell.edu:1813/33593	Hoffmann, Roald
+oai:ecommons.cornell.edu:1813/33594	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/33595	Lazzaro, Brian
+oai:ecommons.cornell.edu:1813/33596	Williamson, Charles Harvey Kaye
+oai:ecommons.cornell.edu:1813/33597	Sipple, John W
+oai:ecommons.cornell.edu:1813/33598	Sondermann, Holger
+oai:ecommons.cornell.edu:1813/33599	Olbricht, William Lee
+oai:ecommons.cornell.edu:1813/33600	Sondermann, Holger
+oai:ecommons.cornell.edu:1813/33601	Hairston Jr., Nelson George
+oai:ecommons.cornell.edu:1813/33602	Watkins, Christopher Brian
+oai:ecommons.cornell.edu:1813/33603	Hui, Chung-Yuen
+oai:ecommons.cornell.edu:1813/33604	Murray, Timothy Conway
+oai:ecommons.cornell.edu:1813/33605	Cordes, James Martin
+oai:ecommons.cornell.edu:1813/33606	Brenna, James Thomas
+oai:ecommons.cornell.edu:1813/33607	Hess, George P
+oai:ecommons.cornell.edu:1813/33608	Basu, Kaushik
+oai:ecommons.cornell.edu:1813/33609	Ferguson, Melissa J.
+oai:ecommons.cornell.edu:1813/33610	Nicholson, Linda K
+oai:ecommons.cornell.edu:1813/33611	Spivey, Michael James
+oai:ecommons.cornell.edu:1813/33612	McGowan, Kaja Maria
+oai:ecommons.cornell.edu:1813/33613	Fine, Gail Judith
+oai:ecommons.cornell.edu:1813/33614	Buckley, Daniel H
+oai:ecommons.cornell.edu:1813/33615	Drinkwater, Laurie E
+oai:ecommons.cornell.edu:1813/33616	Fetcho, Joseph R.
+oai:ecommons.cornell.edu:1813/33617	Chirik, Paul
+oai:ecommons.cornell.edu:1813/33618	Mount, Timothy Douglas
+oai:ecommons.cornell.edu:1813/33619	Parker, John Stuart Leslie
+oai:ecommons.cornell.edu:1813/33620	Jahn, Margaret M.
+oai:ecommons.cornell.edu:1813/33621	Colucci, Stephen John
+oai:ecommons.cornell.edu:1813/33622	Bean, Rachel E.
+oai:ecommons.cornell.edu:1813/33623	Fahey, Timothy James
+oai:ecommons.cornell.edu:1813/33624	Cassano, Patricia Ann
+oai:ecommons.cornell.edu:1813/33625	Goldsmith, William W
+oai:ecommons.cornell.edu:1813/33626	Swartz, Edward B.
+oai:ecommons.cornell.edu:1813/33627	Saloff-Coste, Laurent Pascal
+oai:ecommons.cornell.edu:1813/33628	Niklas, Karl Joseph
+oai:ecommons.cornell.edu:1813/33629	Pope, Stephen Bailey
+oai:ecommons.cornell.edu:1813/33630	Reeves, Anthony P
+oai:ecommons.cornell.edu:1813/33631	Bunce, Valerie Jane
+oai:ecommons.cornell.edu:1813/33632	Kadiyali, Vrinda
+oai:ecommons.cornell.edu:1813/33633	Macy, Michael Walton
+oai:ecommons.cornell.edu:1813/33634	Schwab, Keith C.
+oai:ecommons.cornell.edu:1813/33635	Wiesner, Ulrich B.
+oai:ecommons.cornell.edu:1813/33636	Chau, Ho Yan
+oai:ecommons.cornell.edu:1813/33637	Schwab, Keith C.
+oai:ecommons.cornell.edu:1813/33638	Allmon, Warren Douglas
+oai:ecommons.cornell.edu:1813/33639	Winans, Stephen C
+oai:ecommons.cornell.edu:1813/33640	Malliaras, George G
+oai:ecommons.cornell.edu:1813/33641	Assie-Lumumba, N'Dri Therese
+oai:ecommons.cornell.edu:1813/33642	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/33643	Kirby, Brian
+oai:ecommons.cornell.edu:1813/33644	Ng, David T.
+oai:ecommons.cornell.edu:1813/33645	Phoenix, Stuart Leigh
+oai:ecommons.cornell.edu:1813/33646	Azis, Iwan Jaya
+oai:ecommons.cornell.edu:1813/33647	Thies, Janice E.
+oai:ecommons.cornell.edu:1813/33648	Protter, Philip  E.
+oai:ecommons.cornell.edu:1813/33649	Fisher-York, Elizabeth
+oai:ecommons.cornell.edu:1813/33650	Lee, Siu Sylvia
+oai:ecommons.cornell.edu:1813/33651	Lin, Hening
+oai:ecommons.cornell.edu:1813/33652	Malliaras, George G
+oai:ecommons.cornell.edu:1813/33653	Ruppert, David
+oai:ecommons.cornell.edu:1813/33654	Luo, Dan
+oai:ecommons.cornell.edu:1813/33655	Nee, Victor
+oai:ecommons.cornell.edu:1813/33656	Collins, Lance
+oai:ecommons.cornell.edu:1813/33752	D. Peter Loucks
+oai:ecommons.cornell.edu:1813/33753	D. Peter Loucks
+oai:ecommons.cornell.edu:1813/33766	Patterson, J Ritchie
+oai:ecommons.cornell.edu:1813/33767	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/33768	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/33769	McAllister, Liam
+oai:ecommons.cornell.edu:1813/33770	Henley, Christopher Lee
+oai:ecommons.cornell.edu:1813/33771	Liu, Philip Li-Fan
+oai:ecommons.cornell.edu:1813/33772	Chen, Gang
+oai:ecommons.cornell.edu:1813/33773	Stucky, Steven Edward
+oai:ecommons.cornell.edu:1813/33774	Knutson, Allen
+oai:ecommons.cornell.edu:1813/33775	Marohn, John A.
+oai:ecommons.cornell.edu:1813/33776	Flanagan, Eanna E
+oai:ecommons.cornell.edu:1813/33777	Stedinger, Jery Russell
+oai:ecommons.cornell.edu:1813/33778	Hairston Jr, Nelson George
+oai:ecommons.cornell.edu:1813/33779	Jennings, Jan
+oai:ecommons.cornell.edu:1813/33780	Duxbury, John M
+oai:ecommons.cornell.edu:1813/33781	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/33782	Cordes, James Martin
+oai:ecommons.cornell.edu:1813/33783	Hopcroft, John E
+oai:ecommons.cornell.edu:1813/33784	Van Loan, Charles Francis
+oai:ecommons.cornell.edu:1813/33785	Chabot, Brian Frank
+oai:ecommons.cornell.edu:1813/33786	Eckenrode, John Joseph
+oai:ecommons.cornell.edu:1813/33787	Fitzpatrick, John Weaver
+oai:ecommons.cornell.edu:1813/33788	Soloway, Paul
+oai:ecommons.cornell.edu:1813/33789	Mansfield, Anna K.
+oai:ecommons.cornell.edu:1813/33790	Lee, Stephen
+oai:ecommons.cornell.edu:1813/33791	Gruner, Sol Michael
+oai:ecommons.cornell.edu:1813/33792	Gourdon, Delphine
+oai:ecommons.cornell.edu:1813/33793	Tardos, Eva
+oai:ecommons.cornell.edu:1813/33794	Wittich, Peter
+oai:ecommons.cornell.edu:1813/33795	Macy, Michael Walton
+oai:ecommons.cornell.edu:1813/33796	Pope, Stephen Bailey
+oai:ecommons.cornell.edu:1813/33797	Cheyfitz, Eric T.
+oai:ecommons.cornell.edu:1813/33798	Thom-Levy, Julia
+oai:ecommons.cornell.edu:1813/33799	Wittich, Peter
+oai:ecommons.cornell.edu:1813/33800	Park, Jiwoong
+oai:ecommons.cornell.edu:1813/33801	Liepe, Matthias Ulf
+oai:ecommons.cornell.edu:1813/33802	Chen, Tsuhan
+oai:ecommons.cornell.edu:1813/33803	Bassuk, Nina Lauren
+oai:ecommons.cornell.edu:1813/33804	Reeves, Anthony P
+oai:ecommons.cornell.edu:1813/33804	Reeves, Anthony P
+oai:ecommons.cornell.edu:1813/33805	Wang, Zheng Jane
+oai:ecommons.cornell.edu:1813/33806	Koschmann, Julien Victor
+oai:ecommons.cornell.edu:1813/33807	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/33808	Aquino, Wilkins
+oai:ecommons.cornell.edu:1813/33809	Schneider, Rebecca L.
+oai:ecommons.cornell.edu:1813/33810	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/33811	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/33812	Baird, Barbara Ann
+oai:ecommons.cornell.edu:1813/33813	Olbricht, William Lee
+oai:ecommons.cornell.edu:1813/33814	Tiwari, Sandip
+oai:ecommons.cornell.edu:1813/33815	Sethna, James Patarasp
+oai:ecommons.cornell.edu:1813/33816	Bauerle, Taryn L.
+oai:ecommons.cornell.edu:1813/33817	Coonrod, Scott A.
+oai:ecommons.cornell.edu:1813/33818	Lindau, Manfred
+oai:ecommons.cornell.edu:1813/33819	Oswald, Robert Edward
+oai:ecommons.cornell.edu:1813/33820	Colvin, Alexander James
+oai:ecommons.cornell.edu:1813/33821	Marquis, Helene
+oai:ecommons.cornell.edu:1813/33822	Zabaras, Nicholas John
+oai:ecommons.cornell.edu:1813/33823	Kress Gazit, Hadas
+oai:ecommons.cornell.edu:1813/33824	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/33825	Richardson, Ruth E.
+oai:ecommons.cornell.edu:1813/33826	Booth, James
+oai:ecommons.cornell.edu:1813/33827	Sakai, Naoki
+oai:ecommons.cornell.edu:1813/33828	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/33829	Kraft, Clifford Elliott
+oai:ecommons.cornell.edu:1813/33830	Delisa, Matthew
+oai:ecommons.cornell.edu:1813/33831	Hui, Chung-Yuen
+oai:ecommons.cornell.edu:1813/33832	McBride, Murray Brian
+oai:ecommons.cornell.edu:1813/33833	Tumbar, Tudorita
+oai:ecommons.cornell.edu:1813/33834	Davis, Harry Floyd
+oai:ecommons.cornell.edu:1813/33835	Assie-Lumumba, N'Dri Therese
+oai:ecommons.cornell.edu:1813/33836	Loeckenhoff, Corinna E
+oai:ecommons.cornell.edu:1813/33837	Evans, Gary William
+oai:ecommons.cornell.edu:1813/33838	Liu, Jun
+oai:ecommons.cornell.edu:1813/33839	Bynoe, Margaret S.
+oai:ecommons.cornell.edu:1813/33840	Pope, Stephen Bailey
+oai:ecommons.cornell.edu:1813/33841	Ganem, Bruce
+oai:ecommons.cornell.edu:1813/33842	Weatherspoon, Hakim
+oai:ecommons.cornell.edu:1813/33843	Bretscher, Anthony Paul
+oai:ecommons.cornell.edu:1813/33844	Xu, Chunhui
+oai:ecommons.cornell.edu:1813/33845	Estroff, Lara A.
+oai:ecommons.cornell.edu:1813/33846	Grohn, Yrjo Tapio
+oai:ecommons.cornell.edu:1813/33847	Maurer, Kirk
+oai:ecommons.cornell.edu:1813/33848	Harrison, Richard Gerald
+oai:ecommons.cornell.edu:1813/33849	Ahl, Frederick M
+oai:ecommons.cornell.edu:1813/33850	Hyams, Paul R
+oai:ecommons.cornell.edu:1813/33851	Feathers, David Joseph
+oai:ecommons.cornell.edu:1813/33852	Swedberg, Richard
+oai:ecommons.cornell.edu:1813/33853	Ralph, Daniel C
+oai:ecommons.cornell.edu:1813/33854	Evans, Gary William
+oai:ecommons.cornell.edu:1813/33855	Weiss, Robert S.
+oai:ecommons.cornell.edu:1813/33856	Miller, Richard William
+oai:ecommons.cornell.edu:1813/33857	Cox, William Joseph
+oai:ecommons.cornell.edu:1813/33858	Aquadro, Charles F
+oai:ecommons.cornell.edu:1813/33859	Zinder, Stephen H
+oai:ecommons.cornell.edu:1813/33860	Earls, Christopher J
+oai:ecommons.cornell.edu:1813/33861	Wiesner, Ulrich B.
+oai:ecommons.cornell.edu:1813/33862	Buhrman, Robert A
+oai:ecommons.cornell.edu:1813/33863	Grossman, Yuval
+oai:ecommons.cornell.edu:1813/33864	Pereboom, Derk
+oai:ecommons.cornell.edu:1813/33865	Chusid, Jeffrey M.
+oai:ecommons.cornell.edu:1813/33866	van der Meulen, Marjolein
+oai:ecommons.cornell.edu:1813/33867	Taylor, Keith Weller
+oai:ecommons.cornell.edu:1813/33868	Hancock, Jeffrey T.
+oai:ecommons.cornell.edu:1813/33868	Hancock, Jeffrey T.
+oai:ecommons.cornell.edu:1813/33869	King, Cynthia A.
+oai:ecommons.cornell.edu:1813/33870	Lal, Amit
+oai:ecommons.cornell.edu:1813/33871	Fahey, Timothy James
+oai:ecommons.cornell.edu:1813/33872	Saccamano, Neil Charles
+oai:ecommons.cornell.edu:1813/33873	Arias, Tomas A.
+oai:ecommons.cornell.edu:1813/33874	Pepinsky, Thomas
+oai:ecommons.cornell.edu:1813/33875	Hui, Chung-Yuen
+oai:ecommons.cornell.edu:1813/33876	Collmer, Alan Raymond
+oai:ecommons.cornell.edu:1813/33877	Putnam, David A.
+oai:ecommons.cornell.edu:1813/33878	Jennings, Jan
+oai:ecommons.cornell.edu:1813/33879	Nydam, Daryl Van
+oai:ecommons.cornell.edu:1813/33880	Luo, Dan
+oai:ecommons.cornell.edu:1813/33881	March, John C
+oai:ecommons.cornell.edu:1813/33882	Caudill, Marie A.
+oai:ecommons.cornell.edu:1813/33883	Hedge, Alan
+oai:ecommons.cornell.edu:1813/33884	Lewenstein, Bruce Voss
+oai:ecommons.cornell.edu:1813/33885	Anker, Elizabeth Susan
+oai:ecommons.cornell.edu:1813/33886	Wiesner, Ulrich B.
+oai:ecommons.cornell.edu:1813/33887	Strang, David
+oai:ecommons.cornell.edu:1813/33888	Schukken, Ynte Hein
+oai:ecommons.cornell.edu:1813/33889	Baird, Barbara Ann
+oai:ecommons.cornell.edu:1813/33890	Field, David James
+oai:ecommons.cornell.edu:1813/33891	Krasny, Marianne Elizabeth
+oai:ecommons.cornell.edu:1813/33892	Chusid, Jeffrey M.
+oai:ecommons.cornell.edu:1813/33893	Campbell, Donald B.
+oai:ecommons.cornell.edu:1813/33894	Fennie Jr, Craig James
+oai:ecommons.cornell.edu:1813/33895	Bynoe, Margaret S.
+oai:ecommons.cornell.edu:1813/33896	Davis, Harry Floyd
+oai:ecommons.cornell.edu:1813/33897	Peters, Scott
+oai:ecommons.cornell.edu:1813/33898	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/33899	Alani, Eric
+oai:ecommons.cornell.edu:1813/33900	Swartz, Edward B.
+oai:ecommons.cornell.edu:1813/33901	Ahner, Beth A
+oai:ecommons.cornell.edu:1813/33902	Wagner, Michael
+oai:ecommons.cornell.edu:1813/33903	Woods, Mary Norman
+oai:ecommons.cornell.edu:1813/33904	Boor, Kathryn Jean
+oai:ecommons.cornell.edu:1813/33904	Boor, Kathryn Jean
+oai:ecommons.cornell.edu:1813/33905	Olson, Christine Marie
+oai:ecommons.cornell.edu:1813/33906	Sangren, Paul Steven
+oai:ecommons.cornell.edu:1813/33907	Sacks, Gavin Lavi
+oai:ecommons.cornell.edu:1813/33908	Collins, Ruth N.
+oai:ecommons.cornell.edu:1813/33909	Giannelis, Emmanuel P
+oai:ecommons.cornell.edu:1813/33910	Ralph, Daniel C
+oai:ecommons.cornell.edu:1813/33911	Pelletier, David Louis
+oai:ecommons.cornell.edu:1813/33912	Bell, Bradford
+oai:ecommons.cornell.edu:1813/33913	Sawyer, Paul Lincoln
+oai:ecommons.cornell.edu:1813/33914	Padilla-Zakour, Olga I.
+oai:ecommons.cornell.edu:1813/33915	Buhrman, Robert A
+oai:ecommons.cornell.edu:1813/33916	Clancy, Paulette
+oai:ecommons.cornell.edu:1813/33917	Casasola, Marianella
+oai:ecommons.cornell.edu:1813/33918	Harrington, Laura C.
+oai:ecommons.cornell.edu:1813/33919	Muscalu, Florin Camil
+oai:ecommons.cornell.edu:1813/33920	Pope, Stephen Bailey
+oai:ecommons.cornell.edu:1813/33921	Pereboom, Derk
+oai:ecommons.cornell.edu:1813/33922	Craighead, Harold G
+oai:ecommons.cornell.edu:1813/33923	Lassoie, James Philip
+oai:ecommons.cornell.edu:1813/33924	Gruner, Sol Michael
+oai:ecommons.cornell.edu:1813/33925	Goodale, Christine L
+oai:ecommons.cornell.edu:1813/33926	Schroeder, Frank
+oai:ecommons.cornell.edu:1813/33927	Long, Qiaoming
+oai:ecommons.cornell.edu:1813/33928	Bretscher, Anthony Paul
+oai:ecommons.cornell.edu:1813/33929	Henderson, Shane G.
+oai:ecommons.cornell.edu:1813/33930	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/33931	Saccamano, Neil Charles
+oai:ecommons.cornell.edu:1813/33932	Geber, Monica Ann
+oai:ecommons.cornell.edu:1813/33933	Hite, Molly Patricia
+oai:ecommons.cornell.edu:1813/33934	Ealick, Steven Edward
+oai:ecommons.cornell.edu:1813/33935	Netravali, Anil Narayan
+oai:ecommons.cornell.edu:1813/33936	Buckler, Edward S
+oai:ecommons.cornell.edu:1813/33937	Wien, Hans Christian
+oai:ecommons.cornell.edu:1813/33938	Abowd, John Maron
+oai:ecommons.cornell.edu:1813/33939	Culler, Jonathan Dwight
+oai:ecommons.cornell.edu:1813/33940	Gilbert, Cole
+oai:ecommons.cornell.edu:1813/33941	Miller, Richard William
+oai:ecommons.cornell.edu:1813/33942	Depue, Richard Allen
+oai:ecommons.cornell.edu:1813/33943	Kan, Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/33944	Aquino, Wilkins
+oai:ecommons.cornell.edu:1813/33945	James, Douglas Leonard
+oai:ecommons.cornell.edu:1813/33946	Mueller, Erich
+oai:ecommons.cornell.edu:1813/33947	Lynn, William Michael
+oai:ecommons.cornell.edu:1813/33948	Feathers, David Joseph
+oai:ecommons.cornell.edu:1813/33949	Robinson, Cynthia
+oai:ecommons.cornell.edu:1813/33950	Doyle, Jeffrey J
+oai:ecommons.cornell.edu:1813/33951	Garcia, Ephrahim
+oai:ecommons.cornell.edu:1813/33952	Libby, Robert
+oai:ecommons.cornell.edu:1813/33953	Eklund, Matti
+oai:ecommons.cornell.edu:1813/33954	Kuruvilla, Sarosh C
+oai:ecommons.cornell.edu:1813/33955	Owens, Thomas G
+oai:ecommons.cornell.edu:1813/33956	Strogatz, Steven H
+oai:ecommons.cornell.edu:1813/33957	Garcia, Ephrahim
+oai:ecommons.cornell.edu:1813/33958	Evans, Gary William
+oai:ecommons.cornell.edu:1813/33959	Sethna, James Patarasp
+oai:ecommons.cornell.edu:1813/33960	Sine, Wesley
+oai:ecommons.cornell.edu:1813/33961	Riles, Annelise
+oai:ecommons.cornell.edu:1813/33962	Culler, Jonathan Dwight
+oai:ecommons.cornell.edu:1813/33963	Lal, Amit
+oai:ecommons.cornell.edu:1813/33964	Fields, Gary Sheldon
+oai:ecommons.cornell.edu:1813/33965	Kanbur, Ravi
+oai:ecommons.cornell.edu:1813/33966	Zhang, Ke
+oai:ecommons.cornell.edu:1813/33967	Shoemaker, Christine Ann
+oai:ecommons.cornell.edu:1813/33968	Roberson, Mark Stephen
+oai:ecommons.cornell.edu:1813/33969	Whittaker, Gary R
+oai:ecommons.cornell.edu:1813/33970	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/33971	Allred, Shorna Broussard
+oai:ecommons.cornell.edu:1813/33972	Brittain, Charles Francis
+oai:ecommons.cornell.edu:1813/33973	Denkers, Eric Young
+oai:ecommons.cornell.edu:1813/33974	Hyams, Paul R
+oai:ecommons.cornell.edu:1813/33975	Muller, David Anthony
+oai:ecommons.cornell.edu:1813/33976	Azis, Iwan Jaya
+oai:ecommons.cornell.edu:1813/33977	Batt, Carl A
+oai:ecommons.cornell.edu:1813/33978	Berezin, Mabel M.
+oai:ecommons.cornell.edu:1813/33979	Samuels, Shirley R
+oai:ecommons.cornell.edu:1813/33980	Kaiser, Harry Mason
+oai:ecommons.cornell.edu:1813/33981	Pritchard, Sara B.
+oai:ecommons.cornell.edu:1813/33982	Ceci, Stephen John
+oai:ecommons.cornell.edu:1813/33983	Hanson, Ellis
+oai:ecommons.cornell.edu:1813/33984	King, Cynthia A.
+oai:ecommons.cornell.edu:1813/33985	Davis, James C.
+oai:ecommons.cornell.edu:1813/33986	Batt, Carl A
+oai:ecommons.cornell.edu:1813/33987	Pelto, Gretel
+oai:ecommons.cornell.edu:1813/33988	Gaeta, Alexander L.
+oai:ecommons.cornell.edu:1813/33989	Park, Jiwoong
+oai:ecommons.cornell.edu:1813/33990	Miyazaki, Hirokazu
+oai:ecommons.cornell.edu:1813/33991	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/33992	Abowd, John Maron
+oai:ecommons.cornell.edu:1813/33993	Van Amburgh, Michael E
+oai:ecommons.cornell.edu:1813/33994	de Gorter, Harry
+oai:ecommons.cornell.edu:1813/33995	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/33996	Leclair, Andre Roger
+oai:ecommons.cornell.edu:1813/33997	Sachs, Aaron
+oai:ecommons.cornell.edu:1813/33998	Feldman, Shelley
+oai:ecommons.cornell.edu:1813/33999	Wagner, Aaron B.
+oai:ecommons.cornell.edu:1813/34000	Keller, Patricia M.
+oai:ecommons.cornell.edu:1813/34001	Shealy, James Richard
+oai:ecommons.cornell.edu:1813/34002	Gomez, Miguel I.
+oai:ecommons.cornell.edu:1813/34003	Wolczanski, Peter Thomas
+oai:ecommons.cornell.edu:1813/34004	Padilla-Zakour, Olga I.
+oai:ecommons.cornell.edu:1813/34005	Kahn, Lawrence M
+oai:ecommons.cornell.edu:1813/34006	Sorrells, Mark Earl
+oai:ecommons.cornell.edu:1813/34007	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/34008	Ingraffea, Anthony R
+oai:ecommons.cornell.edu:1813/34009	van der Meulen, Marjolein
+oai:ecommons.cornell.edu:1813/34010	Richardson, Ruth E.
+oai:ecommons.cornell.edu:1813/34011	Evans, Gary William
+oai:ecommons.cornell.edu:1813/34013	Zabaras, Nicholas John
+oai:ecommons.cornell.edu:1813/34014	Azis, Iwan Jaya
+oai:ecommons.cornell.edu:1813/34015	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/34016	Cook, Maria L
+oai:ecommons.cornell.edu:1813/34017	Buckley, Daniel H
+oai:ecommons.cornell.edu:1813/34018	Mertens, Karel
+oai:ecommons.cornell.edu:1813/34019	Roberts, Jeffrey Warren
+oai:ecommons.cornell.edu:1813/34020	Villarejo, Amy
+oai:ecommons.cornell.edu:1813/34021	Schat, Karel Antoni
+oai:ecommons.cornell.edu:1813/34022	Nelson, Rebecca J.
+oai:ecommons.cornell.edu:1813/34023	McCouch, Susan Rutherford
+oai:ecommons.cornell.edu:1813/34024	Chusid, Jeffrey M.
+oai:ecommons.cornell.edu:1813/34025	Robinson, Cynthia
+oai:ecommons.cornell.edu:1813/34026	Silins, Nicholas
+oai:ecommons.cornell.edu:1813/34027	Lindau, Manfred
+oai:ecommons.cornell.edu:1813/34028	Wade, Susan Edith
+oai:ecommons.cornell.edu:1813/34029	Blossey, Bernd
+oai:ecommons.cornell.edu:1813/34029	Blossey, Bernd
+oai:ecommons.cornell.edu:1813/34030	Fine, Gail Judith
+oai:ecommons.cornell.edu:1813/34031	Hong, Yongmiao
+oai:ecommons.cornell.edu:1813/34032	Cassano, Patricia Ann
+oai:ecommons.cornell.edu:1813/34033	Wells, Nancy M.
+oai:ecommons.cornell.edu:1813/34033	Wells, Nancy M.
+oai:ecommons.cornell.edu:1813/34034	Bento, Antonio Miguel R.
+oai:ecommons.cornell.edu:1813/34035	Garcia-Garcia, Maria J
+oai:ecommons.cornell.edu:1813/34036	Sorrells, Mark Earl
+oai:ecommons.cornell.edu:1813/34037	Pleiss, Jeffrey A.
+oai:ecommons.cornell.edu:1813/34038	Frey, Margaret W
+oai:ecommons.cornell.edu:1813/34039	Sacks, Gavin Lavi
+oai:ecommons.cornell.edu:1813/34040	Park, Jiwoong
+oai:ecommons.cornell.edu:1813/34041	Danko, Sheila
+oai:ecommons.cornell.edu:1813/34042	Strawderman, Robert Lee
+oai:ecommons.cornell.edu:1813/34043	Mansfield, Anna K.
+oai:ecommons.cornell.edu:1813/34044	Padilla-Zakour, Olga I.
+oai:ecommons.cornell.edu:1813/34045	Doerschuk, Peter
+oai:ecommons.cornell.edu:1813/34046	Macy, Michael Walton
+oai:ecommons.cornell.edu:1813/34047	Degaetano, Arthur T
+oai:ecommons.cornell.edu:1813/34048	Chu, Chih-Chang
+oai:ecommons.cornell.edu:1813/34049	Sullivan, Patrick J
+oai:ecommons.cornell.edu:1813/34050	Cerione, Richard A
+oai:ecommons.cornell.edu:1813/34051	Shell, Karl
+oai:ecommons.cornell.edu:1813/34052	Wang, Qi
+oai:ecommons.cornell.edu:1813/34053	Weiss, Robert S.
+oai:ecommons.cornell.edu:1813/34054	Frey, Margaret W
+oai:ecommons.cornell.edu:1813/34055	McBride, Patrizia C.
+oai:ecommons.cornell.edu:1813/34056	Loos, Tamara
+oai:ecommons.cornell.edu:1813/34057	Turner, Lowell
+oai:ecommons.cornell.edu:1813/34057	Turner, Lowell
+oai:ecommons.cornell.edu:1813/34058	Thompson, Michael Olgar
+oai:ecommons.cornell.edu:1813/34059	Lion, Leonard William
+oai:ecommons.cornell.edu:1813/34059	Lion, Leonard William
+oai:ecommons.cornell.edu:1813/34060	Wang, Michelle D
+oai:ecommons.cornell.edu:1813/34061	Kahn, Lawrence M
+oai:ecommons.cornell.edu:1813/34062	Obendorf, Sharon Kay
+oai:ecommons.cornell.edu:1813/34063	Norton, Mary Beth
+oai:ecommons.cornell.edu:1813/34064	Devoogd, Timothy John
+oai:ecommons.cornell.edu:1813/34065	Buck-Morss, Susan
+oai:ecommons.cornell.edu:1813/34066	Villarejo, Amy
+oai:ecommons.cornell.edu:1813/34067	Hong, Yongmiao
+oai:ecommons.cornell.edu:1813/34068	Doerschuk, Peter
+oai:ecommons.cornell.edu:1813/34069	Gruner, Sol Michael
+oai:ecommons.cornell.edu:1813/34070	Turnquist, Mark Alan
+oai:ecommons.cornell.edu:1813/34071	Crawford, Barbara A
+oai:ecommons.cornell.edu:1813/34072	Wiesner, Ulrich B.
+oai:ecommons.cornell.edu:1813/34073	Dillard, Helene R
+oai:ecommons.cornell.edu:1813/34074	Reiners, Stephen
+oai:ecommons.cornell.edu:1813/34075	Feigenson, Gerald W
+oai:ecommons.cornell.edu:1813/34076	Hennig, Richard G.
+oai:ecommons.cornell.edu:1813/34077	Manohar, Rajit
+oai:ecommons.cornell.edu:1813/34078	Barbano, David Mark
+oai:ecommons.cornell.edu:1813/34079	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/34080	Delisa, Matthew
+oai:ecommons.cornell.edu:1813/34081	Fischbach, Claudia
+oai:ecommons.cornell.edu:1813/34082	Detert, James Roland
+oai:ecommons.cornell.edu:1813/34083	Hopcroft, John E
+oai:ecommons.cornell.edu:1813/34084	Shoemaker, Christine Ann
+oai:ecommons.cornell.edu:1813/34085	Lynn, William Michael
+oai:ecommons.cornell.edu:1813/34086	Ley, Ruth E.
+oai:ecommons.cornell.edu:1813/34087	Liddell, Chekesha M
+oai:ecommons.cornell.edu:1813/34087	Netravali, Anil Narayan
+oai:ecommons.cornell.edu:1813/34088	Johnston, Robert Elliott
+oai:ecommons.cornell.edu:1813/34089	Lipsky, David Bruce
+oai:ecommons.cornell.edu:1813/34090	Tester, Jefferson William
+oai:ecommons.cornell.edu:1813/34091	Poe, Gregory Lee
+oai:ecommons.cornell.edu:1813/34092	Miller, Richard William
+oai:ecommons.cornell.edu:1813/34093	Davis, James C.
+oai:ecommons.cornell.edu:1813/34094	Kaiser, Harry Mason
+oai:ecommons.cornell.edu:1813/34095	Lohman, Rowena B.
+oai:ecommons.cornell.edu:1813/34096	Caudill, Marie A.
+oai:ecommons.cornell.edu:1813/34097	Qi, Ling
+oai:ecommons.cornell.edu:1813/34098	Samorodnitsky, Gennady
+oai:ecommons.cornell.edu:1813/34099	Manohar, Rajit
+oai:ecommons.cornell.edu:1813/34100	Karolyi, George Andrew
+oai:ecommons.cornell.edu:1813/34101	Thom-Levy, Julia
+oai:ecommons.cornell.edu:1813/34102	Cathles, Lawrence M
+oai:ecommons.cornell.edu:1813/34103	Cox, Kerik D.
+oai:ecommons.cornell.edu:1813/34104	Manning, Sturt
+oai:ecommons.cornell.edu:1813/34105	Worobo, Randy W.
+oai:ecommons.cornell.edu:1813/34106	Chen, Tsuhan
+oai:ecommons.cornell.edu:1813/34107	Sethna, James Patarasp
+oai:ecommons.cornell.edu:1813/34108	Geber, Monica Ann
+oai:ecommons.cornell.edu:1813/34109	Gehrke, Johannes E.
+oai:ecommons.cornell.edu:1813/34110	Alani, Eric
+oai:ecommons.cornell.edu:1813/34111	Mezey, Jason G.
+oai:ecommons.cornell.edu:1813/34112	Russell, Nerissa
+oai:ecommons.cornell.edu:1813/34113	Shen, Kyle M.
+oai:ecommons.cornell.edu:1813/34114	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/34115	Feldman, Shelley
+oai:ecommons.cornell.edu:1813/34116	Rubin, David L
+oai:ecommons.cornell.edu:1813/34117	Williams, Linda Brooks
+oai:ecommons.cornell.edu:1813/34118	Rooth, Mats
+oai:ecommons.cornell.edu:1813/34119	Hirschl, Thomas A
+oai:ecommons.cornell.edu:1813/34120	Suh, Gookwon Edward
+oai:ecommons.cornell.edu:1813/34121	Holm, Tara S.
+oai:ecommons.cornell.edu:1813/34122	Riles, Annelise
+oai:ecommons.cornell.edu:1813/34123	Lin, Hening
+oai:ecommons.cornell.edu:1813/34124	Prof. Carlos Castillo-Chavez
+oai:ecommons.cornell.edu:1813/34147	Kleinberg, Robert David
+oai:ecommons.cornell.edu:1813/34148	Agrawal, Anurag
+oai:ecommons.cornell.edu:1813/34149	Krasny, Marianne Elizabeth
+oai:ecommons.cornell.edu:1813/34150	Buckler, Edward S
+oai:ecommons.cornell.edu:1813/34151	Razin, Assaf
+oai:ecommons.cornell.edu:1813/34152	McAllister, Liam
+oai:ecommons.cornell.edu:1813/34153	Tong, Lang
+oai:ecommons.cornell.edu:1813/34154	Collins, Lance
+oai:ecommons.cornell.edu:1813/34155	Woodard, Dawn B.
+oai:ecommons.cornell.edu:1813/34156	Sierra, Roberto
+oai:ecommons.cornell.edu:1813/34157	McMichael, Philip David
+oai:ecommons.cornell.edu:1813/34158	Smith, David M.
+oai:ecommons.cornell.edu:1813/34159	Qian, Shu-Bing
+oai:ecommons.cornell.edu:1813/34160	Teukolsky, Saul A
+oai:ecommons.cornell.edu:1813/34161	Elser, Veit
+oai:ecommons.cornell.edu:1813/34162	Giovanelli, Riccardo
+oai:ecommons.cornell.edu:1813/34163	Whitman, John
+oai:ecommons.cornell.edu:1813/34164	Kelley, Michael Charles
+oai:ecommons.cornell.edu:1813/34165	Kleinberg, Robert David
+oai:ecommons.cornell.edu:1813/34166	Friedman, Eric J.
+oai:ecommons.cornell.edu:1813/34167	Kozen, Dexter Campbell
+oai:ecommons.cornell.edu:1813/34168	Ceci, Stephen John
+oai:ecommons.cornell.edu:1813/34169	Rubin, David L
+oai:ecommons.cornell.edu:1813/34170	Stillman, Michael Eugene
+oai:ecommons.cornell.edu:1813/34171	Maxwell, Lorraine E
+oai:ecommons.cornell.edu:1813/34172	Giannelis, Emmanuel P
+oai:ecommons.cornell.edu:1813/34173	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/34174	Turnquist, Mark Alan
+oai:ecommons.cornell.edu:1813/34175	Wilson, David B
+oai:ecommons.cornell.edu:1813/34176	Santiago-Irizarry, Vilma
+oai:ecommons.cornell.edu:1813/34177	Just, David R.
+oai:ecommons.cornell.edu:1813/34178	Kirshner, Jonathan David
+oai:ecommons.cornell.edu:1813/34179	Xu, Chunhui
+oai:ecommons.cornell.edu:1813/34180	Browne, E Wayles
+oai:ecommons.cornell.edu:1813/34181	Dichtel, William Robert
+oai:ecommons.cornell.edu:1813/34182	Vogt, Volker M
+oai:ecommons.cornell.edu:1813/34183	Maxwell, Lorraine E
+oai:ecommons.cornell.edu:1813/34184	Sanderson, John Philip
+oai:ecommons.cornell.edu:1813/34185	Spencer, Michael G.
+oai:ecommons.cornell.edu:1813/34186	Boucher, Daniel Joseph
+oai:ecommons.cornell.edu:1813/34187	Saloff-Coste, Laurent Pascal
+oai:ecommons.cornell.edu:1813/34188	Stroock, Abraham Duncan
+oai:ecommons.cornell.edu:1813/34189	Marschner, Stephen Robert
+oai:ecommons.cornell.edu:1813/34190	Lasansky, Diana Medina
+oai:ecommons.cornell.edu:1813/34191	Sethna, James Patarasp
+oai:ecommons.cornell.edu:1813/34192	Adelson, Leslie Allen
+oai:ecommons.cornell.edu:1813/34193	Ndulo, Muna B.
+oai:ecommons.cornell.edu:1813/34194	O'Hara, Maureen
+oai:ecommons.cornell.edu:1813/34195	Jordan, Kurt Anders
+oai:ecommons.cornell.edu:1813/34196	Williams, Wendy M
+oai:ecommons.cornell.edu:1813/34197	Thomas, Chantal
+oai:ecommons.cornell.edu:1813/34198	Gilmour Jr., Robert F
+oai:ecommons.cornell.edu:1813/34199	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/34200	Pleiss, Jeffrey A.
+oai:ecommons.cornell.edu:1813/34201	O'Donoghue, Edward Donald
+oai:ecommons.cornell.edu:1813/34202	Knutson, Allen
+oai:ecommons.cornell.edu:1813/34203	McBride, Patrizia C.
+oai:ecommons.cornell.edu:1813/34204	Lin, Hening
+oai:ecommons.cornell.edu:1813/34205	Van Dover, Robert B.
+oai:ecommons.cornell.edu:1813/34206	Munasinghe, Viranjini P
+oai:ecommons.cornell.edu:1813/34207	Turgeon, Barbara Gillian
+oai:ecommons.cornell.edu:1813/34208	Eshelman, Paul Edwin
+oai:ecommons.cornell.edu:1813/34209	Thompson, Michael Olgar
+oai:ecommons.cornell.edu:1813/34210	Sacks, Gavin Lavi
+oai:ecommons.cornell.edu:1813/34211	Brainerd, Charles
+oai:ecommons.cornell.edu:1813/34212	Lust, Barbara Catherine
+oai:ecommons.cornell.edu:1813/34213	Caudill, Marie A.
+oai:ecommons.cornell.edu:1813/34214	Edelman, Shimon
+oai:ecommons.cornell.edu:1813/34215	Fields, Gary Sheldon
+oai:ecommons.cornell.edu:1813/34216	King, Cynthia A.
+oai:ecommons.cornell.edu:1813/34217	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/34218	Wolfner, Mariana Federica
+oai:ecommons.cornell.edu:1813/34219	Searle, Angela E.
+oai:ecommons.cornell.edu:1813/34220	Searle, Angela E.
+oai:ecommons.cornell.edu:1813/34221	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/34222	Hay, Anthony G.
+oai:ecommons.cornell.edu:1813/34223	Koschmann, Julien Victor
+oai:ecommons.cornell.edu:1813/34224	Cerione, Richard A
+oai:ecommons.cornell.edu:1813/34225	Vogt, Volker M
+oai:ecommons.cornell.edu:1813/34226	Lewis, Adrian S.
+oai:ecommons.cornell.edu:1813/34227	Moraru, Carmen I
+oai:ecommons.cornell.edu:1813/34228	Samorodnitsky, Gennady
+oai:ecommons.cornell.edu:1813/34229	Lipson, Hod
+oai:ecommons.cornell.edu:1813/34230	Davis, Harry Floyd
+oai:ecommons.cornell.edu:1813/34231	Eckenrode, John Joseph
+oai:ecommons.cornell.edu:1813/34232	Conrad, Jon M
+oai:ecommons.cornell.edu:1813/34233	Reyna, Valerie
+oai:ecommons.cornell.edu:1813/34234	Power, Alison G
+oai:ecommons.cornell.edu:1813/34235	Erickson, David
+oai:ecommons.cornell.edu:1813/34236	Nault, Brian A.
+oai:ecommons.cornell.edu:1813/34237	Eckenrode, John Joseph
+oai:ecommons.cornell.edu:1813/34238	Fields, Gary Sheldon
+oai:ecommons.cornell.edu:1813/34239	Hazan, Cynthia
+oai:ecommons.cornell.edu:1813/34239	Hazan, Cynthia
+oai:ecommons.cornell.edu:1813/34240	Harrison, Richard Gerald
+oai:ecommons.cornell.edu:1813/34241	Adelson, Leslie Allen
+oai:ecommons.cornell.edu:1813/34242	Zayas, Vivian
+oai:ecommons.cornell.edu:1813/34243	Warhaft, Zellman
+oai:ecommons.cornell.edu:1813/34244	Gillespie, Ardyth Harris
+oai:ecommons.cornell.edu:1813/34245	Lee, David R
+oai:ecommons.cornell.edu:1813/34246	Gehrke, Johannes E.
+oai:ecommons.cornell.edu:1813/34247	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/34248	Besharov, Marya L.
+oai:ecommons.cornell.edu:1813/34249	Disalvo, Francis J
+oai:ecommons.cornell.edu:1813/34250	Lal, Amit
+oai:ecommons.cornell.edu:1813/34251	Lis, John T
+oai:ecommons.cornell.edu:1813/34252	Chen, Tsuhan
+oai:ecommons.cornell.edu:1813/34253	Cook, Maria L
+oai:ecommons.cornell.edu:1813/34254	Ganem, Bruce
+oai:ecommons.cornell.edu:1813/34255	Li, Shanjun
+oai:ecommons.cornell.edu:1813/34256	Nussbaum, Michael
+oai:ecommons.cornell.edu:1813/34257	Dichtel, William Robert
+oai:ecommons.cornell.edu:1813/34258	Nydam, Daryl Van
+oai:ecommons.cornell.edu:1813/34259	Reyna, Valerie
+oai:ecommons.cornell.edu:1813/34260	Sakai, Naoki
+oai:ecommons.cornell.edu:1813/34260	Sakai, Naoki
+oai:ecommons.cornell.edu:1813/34261	Parker, Alan R.
+oai:ecommons.cornell.edu:1813/34262	Flanagan, Eanna E
+oai:ecommons.cornell.edu:1813/34263	Cassano, Patricia Ann
+oai:ecommons.cornell.edu:1813/34264	Wells, Nancy M.
+oai:ecommons.cornell.edu:1813/34265	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/34266	Kay, Suzanne Mahlburg
+oai:ecommons.cornell.edu:1813/34267	Tumbar, Tudorita
+oai:ecommons.cornell.edu:1813/34268	Mettler, Suzanne Bridget
+oai:ecommons.cornell.edu:1813/34269	Strang, David
+oai:ecommons.cornell.edu:1813/34270	Rickard, Bradley J.
+oai:ecommons.cornell.edu:1813/34271	Boisclair, Yves R
+oai:ecommons.cornell.edu:1813/34272	James, Douglas Leonard
+oai:ecommons.cornell.edu:1813/34273	Elser, Veit
+oai:ecommons.cornell.edu:1813/34274	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/34275	Tolbert, Pamela S
+oai:ecommons.cornell.edu:1813/34276	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/34277	Campbell, Mark
+oai:ecommons.cornell.edu:1813/34278	Garcia, Maria Cristina
+oai:ecommons.cornell.edu:1813/34279	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/34280	Zabaras, Nicholas John
+oai:ecommons.cornell.edu:1813/34281	Benjamin, Daniel
+oai:ecommons.cornell.edu:1813/34282	Rooth, Mats
+oai:ecommons.cornell.edu:1813/34283	Verma, Rohit
+oai:ecommons.cornell.edu:1813/34284	Cerione, Richard A
+oai:ecommons.cornell.edu:1813/34285	Schulze, William D
+oai:ecommons.cornell.edu:1813/34286	Bowser, Paul Raymond
+oai:ecommons.cornell.edu:1813/34287	Bosteels, Bruno
+oai:ecommons.cornell.edu:1813/34288	Sangren, Paul Steven
+oai:ecommons.cornell.edu:1813/34289	Lemley, Ann Theresa
+oai:ecommons.cornell.edu:1813/34290	Strogatz, Steven H
+oai:ecommons.cornell.edu:1813/34291	Lei, Xingen
+oai:ecommons.cornell.edu:1813/34292	Baird, Barbara Ann
+oai:ecommons.cornell.edu:1813/34293	Hernandez, Christopher J.
+oai:ecommons.cornell.edu:1813/34294	Madsen, Eugene Lewis
+oai:ecommons.cornell.edu:1813/34295	Pepiot, Perrine
+oai:ecommons.cornell.edu:1813/34296	Hay, Anthony G.
+oai:ecommons.cornell.edu:1813/34297	Adelson, Leslie Allen
+oai:ecommons.cornell.edu:1813/34298	Barbasch, Dan Mihai
+oai:ecommons.cornell.edu:1813/34299	Goncalo, Jack A.
+oai:ecommons.cornell.edu:1813/34299	Goncalo, Jack A.
+oai:ecommons.cornell.edu:1813/34300	Fox, Thomas D.
+oai:ecommons.cornell.edu:1813/34301	Sondermann, Holger
+oai:ecommons.cornell.edu:1813/34302	Cerione, Richard A
+oai:ecommons.cornell.edu:1813/34303	Lipson, Michal
+oai:ecommons.cornell.edu:1813/34304	Birnholtz, Jeremy P.
+oai:ecommons.cornell.edu:1813/34305	Fortier, Lisa Ann
+oai:ecommons.cornell.edu:1813/34306	Ralph, Daniel C
+oai:ecommons.cornell.edu:1813/34307	Afshari, Ehsan
+oai:ecommons.cornell.edu:1813/34308	Whittaker, Gary R
+oai:ecommons.cornell.edu:1813/34309	Cardie, Claire T
+oai:ecommons.cornell.edu:1813/34310	Batt, Rosemary
+oai:ecommons.cornell.edu:1813/34311	Durrett, Richard Timothy
+oai:ecommons.cornell.edu:1813/34312	Kalas, Rayna M
+oai:ecommons.cornell.edu:1813/34313	Cohen, Walter Isaac
+oai:ecommons.cornell.edu:1813/34314	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/34315	Lehmann, Christopher Johannes
+oai:ecommons.cornell.edu:1813/34316	Walker, Larry P
+oai:ecommons.cornell.edu:1813/34317	Olson, Christine Marie
+oai:ecommons.cornell.edu:1813/34318	McMichael, Philip David
+oai:ecommons.cornell.edu:1813/34319	Luo, Dan
+oai:ecommons.cornell.edu:1813/34320	Lis, John T
+oai:ecommons.cornell.edu:1813/34321	Ealick, Steven Edward
+oai:ecommons.cornell.edu:1813/34322	McMichael, Philip David
+oai:ecommons.cornell.edu:1813/34323	Ruppert, David
+oai:ecommons.cornell.edu:1813/34324	Garcia, Ephrahim
+oai:ecommons.cornell.edu:1813/34325	Padilla-Zakour, Olga I.
+oai:ecommons.cornell.edu:1813/34326	DiTommaso, Antonio
+oai:ecommons.cornell.edu:1813/34327	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/34328	Tang, Ao
+oai:ecommons.cornell.edu:1813/34329	Rizvi, Syed S H
+oai:ecommons.cornell.edu:1813/34330	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/34331	Luo, Dan
+oai:ecommons.cornell.edu:1813/34332	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/34333	Csaki, Csaba
+oai:ecommons.cornell.edu:1813/34334	Smolka, Marcus B
+oai:ecommons.cornell.edu:1813/34335	Pfeffer, Max John
+oai:ecommons.cornell.edu:1813/34336	Andronicos, Christopher
+oai:ecommons.cornell.edu:1813/34337	Hubbard, John Hamal
+oai:ecommons.cornell.edu:1813/34339	Geisler, Charles C
+oai:ecommons.cornell.edu:1813/34340	Hubbard, John Hamal
+oai:ecommons.cornell.edu:1813/34341	Disalvo, Francis J
+oai:ecommons.cornell.edu:1813/34342	Losey, John E.
+oai:ecommons.cornell.edu:1813/34343	Goldstein, Michael H.
+oai:ecommons.cornell.edu:1813/34344	Calderone, Nicholas W
+oai:ecommons.cornell.edu:1813/34345	Arias, Tomas A.
+oai:ecommons.cornell.edu:1813/34346	Crane, Brian
+oai:ecommons.cornell.edu:1813/34347	Aneshansley, Daniel Joseph
+oai:ecommons.cornell.edu:1813/34348	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/34349	Webster Jr, Michael Stilson
+oai:ecommons.cornell.edu:1813/34350	Wang, Zheng Jane
+oai:ecommons.cornell.edu:1813/34351	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/34352	Haynes, Martha Patricia
+oai:ecommons.cornell.edu:1813/34353	Baker, Shefford P.
+oai:ecommons.cornell.edu:1813/34354	Nixon, Kevin C
+oai:ecommons.cornell.edu:1813/34355	Pawlowska, Teresa E.
+oai:ecommons.cornell.edu:1813/34356	Loring, Roger F
+oai:ecommons.cornell.edu:1813/34357	Christopherson, Susan M
+oai:ecommons.cornell.edu:1813/34358	Kleinberg, Jon M
+oai:ecommons.cornell.edu:1813/34359	Welker, Marina Andrea
+oai:ecommons.cornell.edu:1813/34360	Lewis, Adrian S.
+oai:ecommons.cornell.edu:1813/34361	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/34362	Arias, Tomas A.
+oai:ecommons.cornell.edu:1813/34363	Wilson, Arthur L.
+oai:ecommons.cornell.edu:1813/34364	Ng, David T.
+oai:ecommons.cornell.edu:1813/34365	Fussell, Susan R.
+oai:ecommons.cornell.edu:1813/34366	Samorodnitsky, Gennady
+oai:ecommons.cornell.edu:1813/34367	Kanbur, Ravi
+oai:ecommons.cornell.edu:1813/34368	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/34369	Overton, Thomas R
+oai:ecommons.cornell.edu:1813/34370	Lohman, Rowena B.
+oai:ecommons.cornell.edu:1813/34371	Helmann, John D
+oai:ecommons.cornell.edu:1813/34372	Kline, Ronald R
+oai:ecommons.cornell.edu:1813/34373	Kress Gazit, Hadas
+oai:ecommons.cornell.edu:1813/34374	Prasad, Eswar Shanker
+oai:ecommons.cornell.edu:1813/34375	Ralph, Daniel C
+oai:ecommons.cornell.edu:1813/34376	Jarrow, Robert A.
+oai:ecommons.cornell.edu:1813/34377	Chiang, Hsiao-Dong
+oai:ecommons.cornell.edu:1813/34378	Cassano, Patricia Ann
+oai:ecommons.cornell.edu:1813/34379	Rudstam, Lars Gosta
+oai:ecommons.cornell.edu:1813/34379	Rudstam, Lars Gosta
+oai:ecommons.cornell.edu:1813/34380	de Bary, Brett
+oai:ecommons.cornell.edu:1813/34382	Giannelis, Emmanuel P
+oai:ecommons.cornell.edu:1813/34383	Erickson, David
+oai:ecommons.cornell.edu:1813/34384	Wagner, Aaron B.
+oai:ecommons.cornell.edu:1813/34385	Gunn, Edward Mansfield
+oai:ecommons.cornell.edu:1813/34386	King, Michael R.
+oai:ecommons.cornell.edu:1813/34387	Avedisian, C Thomas
+oai:ecommons.cornell.edu:1813/34388	Verma, Rohit
+oai:ecommons.cornell.edu:1813/34389	Pinstrup-Andersen, Per
+oai:ecommons.cornell.edu:1813/34390	Waldman, Michael
+oai:ecommons.cornell.edu:1813/34391	Anderson, Christopher K
+oai:ecommons.cornell.edu:1813/34392	Mahowald, Natalie M
+oai:ecommons.cornell.edu:1813/34393	Hua, Jian
+oai:ecommons.cornell.edu:1813/34394	Huang, Ming
+oai:ecommons.cornell.edu:1813/34395	Eklund, Matti
+oai:ecommons.cornell.edu:1813/34399	Rusten, Jeffrey S
+oai:ecommons.cornell.edu:1813/34400	Levitsky, David A
+oai:ecommons.cornell.edu:1813/34537	MacDougall, Bonnie Graham
+oai:ecommons.cornell.edu:1813/35000	Hedge, Alan
+oai:ecommons.cornell.edu:1813/35151	Ginsburg, Judy
+oai:ecommons.cornell.edu:1813/35950	Bemis, William Elliott
+oai:ecommons.cornell.edu:1813/35951	Hinkin, Timothy Robert
+oai:ecommons.cornell.edu:1813/36002	Vladimirsky, Alexander B.
+oai:ecommons.cornell.edu:1813/36003	Schlom, Darrell
+oai:ecommons.cornell.edu:1813/36004	Collum, David B
+oai:ecommons.cornell.edu:1813/36005	Helmann, John D
+oai:ecommons.cornell.edu:1813/36006	Cohn, Abigail C
+oai:ecommons.cornell.edu:1813/36007	Ryd, Anders
+oai:ecommons.cornell.edu:1813/36008	Chen, Gang
+oai:ecommons.cornell.edu:1813/36009	Kline, Ronald R
+oai:ecommons.cornell.edu:1813/36010	Gay, Geraldine K
+oai:ecommons.cornell.edu:1813/36011	Warner, Mildred E
+oai:ecommons.cornell.edu:1813/36012	Katzenstein, Peter Joachim
+oai:ecommons.cornell.edu:1813/36013	Woodard, Joshua D.
+oai:ecommons.cornell.edu:1813/36014	Schroeder, Frank
+oai:ecommons.cornell.edu:1813/36015	Krasny, Marianne Elizabeth
+oai:ecommons.cornell.edu:1813/36016	McMichael, Philip David
+oai:ecommons.cornell.edu:1813/36017	Feigenson, Gerald W
+oai:ecommons.cornell.edu:1813/36018	Martinez, Jose F.
+oai:ecommons.cornell.edu:1813/36019	Stedinger, Jery Russell
+oai:ecommons.cornell.edu:1813/36020	Lai, Dong
+oai:ecommons.cornell.edu:1813/36021	Lipsky, David Bruce
+oai:ecommons.cornell.edu:1813/36021	Lipsky, David Bruce
+oai:ecommons.cornell.edu:1813/36022	McMichael, Philip David
+oai:ecommons.cornell.edu:1813/36023	Cohen, Itai
+oai:ecommons.cornell.edu:1813/36024	Diesing, Molly
+oai:ecommons.cornell.edu:1813/36025	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/36026	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/36027	Savin-Williams, Ritch C.
+oai:ecommons.cornell.edu:1813/36028	Alexander, James Paul
+oai:ecommons.cornell.edu:1813/36029	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/36030	Miller, William
+oai:ecommons.cornell.edu:1813/36031	Culler, Jonathan Dwight
+oai:ecommons.cornell.edu:1813/36032	Guckenheimer, John Mark
+oai:ecommons.cornell.edu:1813/36033	Archer, Lynden  A.
+oai:ecommons.cornell.edu:1813/36034	Ralph, Daniel C
+oai:ecommons.cornell.edu:1813/36035	Butler, Walter Ronald
+oai:ecommons.cornell.edu:1813/36036	Berest, Yuri
+oai:ecommons.cornell.edu:1813/36037	Kan, Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/36038	Kirby, Brian
+oai:ecommons.cornell.edu:1813/36039	Coates, Geoffrey
+oai:ecommons.cornell.edu:1813/36040	Delisa, Matthew
+oai:ecommons.cornell.edu:1813/36041	Garcia, Ephrahim
+oai:ecommons.cornell.edu:1813/36042	Fox, Thomas D.
+oai:ecommons.cornell.edu:1813/36043	Nicholson, Linda K
+oai:ecommons.cornell.edu:1813/36044	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/36045	Gibbons, Lawrence K
+oai:ecommons.cornell.edu:1813/36046	Parker, John Stuart Leslie
+oai:ecommons.cornell.edu:1813/36047	Cohen, Paula
+oai:ecommons.cornell.edu:1813/36048	McCune, Amy R.
+oai:ecommons.cornell.edu:1813/36049	Molnar, Alyosha Christopher
+oai:ecommons.cornell.edu:1813/36050	Thompson, Michael Olgar
+oai:ecommons.cornell.edu:1813/36051	Wolf, Steven A.
+oai:ecommons.cornell.edu:1813/36052	Samuels, Shirley R
+oai:ecommons.cornell.edu:1813/36053	Bhave, Sunil A.
+oai:ecommons.cornell.edu:1813/36054	Dowell, Glen W.S.
+oai:ecommons.cornell.edu:1813/36055	Wang, Yi
+oai:ecommons.cornell.edu:1813/36056	Lin, David M.
+oai:ecommons.cornell.edu:1813/36057	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/36058	Baugher, Sherene Barbara
+oai:ecommons.cornell.edu:1813/36059	Reyna, Valerie
+oai:ecommons.cornell.edu:1813/36060	Lasansky, Diana Medina
+oai:ecommons.cornell.edu:1813/36061	Hover, Kenneth Clark
+oai:ecommons.cornell.edu:1813/36062	Duhamel, Gerald E.
+oai:ecommons.cornell.edu:1813/36063	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/36064	Harvell, Catherine Drew
+oai:ecommons.cornell.edu:1813/36065	Gao, Yingxin
+oai:ecommons.cornell.edu:1813/36066	Eckenrode, John Joseph
+oai:ecommons.cornell.edu:1813/36066	Eckenrode, John Joseph
+oai:ecommons.cornell.edu:1813/36067	Evans, Gary William
+oai:ecommons.cornell.edu:1813/36068	Roberts, Kenneth
+oai:ecommons.cornell.edu:1813/36069	Haynes, Martha Patricia
+oai:ecommons.cornell.edu:1813/36070	Hajek, Ann Elizabeth
+oai:ecommons.cornell.edu:1813/36071	Lal, Amit
+oai:ecommons.cornell.edu:1813/36072	Gilovich, Thomas Dashiff
+oai:ecommons.cornell.edu:1813/36073	Tang, Ao
+oai:ecommons.cornell.edu:1813/36074	Colvin, Alexander James
+oai:ecommons.cornell.edu:1813/36075	Schimenti, John C.
+oai:ecommons.cornell.edu:1813/36076	Angenent, Largus
+oai:ecommons.cornell.edu:1813/36077	Bilson, Malcolm
+oai:ecommons.cornell.edu:1813/36078	Worobo, Randy W.
+oai:ecommons.cornell.edu:1813/36079	Nee, Victor
+oai:ecommons.cornell.edu:1813/36080	Eshelman, Paul Edwin
+oai:ecommons.cornell.edu:1813/36081	Niederdeppe, Jeffrey D. H.
+oai:ecommons.cornell.edu:1813/36082	Fortier, Lisa Ann
+oai:ecommons.cornell.edu:1813/36083	Jin, Moonsoo
+oai:ecommons.cornell.edu:1813/36084	Azis, Iwan Jaya
+oai:ecommons.cornell.edu:1813/36085	Hennig, Richard G.
+oai:ecommons.cornell.edu:1813/36086	Bowers, John S
+oai:ecommons.cornell.edu:1813/36087	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/36088	Murray, Timothy Conway
+oai:ecommons.cornell.edu:1813/36089	Lichter, Daniel T.
+oai:ecommons.cornell.edu:1813/36090	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/36091	Tiwari, Sandip
+oai:ecommons.cornell.edu:1813/36092	Tong, Lang
+oai:ecommons.cornell.edu:1813/36093	Coonrod, Scott A.
+oai:ecommons.cornell.edu:1813/36094	Archer, Lynden  A.
+oai:ecommons.cornell.edu:1813/36095	Wolfner, Mariana Federica
+oai:ecommons.cornell.edu:1813/36096	Bergstrom, Gary Carlton
+oai:ecommons.cornell.edu:1813/36097	Tiwari, Sandip
+oai:ecommons.cornell.edu:1813/36098	Griffiths, Phillip D.
+oai:ecommons.cornell.edu:1813/36099	Kassam, Karim-Aly Saleh
+oai:ecommons.cornell.edu:1813/36100	Chusid, Jeffrey M.
+oai:ecommons.cornell.edu:1813/36101	Fortier, Lisa Ann
+oai:ecommons.cornell.edu:1813/36102	Joo, Yong L.
+oai:ecommons.cornell.edu:1813/36103	Deitcher, David Lawrence
+oai:ecommons.cornell.edu:1813/36104	Livingston, Beth A.
+oai:ecommons.cornell.edu:1813/36105	Crane, Brian
+oai:ecommons.cornell.edu:1813/36106	Ruppert, David
+oai:ecommons.cornell.edu:1813/36107	Fisher-York, Elizabeth
+oai:ecommons.cornell.edu:1813/36108	Archer, Lynden  A.
+oai:ecommons.cornell.edu:1813/36109	Koch, Donald L
+oai:ecommons.cornell.edu:1813/36110	Chignell, Andrew
+oai:ecommons.cornell.edu:1813/36111	Mao, Yuxin
+oai:ecommons.cornell.edu:1813/36112	Ober, Christopher Kemper
+oai:ecommons.cornell.edu:1813/36113	Bhave, Sunil A.
+oai:ecommons.cornell.edu:1813/36114	Obendorf, Sharon Kay
+oai:ecommons.cornell.edu:1813/36114	Obendorf, Sharon Kay
+oai:ecommons.cornell.edu:1813/36115	Campbell, Timothy C.
+oai:ecommons.cornell.edu:1813/36116	Whittaker, Gary R
+oai:ecommons.cornell.edu:1813/36117	Qi, Ling
+oai:ecommons.cornell.edu:1813/36118	Burns, Joseph Arthur
+oai:ecommons.cornell.edu:1813/36119	Hull, Isabel Virginia
+oai:ecommons.cornell.edu:1813/36120	Mansfield, Anna K.
+oai:ecommons.cornell.edu:1813/36121	Angenent, Largus
+oai:ecommons.cornell.edu:1813/36122	Brady Jr, John Woodbury
+oai:ecommons.cornell.edu:1813/36123	Ealick, Steven Edward
+oai:ecommons.cornell.edu:1813/36124	Dubreuil, Laurent
+oai:ecommons.cornell.edu:1813/36125	Worobo, Randy W.
+oai:ecommons.cornell.edu:1813/36126	Colucci, Stephen John
+oai:ecommons.cornell.edu:1813/36126	Colucci, Stephen John
+oai:ecommons.cornell.edu:1813/36127	Harvell, Catherine Drew
+oai:ecommons.cornell.edu:1813/36128	Hedge, Alan
+oai:ecommons.cornell.edu:1813/36129	Penalver, Eduardo Moises
+oai:ecommons.cornell.edu:1813/36130	Erickson, David
+oai:ecommons.cornell.edu:1813/36131	Blume, Lawrence Edward
+oai:ecommons.cornell.edu:1813/36132	Erickson, David
+oai:ecommons.cornell.edu:1813/36133	Park, Jiwoong
+oai:ecommons.cornell.edu:1813/36134	Bauerle, Taryn L.
+oai:ecommons.cornell.edu:1813/36135	Disalvo, Francis J
+oai:ecommons.cornell.edu:1813/36136	Heckathorn, Douglas D.
+oai:ecommons.cornell.edu:1813/36136	Morgan, Stephen L.
+oai:ecommons.cornell.edu:1813/36137	Schroeder, Frank
+oai:ecommons.cornell.edu:1813/36138	Sorrells, Mark Earl
+oai:ecommons.cornell.edu:1813/36139	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/36140	Giannelis, Emmanuel P
+oai:ecommons.cornell.edu:1813/36141	Avestimehr, Amir Salman
+oai:ecommons.cornell.edu:1813/36142	Doerschuk, Peter
+oai:ecommons.cornell.edu:1813/36143	Liepe, Matthias Ulf
+oai:ecommons.cornell.edu:1813/36144	Attell, Kevin D.
+oai:ecommons.cornell.edu:1813/36145	Gao, Yingxin
+oai:ecommons.cornell.edu:1813/36146	Hu, Fenghua
+oai:ecommons.cornell.edu:1813/36147	Acland, Gregory Maurice
+oai:ecommons.cornell.edu:1813/36148	Tagliacozzo, Eric
+oai:ecommons.cornell.edu:1813/36149	Schroeder, Frank
+oai:ecommons.cornell.edu:1813/36150	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/36151	Rao, Vithala R.
+oai:ecommons.cornell.edu:1813/36152	Butcher, Jonathan T.
+oai:ecommons.cornell.edu:1813/36153	Nicholson, Philip David
+oai:ecommons.cornell.edu:1813/36154	Mahowald, Natalie M
+oai:ecommons.cornell.edu:1813/36155	Sethna, James Patarasp
+oai:ecommons.cornell.edu:1813/36156	Paz-Soldan, Jose Edmundo
+oai:ecommons.cornell.edu:1813/36157	Smillie, John D
+oai:ecommons.cornell.edu:1813/36158	Muller, David Anthony
+oai:ecommons.cornell.edu:1813/36159	Paz-Soldan, Jose Edmundo
+oai:ecommons.cornell.edu:1813/36160	Phoenix, Stuart Leigh
+oai:ecommons.cornell.edu:1813/36161	Scott, Norman Roy
+oai:ecommons.cornell.edu:1813/36162	Healey, Timothy James
+oai:ecommons.cornell.edu:1813/36163	Bisogni Jr, James John
+oai:ecommons.cornell.edu:1813/36164	Boyd, Richard Newell
+oai:ecommons.cornell.edu:1813/36165	Barbano, David Mark
+oai:ecommons.cornell.edu:1813/36166	Shelton, Anthony M
+oai:ecommons.cornell.edu:1813/36167	Bhave, Sunil A.
+oai:ecommons.cornell.edu:1813/36169	Baeumner, Antje J
+oai:ecommons.cornell.edu:1813/36170	Lin, Hening
+oai:ecommons.cornell.edu:1813/36171	Hancock, Jeffrey T.
+oai:ecommons.cornell.edu:1813/36172	Williamson, Charles Harvey Kaye
+oai:ecommons.cornell.edu:1813/36173	Wiesner, Ulrich B.
+oai:ecommons.cornell.edu:1813/36174	Brown, Laura Schaefer
+oai:ecommons.cornell.edu:1813/36175	Cohen, Paula
+oai:ecommons.cornell.edu:1813/36176	Coonrod, Scott A.
+oai:ecommons.cornell.edu:1813/36177	August, Avery
+oai:ecommons.cornell.edu:1813/36178	Schimenti, John C.
+oai:ecommons.cornell.edu:1813/36179	Lal, Amit
+oai:ecommons.cornell.edu:1813/36180	McEuen, Paul L.
+oai:ecommons.cornell.edu:1813/36181	Barbash, Daniel A.
+oai:ecommons.cornell.edu:1813/36182	Sethna, James Patarasp
+oai:ecommons.cornell.edu:1813/36183	Savin-Williams, Ritch C.
+oai:ecommons.cornell.edu:1813/36184	Lewenstein, Bruce Voss
+oai:ecommons.cornell.edu:1813/36185	Crane, Brian
+oai:ecommons.cornell.edu:1813/36186	Moraru, Carmen I
+oai:ecommons.cornell.edu:1813/36187	Lipson, Hod
+oai:ecommons.cornell.edu:1813/36188	Erickson, David
+oai:ecommons.cornell.edu:1813/36189	Bloomfield, Robert J.
+oai:ecommons.cornell.edu:1813/36191	August, Avery
+oai:ecommons.cornell.edu:1813/36192	Russell, David G
+oai:ecommons.cornell.edu:1813/36193	Utermohlen, Virginia
+oai:ecommons.cornell.edu:1813/36194	Gao, Huaizhu
+oai:ecommons.cornell.edu:1813/36194	Gao, Huaizhu
+oai:ecommons.cornell.edu:1813/36195	Nozick, Linda K.
+oai:ecommons.cornell.edu:1813/36196	Buhrman, Robert A
+oai:ecommons.cornell.edu:1813/36197	Chau, Ho Yan
+oai:ecommons.cornell.edu:1813/36198	Woodard, Joshua D.
+oai:ecommons.cornell.edu:1813/36199	Chen, Tsuhan
+oai:ecommons.cornell.edu:1813/36200	Murray, Timothy Conway
+oai:ecommons.cornell.edu:1813/36201	Qi, Ling
+oai:ecommons.cornell.edu:1813/36328	Lassoie, Jim
+oai:ecommons.cornell.edu:1813/37010	Craighead, Harold G
+oai:ecommons.cornell.edu:1813/37011	Barrett, Caitlin Eilis
+oai:ecommons.cornell.edu:1813/37012	Gilgen, Peter
+oai:ecommons.cornell.edu:1813/37013	Stroock, Abraham Duncan
+oai:ecommons.cornell.edu:1813/37014	Saccamano, Neil Charles
+oai:ecommons.cornell.edu:1813/37015	Coate, Stephen
+oai:ecommons.cornell.edu:1813/37016	Jarrow, Robert A.
+oai:ecommons.cornell.edu:1813/37017	Pinstrup-Andersen, Per
+oai:ecommons.cornell.edu:1813/37018	Aristilde, Ludmilla
+oai:ecommons.cornell.edu:1813/37019	Richards, Annette
+oai:ecommons.cornell.edu:1813/37020	Mettler, Suzanne Bridget
+oai:ecommons.cornell.edu:1813/37021	Ingraffea, Anthony R
+oai:ecommons.cornell.edu:1813/37022	Dillard, Helene R
+oai:ecommons.cornell.edu:1813/37022	Smart, Christine Durbahn
+oai:ecommons.cornell.edu:1813/37023	Lindau, Manfred
+oai:ecommons.cornell.edu:1813/37024	Williamson, Charles Harvey Kaye
+oai:ecommons.cornell.edu:1813/37025	Chase, Cynthia
+oai:ecommons.cornell.edu:1813/37026	Ellner, Stephen Paul
+oai:ecommons.cornell.edu:1813/37027	Garcia, Ephrahim
+oai:ecommons.cornell.edu:1813/37028	Hedge, Alan
+oai:ecommons.cornell.edu:1813/37029	Qian, Shu-Bing
+oai:ecommons.cornell.edu:1813/37030	Davis, Harry Floyd
+oai:ecommons.cornell.edu:1813/37031	McBride, Patrizia C.
+oai:ecommons.cornell.edu:1813/37032	Alani, Eric
+oai:ecommons.cornell.edu:1813/37033	Livingston, Beth A.
+oai:ecommons.cornell.edu:1813/37034	Erickson, David
+oai:ecommons.cornell.edu:1813/37035	Robinson, Richard Douglas
+oai:ecommons.cornell.edu:1813/37036	Padilla-Zakour, Olga I.
+oai:ecommons.cornell.edu:1813/37037	Batt, Rosemary
+oai:ecommons.cornell.edu:1813/37038	Loos, Tamara
+oai:ecommons.cornell.edu:1813/37039	Fuller, Angela K.
+oai:ecommons.cornell.edu:1813/37040	Alvarez Daziano, Ricardo
+oai:ecommons.cornell.edu:1813/37041	Daniel, Susan
+oai:ecommons.cornell.edu:1813/37042	Webster Jr, Michael Stilson
+oai:ecommons.cornell.edu:1813/37043	McMichael, Philip David
+oai:ecommons.cornell.edu:1813/37044	Shen, Kyle M.
+oai:ecommons.cornell.edu:1813/37045	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/37046	Hanson, Ellis
+oai:ecommons.cornell.edu:1813/37047	McEuen, Paul L.
+oai:ecommons.cornell.edu:1813/37048	Woodard, Joshua D.
+oai:ecommons.cornell.edu:1813/37049	McCullough, Mary K.
+oai:ecommons.cornell.edu:1813/37050	Sangren, Paul Steven
+oai:ecommons.cornell.edu:1813/37051	Chen, Peng
+oai:ecommons.cornell.edu:1813/37052	Morgan, Stephen L.
+oai:ecommons.cornell.edu:1813/37053	Collins, Christopher J.
+oai:ecommons.cornell.edu:1813/37053	Collins, Christopher J.
+oai:ecommons.cornell.edu:1813/37054	Liddell, Chekesha M
+oai:ecommons.cornell.edu:1813/37055	Escobedo, Fernando
+oai:ecommons.cornell.edu:1813/37056	van der Meulen, Marjolein
+oai:ecommons.cornell.edu:1813/37057	Bosteels, Bruno
+oai:ecommons.cornell.edu:1813/37058	Ng, David T.
+oai:ecommons.cornell.edu:1813/37059	Lazarowitz, Sondra Gale
+oai:ecommons.cornell.edu:1813/37060	Sachs, Aaron
+oai:ecommons.cornell.edu:1813/37061	Jarrow, Robert A.
+oai:ecommons.cornell.edu:1813/37062	Powers, David Stephan
+oai:ecommons.cornell.edu:1813/37063	Brooks, Samantha A.
+oai:ecommons.cornell.edu:1813/37064	Cao, Xiaodong
+oai:ecommons.cornell.edu:1813/37065	Richards, Eric Jean
+oai:ecommons.cornell.edu:1813/37066	Davis, James C.
+oai:ecommons.cornell.edu:1813/37067	Peck, Mason
+oai:ecommons.cornell.edu:1813/37068	Dyer, Lee D
+oai:ecommons.cornell.edu:1813/37068	Dyer, Lee D
+oai:ecommons.cornell.edu:1813/37069	Muller, David Anthony
+oai:ecommons.cornell.edu:1813/37070	Putnam, David A.
+oai:ecommons.cornell.edu:1813/37071	Yavitt, Joseph B
+oai:ecommons.cornell.edu:1813/37072	Bell, Bradford
+oai:ecommons.cornell.edu:1813/37072	Dyer, Lee D
+oai:ecommons.cornell.edu:1813/37073	Fromme, Joseph Chris
+oai:ecommons.cornell.edu:1813/37074	Li, Shanjun
+oai:ecommons.cornell.edu:1813/37075	Tagliacozzo, Eric
+oai:ecommons.cornell.edu:1813/37076	Wang, Michelle D
+oai:ecommons.cornell.edu:1813/37077	Molinari, Francesca
+oai:ecommons.cornell.edu:1813/37078	Tester, Jefferson William
+oai:ecommons.cornell.edu:1813/37079	Schrader, Dawn Ellen
+oai:ecommons.cornell.edu:1813/37080	Lipson, Hod
+oai:ecommons.cornell.edu:1813/37081	Ahl, Frederick M
+oai:ecommons.cornell.edu:1813/37082	Wells, Martin Timothy
+oai:ecommons.cornell.edu:1813/37083	Marohn, John A.
+oai:ecommons.cornell.edu:1813/37084	Kan, Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/37085	Fuchs, Gregory David
+oai:ecommons.cornell.edu:1813/37086	Craighead, Harold G
+oai:ecommons.cornell.edu:1813/37087	Vengalattore, Mukund
+oai:ecommons.cornell.edu:1813/37088	Gruner, Sol Michael
+oai:ecommons.cornell.edu:1813/37089	Pfeffer, Max John
+oai:ecommons.cornell.edu:1813/37090	Smart, Christine Durbahn
+oai:ecommons.cornell.edu:1813/37091	Scott, Jeffrey Graham
+oai:ecommons.cornell.edu:1813/37092	Hare, Matthew P.
+oai:ecommons.cornell.edu:1813/37093	Tennyson, Sharon
+oai:ecommons.cornell.edu:1813/37094	Appleton, Judith Ann
+oai:ecommons.cornell.edu:1813/37095	Erickson, David
+oai:ecommons.cornell.edu:1813/37096	Collum, David B
+oai:ecommons.cornell.edu:1813/37097	Sipple, John W
+oai:ecommons.cornell.edu:1813/37098	Greene, Charles H
+oai:ecommons.cornell.edu:1813/37099	Koch, Donald L
+oai:ecommons.cornell.edu:1813/37100	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/37101	Kaiser, Harry Mason
+oai:ecommons.cornell.edu:1813/37102	Rachlinski, Jeffrey John
+oai:ecommons.cornell.edu:1813/37103	Klein, Richard Jay
+oai:ecommons.cornell.edu:1813/37104	Eckenrode, John Joseph
+oai:ecommons.cornell.edu:1813/37105	Wells, Martin Timothy
+oai:ecommons.cornell.edu:1813/37106	Sakai, Naoki
+oai:ecommons.cornell.edu:1813/37107	Scanlon, Michael J.
+oai:ecommons.cornell.edu:1813/37108	Campbell, Mark
+oai:ecommons.cornell.edu:1813/37109	Fiskesjo, N Magnus G
+oai:ecommons.cornell.edu:1813/37110	Erickson, David
+oai:ecommons.cornell.edu:1813/37111	Harrington, Laura C.
+oai:ecommons.cornell.edu:1813/37112	Ceci, Stephen John
+oai:ecommons.cornell.edu:1813/37112	Kushnir, Tamar
+oai:ecommons.cornell.edu:1813/37113	Manohar, Rajit
+oai:ecommons.cornell.edu:1813/37114	Fuhrmann, Arnika I.
+oai:ecommons.cornell.edu:1813/37115	Murray, Timothy Conway
+oai:ecommons.cornell.edu:1813/37116	Kan, Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/37117	Castillo, Debra Ann
+oai:ecommons.cornell.edu:1813/37118	Psiaki, Mark Lockwood
+oai:ecommons.cornell.edu:1813/37119	Gao, Yingxin
+oai:ecommons.cornell.edu:1813/37120	Archer, Lynden  A.
+oai:ecommons.cornell.edu:1813/37121	Kaiser, Harry Mason
+oai:ecommons.cornell.edu:1813/37122	Gossett, James Michael
+oai:ecommons.cornell.edu:1813/37123	Pereboom, Derk
+oai:ecommons.cornell.edu:1813/37124	Rusten, Jeffrey S
+oai:ecommons.cornell.edu:1813/37125	Sturman, Michael Craig
+oai:ecommons.cornell.edu:1813/37126	Pfeffer, Max John
+oai:ecommons.cornell.edu:1813/37127	Wolfe, David Walter
+oai:ecommons.cornell.edu:1813/37128	Leifer, Cynthia Anne
+oai:ecommons.cornell.edu:1813/37129	Lipsky, David Bruce
+oai:ecommons.cornell.edu:1813/37130	Karolyi, George Andrew
+oai:ecommons.cornell.edu:1813/37131	Peters, Scott
+oai:ecommons.cornell.edu:1813/37132	Wiedmann, Martin
+oai:ecommons.cornell.edu:1813/37133	Kuruvilla, Sarosh C
+oai:ecommons.cornell.edu:1813/37133	Batt, Rosemary
+oai:ecommons.cornell.edu:1813/37134	Nelson, Rebecca J.
+oai:ecommons.cornell.edu:1813/37135	Warner, Mildred E
+oai:ecommons.cornell.edu:1813/37136	Santiago-Irizarry, Vilma
+oai:ecommons.cornell.edu:1813/37137	Harris Jr, Robert L
+oai:ecommons.cornell.edu:1813/37138	Lakso, Alan Neil
+oai:ecommons.cornell.edu:1813/37139	Wells, Martin Timothy
+oai:ecommons.cornell.edu:1813/37140	King, Michael R.
+oai:ecommons.cornell.edu:1813/37141	Hennig, Richard G.
+oai:ecommons.cornell.edu:1813/37142	Kaiser, Harry Mason
+oai:ecommons.cornell.edu:1813/37143	Lei, Xingen
+oai:ecommons.cornell.edu:1813/37144	Obendorf, Sharon Kay
+oai:ecommons.cornell.edu:1813/37145	Rubineau, Brian
+oai:ecommons.cornell.edu:1813/37146	Gehrke, Johannes E.
+oai:ecommons.cornell.edu:1813/37147	Fuchs, Gregory David
+oai:ecommons.cornell.edu:1813/37148	Chau, Ho Yan
+oai:ecommons.cornell.edu:1813/37148	Chau, Ho Yan
+oai:ecommons.cornell.edu:1813/37149	Jarrow, Robert A.
+oai:ecommons.cornell.edu:1813/37150	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/37151	Hallock, Kevin F.
+oai:ecommons.cornell.edu:1813/37152	Rebillard, Eric
+oai:ecommons.cornell.edu:1813/37153	Archer, Lynden  A.
+oai:ecommons.cornell.edu:1813/37154	Ingraffea, Anthony R.
+oai:ecommons.cornell.edu:1813/37155	Steen, Paul Herman
+oai:ecommons.cornell.edu:1813/37156	Hedge, Alan
+oai:ecommons.cornell.edu:1813/37157	Brown, William J
+oai:ecommons.cornell.edu:1813/37158	Stacey, Gordon John
+oai:ecommons.cornell.edu:1813/37159	Fuller, Angela K.
+oai:ecommons.cornell.edu:1813/37160	Stacey, Gordon John
+oai:ecommons.cornell.edu:1813/37161	Mettler, Suzanne Bridget
+oai:ecommons.cornell.edu:1813/37162	Shen, Kyle M.
+oai:ecommons.cornell.edu:1813/37163	Engstrom, James R
+oai:ecommons.cornell.edu:1813/37164	Wise, Frank William
+oai:ecommons.cornell.edu:1813/37165	Pritchard, Matthew
+oai:ecommons.cornell.edu:1813/37166	Bonassar, Lawrence
+oai:ecommons.cornell.edu:1813/37167	Cohen, Itai
+oai:ecommons.cornell.edu:1813/37168	Tennyson, Sharon
+oai:ecommons.cornell.edu:1813/37169	Grigoriu, Mircea Dan
+oai:ecommons.cornell.edu:1813/37170	Fuchs, Marc F.
+oai:ecommons.cornell.edu:1813/37171	Frazier, Peter
+oai:ecommons.cornell.edu:1813/37172	Hedge, Alan
+oai:ecommons.cornell.edu:1813/37173	Webster, James
+oai:ecommons.cornell.edu:1813/37174	Warner, Derek H.
+oai:ecommons.cornell.edu:1813/37175	Swedberg, Richard
+oai:ecommons.cornell.edu:1813/37176	Abowd, John Maron
+oai:ecommons.cornell.edu:1813/37177	Abowd, John Maron
+oai:ecommons.cornell.edu:1813/37178	Poe, Gregory Lee
+oai:ecommons.cornell.edu:1813/37179	Danko, Sheila
+oai:ecommons.cornell.edu:1813/37180	Van Renesse, Robbert
+oai:ecommons.cornell.edu:1813/37181	Stucky, Steven Edward
+oai:ecommons.cornell.edu:1813/37182	Scott, Norman Roy
+oai:ecommons.cornell.edu:1813/37183	Strogatz, Steven H
+oai:ecommons.cornell.edu:1813/37184	Peraino, Judith Ann
+oai:ecommons.cornell.edu:1813/37185	Bhave, Sunil A.
+oai:ecommons.cornell.edu:1813/37186	Rossi, Frank S
+oai:ecommons.cornell.edu:1813/38737	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/38738	Kleinberg, Robert David
+oai:ecommons.cornell.edu:1813/38739	Varner, Jeffrey D.
+oai:ecommons.cornell.edu:1813/38740	Mankin, David P
+oai:ecommons.cornell.edu:1813/38741	Ceci, Stephen John
+oai:ecommons.cornell.edu:1813/38742	Eckenrode, John Joseph
+oai:ecommons.cornell.edu:1813/38743	Wicker, Stephen B.
+oai:ecommons.cornell.edu:1813/38744	Cawley, John H.
+oai:ecommons.cornell.edu:1813/38745	Nerode, Anil
+oai:ecommons.cornell.edu:1813/38746	Culler, Jonathan Dwight
+oai:ecommons.cornell.edu:1813/38747	Siepel, Adam Charles
+oai:ecommons.cornell.edu:1813/38748	Hatcher, Allen E
+oai:ecommons.cornell.edu:1813/38749	Smith, Adam Thomas
+oai:ecommons.cornell.edu:1813/38750	Hilgartner, Stephen H.
+oai:ecommons.cornell.edu:1813/38751	Clark, Andrew
+oai:ecommons.cornell.edu:1813/38752	Fromme, Joseph Chris
+oai:ecommons.cornell.edu:1813/38753	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/38753	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/38754	Lindau, Manfred
+oai:ecommons.cornell.edu:1813/38755	Sonnenstuhl, William James
+oai:ecommons.cornell.edu:1813/38756	Brown, David L
+oai:ecommons.cornell.edu:1813/38756	Brown, David L
+oai:ecommons.cornell.edu:1813/38757	Kleinberg, Robert David
+oai:ecommons.cornell.edu:1813/38758	Gu, Zhenglong
+oai:ecommons.cornell.edu:1813/38759	Strichartz, Robert Stephen
+oai:ecommons.cornell.edu:1813/38760	King, Cynthia A.
+oai:ecommons.cornell.edu:1813/38761	Bento, Antonio Miguel R.
+oai:ecommons.cornell.edu:1813/38762	Ingraffea, Anthony R.
+oai:ecommons.cornell.edu:1813/38763	Fischbach, Claudia
+oai:ecommons.cornell.edu:1813/38764	Fortier, Lisa Ann
+oai:ecommons.cornell.edu:1813/38765	Hooker, Giles J.
+oai:ecommons.cornell.edu:1813/38766	Pizarro, David A.
+oai:ecommons.cornell.edu:1813/38767	Jordan, Kurt Anders
+oai:ecommons.cornell.edu:1813/38768	O'Brien, Kimberly O
+oai:ecommons.cornell.edu:1813/38769	Sonnenstuhl, William James
+oai:ecommons.cornell.edu:1813/38770	Stucky, Steven Edward
+oai:ecommons.cornell.edu:1813/38771	Steen, Paul Herman
+oai:ecommons.cornell.edu:1813/38772	Nikitin, Alexander
+oai:ecommons.cornell.edu:1813/38773	Sacks, Gavin Lavi
+oai:ecommons.cornell.edu:1813/38774	Ceci, Stephen John
+oai:ecommons.cornell.edu:1813/38775	Zamudio, Kelly
+oai:ecommons.cornell.edu:1813/38776	Frey, Margaret W
+oai:ecommons.cornell.edu:1813/38777	Sahn, David Ezra
+oai:ecommons.cornell.edu:1813/38778	Apsel, Alyssa B.
+oai:ecommons.cornell.edu:1813/38779	Villenas, Sofia A
+oai:ecommons.cornell.edu:1813/38780	Gillespie, Tarleton L.
+oai:ecommons.cornell.edu:1813/38781	Molnar, Alyosha Christopher
+oai:ecommons.cornell.edu:1813/38782	Clancy, Paulette
+oai:ecommons.cornell.edu:1813/38783	Fromme, Joseph Chris
+oai:ecommons.cornell.edu:1813/38784	Manohar, Rajit
+oai:ecommons.cornell.edu:1813/38784	Manohar, Rajit
+oai:ecommons.cornell.edu:1813/38785	Fiskesjo, N Magnus G
+oai:ecommons.cornell.edu:1813/38786	Wang, Yi
+oai:ecommons.cornell.edu:1813/38787	Gomez, Miguel I.
+oai:ecommons.cornell.edu:1813/38788	Snavely, Keith Noah
+oai:ecommons.cornell.edu:1813/38789	Keinan, Alon
+oai:ecommons.cornell.edu:1813/38790	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/38791	Moore, Justin Tatch
+oai:ecommons.cornell.edu:1813/38792	Angenent, Largus
+oai:ecommons.cornell.edu:1813/38793	Shen, Xiling
+oai:ecommons.cornell.edu:1813/38794	Koslowski, Barbara Marie
+oai:ecommons.cornell.edu:1813/38795	Xu, Chunhui
+oai:ecommons.cornell.edu:1813/38796	Dichtel, William Robert
+oai:ecommons.cornell.edu:1813/38797	Wicker, Stephen B.
+oai:ecommons.cornell.edu:1813/38798	Decker, Daniel Joseph
+oai:ecommons.cornell.edu:1813/38798	Stedman, Richard Clark
+oai:ecommons.cornell.edu:1813/38799	Taylor, Keith Weller
+oai:ecommons.cornell.edu:1813/38800	Walker, Larry P
+oai:ecommons.cornell.edu:1813/38801	Tabacchi, Mary Huddleston
+oai:ecommons.cornell.edu:1813/38802	Pillemer, Karl Andrew
+oai:ecommons.cornell.edu:1813/38802	Pillemer, Karl Andrew
+oai:ecommons.cornell.edu:1813/38803	Kwortnik, Robert J.
+oai:ecommons.cornell.edu:1813/38804	Sahn, David Ezra
+oai:ecommons.cornell.edu:1813/38805	Pelletier, David Louis
+oai:ecommons.cornell.edu:1813/38806	Hancock, Jeffrey T.
+oai:ecommons.cornell.edu:1813/38807	Yearsley, David Gaynor
+oai:ecommons.cornell.edu:1813/38808	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/38809	Greenberg, Donald P
+oai:ecommons.cornell.edu:1813/38810	Sangren, Paul Steven
+oai:ecommons.cornell.edu:1813/38811	Losey, John E.
+oai:ecommons.cornell.edu:1813/38812	Zaslaw, Neal Alexander
+oai:ecommons.cornell.edu:1813/38813	Kao-Kniffin, Jenny T.
+oai:ecommons.cornell.edu:1813/38814	Hoy, Ronald Raymond
+oai:ecommons.cornell.edu:1813/38815	Gehrke, Johannes E.
+oai:ecommons.cornell.edu:1813/38816	McComas, Katherine Anne
+oai:ecommons.cornell.edu:1813/38817	Abruna, Hector D
+oai:ecommons.cornell.edu:1813/38818	Hazan, Cynthia
+oai:ecommons.cornell.edu:1813/38819	Dichtel, William Robert
+oai:ecommons.cornell.edu:1813/38820	Decker, Daniel Joseph
+oai:ecommons.cornell.edu:1813/38821	Hubbard, John Hamal
+oai:ecommons.cornell.edu:1813/38822	Shen, Xiling
+oai:ecommons.cornell.edu:1813/38823	Schmit, Todd Michael
+oai:ecommons.cornell.edu:1813/38824	Chen, Peng
+oai:ecommons.cornell.edu:1813/38825	Clark, Andrew
+oai:ecommons.cornell.edu:1813/38826	Dubreuil, Laurent
+oai:ecommons.cornell.edu:1813/38827	Pelletier, David Louis
+oai:ecommons.cornell.edu:1813/38828	Doerschuk, Peter
+oai:ecommons.cornell.edu:1813/38829	Pollock, Clifford Raymond
+oai:ecommons.cornell.edu:1813/38830	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/38831	Pepinsky,Thomas
+oai:ecommons.cornell.edu:1813/38832	Anderson, Christopher J
+oai:ecommons.cornell.edu:1813/38833	Sorrells, Mark Earl
+oai:ecommons.cornell.edu:1813/38834	Lin, Hening
+oai:ecommons.cornell.edu:1813/38835	Gold, Daniel Richard
+oai:ecommons.cornell.edu:1813/38836	Wiesner, Ulrich B.
+oai:ecommons.cornell.edu:1813/38837	Jin, Moonsoo
+oai:ecommons.cornell.edu:1813/38838	Collum, David B
+oai:ecommons.cornell.edu:1813/38839	Anderson, Christopher K
+oai:ecommons.cornell.edu:1813/38840	Krasny, Marianne Elizabeth
+oai:ecommons.cornell.edu:1813/38841	Fiskesjo, N Magnus G
+oai:ecommons.cornell.edu:1813/38842	Schmit, Todd Michael
+oai:ecommons.cornell.edu:1813/38843	Pelletier, David Louis
+oai:ecommons.cornell.edu:1813/38844	Bento, Antonio Miguel R.
+oai:ecommons.cornell.edu:1813/38845	Luo, Dan
+oai:ecommons.cornell.edu:1813/38846	de Gorter, Harry
+oai:ecommons.cornell.edu:1813/38847	Padilla-Zakour, Olga I.
+oai:ecommons.cornell.edu:1813/38848	Dichtel, William Robert
+oai:ecommons.cornell.edu:1813/38849	Melas, Natalie Anne-Marie
+oai:ecommons.cornell.edu:1813/38850	Hanson, Ellis
+oai:ecommons.cornell.edu:1813/38851	Derry, Louis A.
+oai:ecommons.cornell.edu:1813/38852	Smillie, John D
+oai:ecommons.cornell.edu:1813/38853	Cutting, James Eric
+oai:ecommons.cornell.edu:1813/38854	Sassler, Sharon
+oai:ecommons.cornell.edu:1813/38855	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/38855	Sahn, David Ezra
+oai:ecommons.cornell.edu:1813/38856	Clancy, Paulette
+oai:ecommons.cornell.edu:1813/38857	van der Meulen, Marjolein
+oai:ecommons.cornell.edu:1813/38858	Feathers, David Joseph
+oai:ecommons.cornell.edu:1813/38859	Nixon, Alan J
+oai:ecommons.cornell.edu:1813/38860	Bretscher, Anthony Paul
+oai:ecommons.cornell.edu:1813/38861	Wiesner, Ulrich B.
+oai:ecommons.cornell.edu:1813/38862	Butcher, Jonathan T.
+oai:ecommons.cornell.edu:1813/38863	Shoemaker, Christine Ann
+oai:ecommons.cornell.edu:1813/38864	Gilovich, Thomas Dashiff
+oai:ecommons.cornell.edu:1813/38865	Vanden Heuvel, Justine E.
+oai:ecommons.cornell.edu:1813/38866	Lewis, Van Dyke
+oai:ecommons.cornell.edu:1813/38867	Sangren, Paul Steven
+oai:ecommons.cornell.edu:1813/38868	Blau, Francine D
+oai:ecommons.cornell.edu:1813/38869	Robinson, Richard Douglas
+oai:ecommons.cornell.edu:1813/38870	Bensel, Richard F
+oai:ecommons.cornell.edu:1813/38871	Lindau, Manfred
+oai:ecommons.cornell.edu:1813/38872	Blalock, Garrick
+oai:ecommons.cornell.edu:1813/38873	Fontaine, Michael Scott
+oai:ecommons.cornell.edu:1813/38874	Parmenter, Jon W
+oai:ecommons.cornell.edu:1813/38875	Angenent, Largus
+oai:ecommons.cornell.edu:1813/38876	Thaler, Jennifer S.
+oai:ecommons.cornell.edu:1813/38877	Just, David R.
+oai:ecommons.cornell.edu:1813/38878	Macy, Michael Walton
+oai:ecommons.cornell.edu:1813/38878	Macy, Michael Walton
+oai:ecommons.cornell.edu:1813/38879	Danforth, Bryan Nicholas
+oai:ecommons.cornell.edu:1813/38880	Agrawal, Anurag
+oai:ecommons.cornell.edu:1813/38881	Gao, Yingxin
+oai:ecommons.cornell.edu:1813/38882	Yavitt, Joseph B
+oai:ecommons.cornell.edu:1813/38883	Fan, Jintu
+oai:ecommons.cornell.edu:1813/38884	Hua, Ying
+oai:ecommons.cornell.edu:1813/38885	Lewenstein, Bruce Voss
+oai:ecommons.cornell.edu:1813/38885	Lewenstein, Bruce Voss
+oai:ecommons.cornell.edu:1813/38886	Danforth, Bryan Nicholas
+oai:ecommons.cornell.edu:1813/38887	Pawlowska, Teresa E.
+oai:ecommons.cornell.edu:1813/38888	Salvatore, Nick
+oai:ecommons.cornell.edu:1813/38889	Fitzpatrick, John Weaver
+oai:ecommons.cornell.edu:1813/38890	Barrett, Christopher
+oai:ecommons.cornell.edu:1813/38891	MacDonald, Scott C.
+oai:ecommons.cornell.edu:1813/38892	O'Donoghue, Edward Donald
+oai:ecommons.cornell.edu:1813/38893	Koschmann, Julien Victor
+oai:ecommons.cornell.edu:1813/38894	Spencer, Michael G.
+oai:ecommons.cornell.edu:1813/38895	Eckenrode, John Joseph
+oai:ecommons.cornell.edu:1813/38896	Choi, Yun Jung
+oai:ecommons.cornell.edu:1813/38897	Padilla-Zakour, Olga I.
+oai:ecommons.cornell.edu:1813/38898	Zabaras, Nicholas John
+oai:ecommons.cornell.edu:1813/38899	Kusse, Bruce Raymond
+oai:ecommons.cornell.edu:1813/38900	Van Dover, Robert B.
+oai:ecommons.cornell.edu:1813/38901	Erickson, David
+oai:ecommons.cornell.edu:1813/38902	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/38903	Burkhauser, Richard Valentine
+oai:ecommons.cornell.edu:1813/38904	Lassoie, James Philip
+oai:ecommons.cornell.edu:1813/38904	Lassoie, James Philip
+oai:ecommons.cornell.edu:1813/38905	Li, Shanjun
+oai:ecommons.cornell.edu:1813/38906	Loos, Tamara
+oai:ecommons.cornell.edu:1813/38907	Birman, Kenneth Paul
+oai:ecommons.cornell.edu:1813/38908	Gossett, James Michael
+oai:ecommons.cornell.edu:1813/38909	Christopherson, Susan M
+oai:ecommons.cornell.edu:1813/38910	Zamudio, Kelly
+oai:ecommons.cornell.edu:1813/38911	Chen, Tsuhan
+oai:ecommons.cornell.edu:1813/38912	Park, Jiwoong
+oai:ecommons.cornell.edu:1813/38913	Chase, Larry Eugene
+oai:ecommons.cornell.edu:1813/38913	Van Amburgh, Michael E
+oai:ecommons.cornell.edu:1813/38914	Streeter, Deborah H
+oai:ecommons.cornell.edu:1813/38914	Streeter, Deborah H
+oai:ecommons.cornell.edu:1813/38915	Rudstam, Lars Gosta
+oai:ecommons.cornell.edu:1813/38916	Greene, Charles H
+oai:ecommons.cornell.edu:1813/38917	Delisa, Matthew
+oai:ecommons.cornell.edu:1813/38918	Strupp, Barbara Jean
+oai:ecommons.cornell.edu:1813/38919	Anderson, Christopher K
+oai:ecommons.cornell.edu:1813/38920	Gomez, Miguel I.
+oai:ecommons.cornell.edu:1813/38921	Denkers, Eric Young
+oai:ecommons.cornell.edu:1813/38922	Martinez, Jose F.
+oai:ecommons.cornell.edu:1813/38923	Manohar, Rajit
+oai:ecommons.cornell.edu:1813/38924	Vatamaniuk, Olena K
+oai:ecommons.cornell.edu:1813/38925	Kirby, Brian
+oai:ecommons.cornell.edu:1813/38926	Luo, Dan
+oai:ecommons.cornell.edu:1813/38927	Pollack, Lois
+oai:ecommons.cornell.edu:1813/38928	Vatamaniuk, Olena K
+oai:ecommons.cornell.edu:1813/38928	Vatamaniuk, Olena K
+oai:ecommons.cornell.edu:1813/38929	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/38930	Nee, Victor
+oai:ecommons.cornell.edu:1813/38931	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/38932	Loucks, Daniel Peter
+oai:ecommons.cornell.edu:1813/38932	Loucks, Daniel Peter
+oai:ecommons.cornell.edu:1813/38933	Shoemaker, Christine Ann
+oai:ecommons.cornell.edu:1813/38934	Lehmann, Christopher Johannes
+oai:ecommons.cornell.edu:1813/38934	Lehmann, Christopher Johannes
+oai:ecommons.cornell.edu:1813/38935	Hanson, Maureen R
+oai:ecommons.cornell.edu:1813/38936	Wolczanski, Peter Thomas
+oai:ecommons.cornell.edu:1813/38937	Pollock, Clifford Raymond
+oai:ecommons.cornell.edu:1813/38938	Tardos, Eva
+oai:ecommons.cornell.edu:1813/38939	Wolczanski, Peter Thomas
+oai:ecommons.cornell.edu:1813/38940	Mount, Timothy Douglas
+oai:ecommons.cornell.edu:1813/38941	Brown, Laura Schaefer
+oai:ecommons.cornell.edu:1813/38942	Regan, Elizabeth
+oai:ecommons.cornell.edu:1813/38943	Avedisian, C Thomas
+oai:ecommons.cornell.edu:1813/38944	Stroock, Abraham Duncan
+oai:ecommons.cornell.edu:1813/38945	Disalvo, Francis J
+oai:ecommons.cornell.edu:1813/38946	Topaloglu, Huseyin
+oai:ecommons.cornell.edu:1813/38947	Poe, Gregory Lee
+oai:ecommons.cornell.edu:1813/38948	Waldman, Michael
+oai:ecommons.cornell.edu:1813/38949	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/38950	Lovette, John I
+oai:ecommons.cornell.edu:1813/38951	Xu, Kenong
+oai:ecommons.cornell.edu:1813/38952	Wise, Frank William
+oai:ecommons.cornell.edu:1813/38953	Schroeder, Frank
+oai:ecommons.cornell.edu:1813/38954	Kwortnik, Robert J.
+oai:ecommons.cornell.edu:1813/38955	Horne, William Alan
+oai:ecommons.cornell.edu:1813/38956	Archer, Lynden  A.
+oai:ecommons.cornell.edu:1813/38957	Wiesner, Ulrich B.
+oai:ecommons.cornell.edu:1813/38958	Richardson, Ruth E.
+oai:ecommons.cornell.edu:1813/38959	Gomez, Miguel I.
+oai:ecommons.cornell.edu:1813/38960	Chen, Jian
+oai:ecommons.cornell.edu:1813/38961	Hale, John T.
+oai:ecommons.cornell.edu:1813/38962	Ley, Ruth E.
+oai:ecommons.cornell.edu:1813/38963	Thompson, Michael Olgar
+oai:ecommons.cornell.edu:1813/38964	Aquadro, Charles F
+oai:ecommons.cornell.edu:1813/38965	Easley, David Alan
+oai:ecommons.cornell.edu:1813/38966	Conrad, Jon M
+oai:ecommons.cornell.edu:1813/38967	Henderson, John S.
+oai:ecommons.cornell.edu:1813/38968	Wethington, Elaine
+oai:ecommons.cornell.edu:1813/38969	Chen, Tsuhan
+oai:ecommons.cornell.edu:1813/38970	Lipson, Michal
+oai:ecommons.cornell.edu:1813/38971	Gao, Huaizhu
+oai:ecommons.cornell.edu:1813/38972	Elliott, John Jack R.
+oai:ecommons.cornell.edu:1813/38973	Teukolsky, Saul A
+oai:ecommons.cornell.edu:1813/38974	Forester, John F
+oai:ecommons.cornell.edu:1813/38975	Sjamaar, Reyer
+oai:ecommons.cornell.edu:1813/38976	Kirby, Brian
+oai:ecommons.cornell.edu:1813/38977	Steenhuis, Tammo S
+oai:ecommons.cornell.edu:1813/38978	Burns, Joseph Arthur
+oai:ecommons.cornell.edu:1813/38979	Disalvo, Francis J
+oai:ecommons.cornell.edu:1813/38980	Thorne, Robert Edward
+oai:ecommons.cornell.edu:1813/38981	Allmendinger, Richard Waldron
+oai:ecommons.cornell.edu:1813/38982	Stedinger, Jery Russell
+oai:ecommons.cornell.edu:1813/38983	Mattson, Neil S.
+oai:ecommons.cornell.edu:1813/38983	Mattson, Neil S.
+oai:ecommons.cornell.edu:1813/38984	Flanagan, Eanna E
+oai:ecommons.cornell.edu:1813/38985	Thom-Levy, Julia
+oai:ecommons.cornell.edu:1813/38986	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/38987	Cartinhour, Samuel
+oai:ecommons.cornell.edu:1813/38988	Lewis, Tasha Lenise
+oai:ecommons.cornell.edu:1813/38989	Clark, Christopher W
+oai:ecommons.cornell.edu:1813/38989	Knuth, Barbara A
+oai:ecommons.cornell.edu:1813/38990	Greene, Charles H
+oai:ecommons.cornell.edu:1813/38991	Franck, Carl Peter
+oai:ecommons.cornell.edu:1813/38992	Avestimehr, Amir Salman
+oai:ecommons.cornell.edu:1813/38993	Netravali, Anil Narayan
+oai:ecommons.cornell.edu:1813/38994	Kleinberg, Jon M
+oai:ecommons.cornell.edu:1813/38995	Liu, Jun
+oai:ecommons.cornell.edu:1813/38996	Desjardins, Olivier
+oai:ecommons.cornell.edu:1813/38997	Elser, Veit
+oai:ecommons.cornell.edu:1813/38998	Feathers, David Joseph
+oai:ecommons.cornell.edu:1813/38999	Hooker, Giles J.
+oai:ecommons.cornell.edu:1813/39000	Riley, Timothy R.
+oai:ecommons.cornell.edu:1813/39001	Desjardins, Olivier
+oai:ecommons.cornell.edu:1813/39002	Perelstein, Maxim
+oai:ecommons.cornell.edu:1813/39003	Lovelace, Richard V E
+oai:ecommons.cornell.edu:1813/39004	Renegar, James
+oai:ecommons.cornell.edu:1813/39005	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/39006	Muller, David Anthony
+oai:ecommons.cornell.edu:1813/39007	Herter, Terry Lee
+oai:ecommons.cornell.edu:1813/39008	Joachims, Thorsten
+oai:ecommons.cornell.edu:1813/39009	Forester, John F
+oai:ecommons.cornell.edu:1813/39010	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/39011	Kenkel, Donald S.
+oai:ecommons.cornell.edu:1813/39012	Burkhauser, Richard Valentine
+oai:ecommons.cornell.edu:1813/39013	Bala, Kavita
+oai:ecommons.cornell.edu:1813/39014	Baptist, Edward Eugene
+oai:ecommons.cornell.edu:1813/39015	Apsel, Alyssa B.
+oai:ecommons.cornell.edu:1813/39016	Wise, Frank William
+oai:ecommons.cornell.edu:1813/39023	Sengers, Phoebe J.
+oai:ecommons.cornell.edu:1813/39202	Clavel, Pierre
+oai:ecommons.cornell.edu:1813/39290	Hockett, Robert C.
+oai:ecommons.cornell.edu:1813/39291	Stoltzfus, Rebecca Joyce
+oai:ecommons.cornell.edu:1813/39292	Grigoriu, Mircea Dan
+oai:ecommons.cornell.edu:1813/39293	Galloway, Andrew Scott
+oai:ecommons.cornell.edu:1813/39294	Garcia, Ephrahim
+oai:ecommons.cornell.edu:1813/39295	Erickson, David
+oai:ecommons.cornell.edu:1813/39296	Giannelis, Emmanuel P
+oai:ecommons.cornell.edu:1813/39297	Kennedy, William John
+oai:ecommons.cornell.edu:1813/39298	Pritchard, Matthew
+oai:ecommons.cornell.edu:1813/39298	Pritchard, Matthew
+oai:ecommons.cornell.edu:1813/39299	Clancy, Paulette
+oai:ecommons.cornell.edu:1813/39300	Healey, Timothy James
+oai:ecommons.cornell.edu:1813/39301	Crane, Brian
+oai:ecommons.cornell.edu:1813/39302	Hennig, Richard G.
+oai:ecommons.cornell.edu:1813/39303	Xu, Chunhui
+oai:ecommons.cornell.edu:1813/39304	Roberts, Kenneth
+oai:ecommons.cornell.edu:1813/39305	Harrison, Richard Gerald
+oai:ecommons.cornell.edu:1813/39306	Wang, Qi
+oai:ecommons.cornell.edu:1813/39307	Liu, Philip Li-Fan
+oai:ecommons.cornell.edu:1813/39308	Brown, Larry Douglas
+oai:ecommons.cornell.edu:1813/39309	Coates, Geoffrey
+oai:ecommons.cornell.edu:1813/39310	Deitcher, David Lawrence
+oai:ecommons.cornell.edu:1813/39311	Hatcher, Allen E
+oai:ecommons.cornell.edu:1813/39312	Santiago-Irizarry, Vilma
+oai:ecommons.cornell.edu:1813/39313	Buhrman, Robert A
+oai:ecommons.cornell.edu:1813/39314	Vengalattore, Mukund
+oai:ecommons.cornell.edu:1813/39315	Giovannoni, James J.
+oai:ecommons.cornell.edu:1813/39316	Cerione, Richard A
+oai:ecommons.cornell.edu:1813/39317	Devault, Ileen A
+oai:ecommons.cornell.edu:1813/39317	Katz, Harry Charles
+oai:ecommons.cornell.edu:1813/39318	O'Rourke, Thomas Denis
+oai:ecommons.cornell.edu:1813/39319	Williams, Linda Brooks
+oai:ecommons.cornell.edu:1813/39320	Monroe, Lauren
+oai:ecommons.cornell.edu:1813/39321	Smith, Anna Marie
+oai:ecommons.cornell.edu:1813/39322	Hill, Thomas Dana
+oai:ecommons.cornell.edu:1813/39323	Welker, Marina Andrea
+oai:ecommons.cornell.edu:1813/39324	Brown, William J
+oai:ecommons.cornell.edu:1813/39325	Schlom, Darrell
+oai:ecommons.cornell.edu:1813/39326	Moraru, Carmen I
+oai:ecommons.cornell.edu:1813/39327	Brooks, Samantha A.
+oai:ecommons.cornell.edu:1813/39328	Cowen III, Edwin Alfred
+oai:ecommons.cornell.edu:1813/39329	Roberts, Jeffrey Warren
+oai:ecommons.cornell.edu:1813/39330	Nelson, Mark W.
+oai:ecommons.cornell.edu:1813/39330	Nelson, Mark W.
+oai:ecommons.cornell.edu:1813/39331	Quirk, Susan Mary
+oai:ecommons.cornell.edu:1813/39331	Quirk, Susan Mary
+oai:ecommons.cornell.edu:1813/39332	Ramage, Andrew
+oai:ecommons.cornell.edu:1813/39333	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/39334	Hess, Peter George Mueller
+oai:ecommons.cornell.edu:1813/39335	Warner, Derek H.
+oai:ecommons.cornell.edu:1813/39336	Woods, Mary Norman
+oai:ecommons.cornell.edu:1813/39337	Scherer, Clifford Wayne
+oai:ecommons.cornell.edu:1813/39338	Worobo, Randy W.
+oai:ecommons.cornell.edu:1813/39339	van der Meulen, Marjolein
+oai:ecommons.cornell.edu:1813/39340	Waite, Geoffrey Carter W
+oai:ecommons.cornell.edu:1813/39341	Lewis, Mark E.
+oai:ecommons.cornell.edu:1813/39342	Van Renesse, Robbert
+oai:ecommons.cornell.edu:1813/39343	Varner, Jeffrey D.
+oai:ecommons.cornell.edu:1813/39344	Robinson, Richard Douglas
+oai:ecommons.cornell.edu:1813/39345	Taylor, Alan George
+oai:ecommons.cornell.edu:1813/39346	Kuruvilla, Sarosh C
+oai:ecommons.cornell.edu:1813/39347	Boyd, Richard Newell
+oai:ecommons.cornell.edu:1813/39348	Apsel, Alyssa B.
+oai:ecommons.cornell.edu:1813/39349	Bunce, Valerie Jane
+oai:ecommons.cornell.edu:1813/39350	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/39350	Walter, Michael Todd
+oai:ecommons.cornell.edu:1813/39351	Hanson, Ellis
+oai:ecommons.cornell.edu:1813/39352	Parker, Alan R.
+oai:ecommons.cornell.edu:1813/39353	Sorrells, Mark Earl
+oai:ecommons.cornell.edu:1813/39354	Tarrow, Sidney G
+oai:ecommons.cornell.edu:1813/39355	Miller, William
+oai:ecommons.cornell.edu:1813/39356	Davisson, Robin L
+oai:ecommons.cornell.edu:1813/39357	Kawate, Toshimitsu
+oai:ecommons.cornell.edu:1813/39358	Stipanuk, Martha Harney
+oai:ecommons.cornell.edu:1813/39359	Desjardins, Olivier
+oai:ecommons.cornell.edu:1813/39360	Buhrman, Robert A
+oai:ecommons.cornell.edu:1813/39361	Moraru, Carmen I
+oai:ecommons.cornell.edu:1813/39362	Kirby, Brian
+oai:ecommons.cornell.edu:1813/39363	Delisa, Matthew
+oai:ecommons.cornell.edu:1813/39364	Allred, Shorna Broussard
+oai:ecommons.cornell.edu:1813/39365	Bretscher, Anthony Paul
+oai:ecommons.cornell.edu:1813/39366	Mount, Timothy Douglas
+oai:ecommons.cornell.edu:1813/39367	Derry, Louis A.
+oai:ecommons.cornell.edu:1813/39368	Brainerd, Charles
+oai:ecommons.cornell.edu:1813/39369	Wasserman, Ira M
+oai:ecommons.cornell.edu:1813/39370	Lynn, William Michael
+oai:ecommons.cornell.edu:1813/39371	Gu, Zhenglong
+oai:ecommons.cornell.edu:1813/39372	Rose, Jocelyn
+oai:ecommons.cornell.edu:1813/39373	Smith, David M.
+oai:ecommons.cornell.edu:1813/39374	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/39374	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/39375	Kan, Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/39376	Wang, Yi
+oai:ecommons.cornell.edu:1813/39377	Mulvaney, Steven J
+oai:ecommons.cornell.edu:1813/39378	Hedge, Alan
+oai:ecommons.cornell.edu:1813/39379	Csaki, Csaba
+oai:ecommons.cornell.edu:1813/39380	Rizvi, Syed S H
+oai:ecommons.cornell.edu:1813/39381	Van Amburgh, Michael E
+oai:ecommons.cornell.edu:1813/39382	Warner, Derek H.
+oai:ecommons.cornell.edu:1813/39383	Kassam, Karim-Aly Saleh
+oai:ecommons.cornell.edu:1813/39384	King, Michael R.
+oai:ecommons.cornell.edu:1813/39385	Pollock, Clifford Raymond
+oai:ecommons.cornell.edu:1813/39386	Antczak, Douglas Francis
+oai:ecommons.cornell.edu:1813/39387	Kirby, Brian
+oai:ecommons.cornell.edu:1813/39388	Haas, Zygmunt J
+oai:ecommons.cornell.edu:1813/39389	Booth, James
+oai:ecommons.cornell.edu:1813/39390	Kalas, Rayna M
+oai:ecommons.cornell.edu:1813/39391	Frank, Jason
+oai:ecommons.cornell.edu:1813/39392	Anker, Elizabeth Susan
+oai:ecommons.cornell.edu:1813/39393	Anderson, Benjamin William
+oai:ecommons.cornell.edu:1813/39394	Frey, Margaret W
+oai:ecommons.cornell.edu:1813/39395	Doyle, Jeffrey J
+oai:ecommons.cornell.edu:1813/39396	Rickard, Bradley J.
+oai:ecommons.cornell.edu:1813/39397	Buhrman, Robert A
+oai:ecommons.cornell.edu:1813/39398	Buck-Morss, Susan
+oai:ecommons.cornell.edu:1813/39399	Hazan, Cynthia
+oai:ecommons.cornell.edu:1813/39400	Bosteels, Bruno
+oai:ecommons.cornell.edu:1813/39401	Tomlan, Michael Andrew
+oai:ecommons.cornell.edu:1813/39402	Warner, Derek H.
+oai:ecommons.cornell.edu:1813/39403	Bhave, Sunil A.
+oai:ecommons.cornell.edu:1813/39404	Cowen III, Edwin Alfred
+oai:ecommons.cornell.edu:1813/39404	Cowen III, Edwin Alfred
+oai:ecommons.cornell.edu:1813/39405	Baird, Barbara Ann
+oai:ecommons.cornell.edu:1813/39406	Brainerd, Charles
+oai:ecommons.cornell.edu:1813/39407	Hedge, Alan
+oai:ecommons.cornell.edu:1813/39408	Gomes, Carla P
+oai:ecommons.cornell.edu:1813/39409	Ndulo, Muna B.
+oai:ecommons.cornell.edu:1813/39410	Whitman, John
+oai:ecommons.cornell.edu:1813/39411	Byrne, Sahara E.
+oai:ecommons.cornell.edu:1813/39412	Nelson, Rebecca J.
+oai:ecommons.cornell.edu:1813/39413	O'Brien, Kimberly O
+oai:ecommons.cornell.edu:1813/39414	Thaler, Jennifer S.
+oai:ecommons.cornell.edu:1813/39415	Hairston Jr, Nelson George
+oai:ecommons.cornell.edu:1813/39416	Savin-Williams, Ritch C.
+oai:ecommons.cornell.edu:1813/39417	Lazzaro, Brian
+oai:ecommons.cornell.edu:1813/39418	Giannelis, Emmanuel P
+oai:ecommons.cornell.edu:1813/39419	Bogdanove, Adam Joseph
+oai:ecommons.cornell.edu:1813/39420	Gehrke, Johannes E.
+oai:ecommons.cornell.edu:1813/39421	Cawley, John H.
+oai:ecommons.cornell.edu:1813/39422	Qi, Ling
+oai:ecommons.cornell.edu:1813/39423	Gaeta, Alexander L.
+oai:ecommons.cornell.edu:1813/39424	Erickson, David
+oai:ecommons.cornell.edu:1813/39426	Feigenson, Gerald W
+oai:ecommons.cornell.edu:1813/39427	Cosley, Daniel R.
+oai:ecommons.cornell.edu:1813/39428	Alvarez Daziano, Ricardo
+oai:ecommons.cornell.edu:1813/39429	Alexandridis, Annetta
+oai:ecommons.cornell.edu:1813/39430	Kuruvilla, Sarosh C
+oai:ecommons.cornell.edu:1813/39431	Mount, Timothy Douglas
+oai:ecommons.cornell.edu:1813/39432	Wang, Ping
+oai:ecommons.cornell.edu:1813/39433	Chiang, Hsiao-Dong
+oai:ecommons.cornell.edu:1813/39434	Seyler, Charles Eugene
+oai:ecommons.cornell.edu:1813/39435	Wolford, Wendy W.
+oai:ecommons.cornell.edu:1813/39436	Schimenti, John C.
+oai:ecommons.cornell.edu:1813/39437	Alvarez Daziano, Ricardo
+oai:ecommons.cornell.edu:1813/39438	Kline, Ronald R
+oai:ecommons.cornell.edu:1813/39439	Donaghy, Kieran Patrick
+oai:ecommons.cornell.edu:1813/39440	Erickson, David
+oai:ecommons.cornell.edu:1813/39441	Degaetano, Arthur T
+oai:ecommons.cornell.edu:1813/39442	Webster, James
+oai:ecommons.cornell.edu:1813/39443	Blossey, Bernd
+oai:ecommons.cornell.edu:1813/39444	Bauerle, Taryn L.
+oai:ecommons.cornell.edu:1813/39445	Avestimehr, Amir Salman
+oai:ecommons.cornell.edu:1813/39446	McEuen, Paul L.
+oai:ecommons.cornell.edu:1813/39447	Hess, Peter George Mueller
+oai:ecommons.cornell.edu:1813/39448	Kress Gazit, Hadas
+oai:ecommons.cornell.edu:1813/39449	Tang, Ao
+oai:ecommons.cornell.edu:1813/39450	Kawate, Toshimitsu
+oai:ecommons.cornell.edu:1813/39451	Spencer, Michael G.
+oai:ecommons.cornell.edu:1813/39452	Lehmann, Christopher Johannes
+oai:ecommons.cornell.edu:1813/39452	Lehmann, Christopher Johannes
+oai:ecommons.cornell.edu:1813/39453	Barbano, David Mark
+oai:ecommons.cornell.edu:1813/39453	Barbano, David Mark
+oai:ecommons.cornell.edu:1813/39454	Chusid, Jeffrey M.
+oai:ecommons.cornell.edu:1813/39455	Cutting, James Eric
+oai:ecommons.cornell.edu:1813/39456	Hewson, Ian
+oai:ecommons.cornell.edu:1813/39457	Rasmussen, Kathleen Maher
+oai:ecommons.cornell.edu:1813/39458	Taylor, Keith Weller
+oai:ecommons.cornell.edu:1813/39459	Zhang, Ke
+oai:ecommons.cornell.edu:1813/39460	Zhang, Ke
+oai:ecommons.cornell.edu:1813/39461	Pinch, Trevor J
+oai:ecommons.cornell.edu:1813/39462	Liu, Philip Li-Fan
+oai:ecommons.cornell.edu:1813/39463	Siggia, Eric Dean
+oai:ecommons.cornell.edu:1813/39464	Collins, Lance
+oai:ecommons.cornell.edu:1813/39465	Devine, Carol M
+oai:ecommons.cornell.edu:1813/39466	Ruina, Andy Lee
+oai:ecommons.cornell.edu:1813/39467	Gourdon, Delphine
+oai:ecommons.cornell.edu:1813/39468	Rand, Richard Herbert
+oai:ecommons.cornell.edu:1813/39469	Edelman, Shimon J.
+oai:ecommons.cornell.edu:1813/39470	Liepe, Matthias Ulf
+oai:ecommons.cornell.edu:1813/39471	Aristilde, Ludmilla
+oai:ecommons.cornell.edu:1813/39472	Hoffstaetter, Georg Heinz
+oai:ecommons.cornell.edu:1813/39473	Gehrke, Johannes E.
+oai:ecommons.cornell.edu:1813/39474	Hess, Peter George Mueller
+oai:ecommons.cornell.edu:1813/39475	Zhang, Ke
+oai:ecommons.cornell.edu:1813/39476	Ng, David T.
+oai:ecommons.cornell.edu:1813/39477	Moore, Justin Tatch
+oai:ecommons.cornell.edu:1813/39479	Tsyrennikov, Viktor
+oai:ecommons.cornell.edu:1813/39480	Shoemaker, Christine Ann
+oai:ecommons.cornell.edu:1813/39481	Cathles, Lawrence M
+oai:ecommons.cornell.edu:1813/39482	Stedinger, Jery Russell
+oai:ecommons.cornell.edu:1813/40329	Willford, Andrew C.
+oai:ecommons.cornell.edu:1813/40588	Villarejo, Amy
+oai:ecommons.cornell.edu:1813/40589	Weiss, Robert S.
+oai:ecommons.cornell.edu:1813/40590	Rana, Farhan
+oai:ecommons.cornell.edu:1813/40591	Haines-Eitzen,Kimberly Joy
+oai:ecommons.cornell.edu:1813/40592	Dawson,Paul Richard
+oai:ecommons.cornell.edu:1813/40594	Angenent,Largus
+oai:ecommons.cornell.edu:1813/40595	Minca,Andreea C.
+oai:ecommons.cornell.edu:1813/40596	Pollock,Clifford Raymond
+oai:ecommons.cornell.edu:1813/40597	Williams,Linda Brooks
+oai:ecommons.cornell.edu:1813/40598	Sachs,Aaron
+oai:ecommons.cornell.edu:1813/40599	McDermid,Joann M.
+oai:ecommons.cornell.edu:1813/40600	Steen,Paul Herman
+oai:ecommons.cornell.edu:1813/40601	Freed,Jack H
+oai:ecommons.cornell.edu:1813/40603	Dadi,Muhammad Iftikhar
+oai:ecommons.cornell.edu:1813/40604	Sullivan,Patrick J
+oai:ecommons.cornell.edu:1813/40605	Zehnder,Alan Taylor
+oai:ecommons.cornell.edu:1813/40606	Sonnenstuhl,William James
+oai:ecommons.cornell.edu:1813/40607	Peck,Mason
+oai:ecommons.cornell.edu:1813/40609	Stedinger,Jery Russell
+oai:ecommons.cornell.edu:1813/40610	Basu,Arnab K.
+oai:ecommons.cornell.edu:1813/40611	Hammer,David A.
+oai:ecommons.cornell.edu:1813/40612	Worobo,Randy W.
+oai:ecommons.cornell.edu:1813/40613	Manning,Sturt
+oai:ecommons.cornell.edu:1813/40614	Loeckenhoff,Corinna E
+oai:ecommons.cornell.edu:1813/40615	Strauss,Barry Stuart
+oai:ecommons.cornell.edu:1813/40616	Jander,Georg
+oai:ecommons.cornell.edu:1813/40617	Wells,Martin Timothy
+oai:ecommons.cornell.edu:1813/40618	Shelton,Anthony M
+oai:ecommons.cornell.edu:1813/40619	Attell,Kevin D.
+oai:ecommons.cornell.edu:1813/40621	Bean,Rachel E.
+oai:ecommons.cornell.edu:1813/40623	Gaeta,Alexander L.
+oai:ecommons.cornell.edu:1813/40624	Estroff,Lara A.
+oai:ecommons.cornell.edu:1813/40625	Curtis,Paul D
+oai:ecommons.cornell.edu:1813/40626	Santiago-Irizarry,Vilma
+oai:ecommons.cornell.edu:1813/40627	Abowd,John Maron
+oai:ecommons.cornell.edu:1813/40628	Rand,Richard Herbert
+oai:ecommons.cornell.edu:1813/40629	Davis,James C.
+oai:ecommons.cornell.edu:1813/40630	Nelson,Eric Bronson
+oai:ecommons.cornell.edu:1813/40631	Watkins,Christopher Brian
+oai:ecommons.cornell.edu:1813/40632	Campbell,Mark
+oai:ecommons.cornell.edu:1813/40633	Mao,Yuxin
+oai:ecommons.cornell.edu:1813/40634	Fry,William Earl
+oai:ecommons.cornell.edu:1813/40635	Baptist,Edward Eugene
+oai:ecommons.cornell.edu:1813/40636	Pinch,Trevor J
+oai:ecommons.cornell.edu:1813/40637	Lee,Chang Yong
+oai:ecommons.cornell.edu:1813/40638	Pingali,Prabhu Lakshminarayana
+oai:ecommons.cornell.edu:1813/40639	Rao,Vithala R.
+oai:ecommons.cornell.edu:1813/40640	Hausknecht,John P.
+oai:ecommons.cornell.edu:1813/40641	Wise,Frank William
+oai:ecommons.cornell.edu:1813/40642	Walker,Larry P
+oai:ecommons.cornell.edu:1813/40643	Booth,James
+oai:ecommons.cornell.edu:1813/40644	Donaghy,Kieran Patrick
+oai:ecommons.cornell.edu:1813/40646	Reed,Patrick Michael
+oai:ecommons.cornell.edu:1813/40647	McLeod,Poppy L
+oai:ecommons.cornell.edu:1813/40648	Hedge,Alan
+oai:ecommons.cornell.edu:1813/40649	Rana,Farhan
+oai:ecommons.cornell.edu:1813/40651	Spencer,Michael G.
+oai:ecommons.cornell.edu:1813/40652	Gold,Daniel Richard
+oai:ecommons.cornell.edu:1813/40653	Loeckenhoff,Corinna E
+oai:ecommons.cornell.edu:1813/40654	Samuels,Shirley R
+oai:ecommons.cornell.edu:1813/40655	Butcher,Jonathan T.
+oai:ecommons.cornell.edu:1813/40656	McEuen,Paul L.
+oai:ecommons.cornell.edu:1813/40657	Kennedy,William John
+oai:ecommons.cornell.edu:1813/40658	Kusse,Bruce Raymond
+oai:ecommons.cornell.edu:1813/40659	Louge,Michel Yves
+oai:ecommons.cornell.edu:1813/40661	Kessler,Andre
+oai:ecommons.cornell.edu:1813/40662	Hanrath,Tobias
+oai:ecommons.cornell.edu:1813/40663	Cherney,Debbie Jeannine
+oai:ecommons.cornell.edu:1813/40664	Williams,Linda Brooks
+oai:ecommons.cornell.edu:1813/40665	Walter,Michael Todd
+oai:ecommons.cornell.edu:1813/40666	Adelson,Leslie Allen
+oai:ecommons.cornell.edu:1813/40667	Manning,Sturt
+oai:ecommons.cornell.edu:1813/40668	Fields,Gary Sheldon
+oai:ecommons.cornell.edu:1813/40669	Boisclair,Yves R
+oai:ecommons.cornell.edu:1813/40670	Knutson,Allen
+oai:ecommons.cornell.edu:1813/40671	Baeumner,Antje J
+oai:ecommons.cornell.edu:1813/40673	Mazourek,Michael
+oai:ecommons.cornell.edu:1813/40674	Knipple,Douglas C
+oai:ecommons.cornell.edu:1813/40675	Robinson,Terence Lee
+oai:ecommons.cornell.edu:1813/40676	Varner,Jeffrey D.
+oai:ecommons.cornell.edu:1813/40677	Losey,John E.
+oai:ecommons.cornell.edu:1813/40678	MacDougall,Bonnie Graham
+oai:ecommons.cornell.edu:1813/40679	Lis,John T
+oai:ecommons.cornell.edu:1813/40680	Willford,Andrew C.
+oai:ecommons.cornell.edu:1813/40681	Lee,David R
+oai:ecommons.cornell.edu:1813/40682	Ellner,Stephen Paul
+oai:ecommons.cornell.edu:1813/40683	Stacey,Gordon John
+oai:ecommons.cornell.edu:1813/40684	Saloff-Coste,Laurent Pascal
+oai:ecommons.cornell.edu:1813/40685	Oswald,Robert Edward
+oai:ecommons.cornell.edu:1813/40686	Burrow,Anthony L
+oai:ecommons.cornell.edu:1813/40687	Loring,Roger F
+oai:ecommons.cornell.edu:1813/40688	Wiedmann,Martin
+oai:ecommons.cornell.edu:1813/40689	Putnam,David A.
+oai:ecommons.cornell.edu:1813/40690	Macy,Michael Walton
+oai:ecommons.cornell.edu:1813/40691	Tye,Bik-Kwoon
+oai:ecommons.cornell.edu:1813/40692	Richards,Eric Jean
+oai:ecommons.cornell.edu:1813/40693	Jordan,Teresa Eileen
+oai:ecommons.cornell.edu:1813/40694	Xu,Chunhui
+oai:ecommons.cornell.edu:1813/40695	Sacks,Gavin Lavi
+oai:ecommons.cornell.edu:1813/40696	McDermid,Joann M.
+oai:ecommons.cornell.edu:1813/40698	Walter,Michael Todd
+oai:ecommons.cornell.edu:1813/40700	Burrow,Anthony L
+oai:ecommons.cornell.edu:1813/40701	Peck,Mason
+oai:ecommons.cornell.edu:1813/40702	Lipson,Hod
+oai:ecommons.cornell.edu:1813/40703	Evans,Gary William
+oai:ecommons.cornell.edu:1813/40704	Psiaki,Mark Lockwood
+oai:ecommons.cornell.edu:1813/40705	Park,Huiju
+oai:ecommons.cornell.edu:1813/40706	Walter,Michael Todd
+oai:ecommons.cornell.edu:1813/40707	Besharov,Marya L.
+oai:ecommons.cornell.edu:1813/40708	Giovannoni,James J.
+oai:ecommons.cornell.edu:1813/40709	Niederdeppe,Jeffrey D. H.
+oai:ecommons.cornell.edu:1813/40710	Warnick,Lorin D
+oai:ecommons.cornell.edu:1813/40711	Ehrenberg,Ronald Gordon
+oai:ecommons.cornell.edu:1813/40712	Snavely,Keith Noah
+oai:ecommons.cornell.edu:1813/40713	Clancy, Paulette
+oai:ecommons.cornell.edu:1813/40714	Schulze,William D
+oai:ecommons.cornell.edu:1813/40715	Henley,Christopher Lee
+oai:ecommons.cornell.edu:1813/40716	Manohar,Rajit
+oai:ecommons.cornell.edu:1813/40718	Pawlowski,Wojciech
+oai:ecommons.cornell.edu:1813/40720	McDermid,Joann M.
+oai:ecommons.cornell.edu:1813/40721	Schuldt,Jonathon Paul
+oai:ecommons.cornell.edu:1813/40722	Mulvaney,Steven J
+oai:ecommons.cornell.edu:1813/40723	Bazarov,Ivan
+oai:ecommons.cornell.edu:1813/40725	Buck-Morss,Susan
+oai:ecommons.cornell.edu:1813/40726	McCouch,Susan Rutherford
+oai:ecommons.cornell.edu:1813/40727	Assie-Lumumba,N'Dri Therese
+oai:ecommons.cornell.edu:1813/40729	McMichael,Philip David
+oai:ecommons.cornell.edu:1813/40730	van de Walle,Nicolas
+oai:ecommons.cornell.edu:1813/40732	Goncalo,Jack A.
+oai:ecommons.cornell.edu:1813/40733	Reed,Patrick Michael
+oai:ecommons.cornell.edu:1813/40734	Bicalho,Rodrigo Carvalho
+oai:ecommons.cornell.edu:1813/40735	Long,Qiaoming
+oai:ecommons.cornell.edu:1813/40736	Hua,Ying
+oai:ecommons.cornell.edu:1813/40737	Gaeta,Alexander L.
+oai:ecommons.cornell.edu:1813/40738	Lipson,Michal
+oai:ecommons.cornell.edu:1813/40739	Mertens,Karel
+oai:ecommons.cornell.edu:1813/40740	Casasola,Marianella
+oai:ecommons.cornell.edu:1813/40741	Nozick,Linda K.
+oai:ecommons.cornell.edu:1813/40839	Kaiser, Harry Mason
+oai:ecommons.cornell.edu:1813/40840	Strang, David
+oai:ecommons.cornell.edu:1813/40878	Sethna,James Patarasp
+oai:ecommons.cornell.edu:1813/40879	Villenas,Sofia A
+oai:ecommons.cornell.edu:1813/40880	Vanden Heuvel,Justine E.
+oai:ecommons.cornell.edu:1813/40881	King,Michael R.
+oai:ecommons.cornell.edu:1813/40882	Gaeta,Alexander L.
+oai:ecommons.cornell.edu:1813/40883	Alabi,Christopher Akinleye
+oai:ecommons.cornell.edu:1813/40884	Mansfield,Anna K.
+oai:ecommons.cornell.edu:1813/40885	Woodard,Joshua D.
+oai:ecommons.cornell.edu:1813/40886	Li,Ping
+oai:ecommons.cornell.edu:1813/40887	Ruina,Andy Lee
+oai:ecommons.cornell.edu:1813/40888	Lewis,Tasha Lenise
+oai:ecommons.cornell.edu:1813/40889	Zamudio,Kelly
+oai:ecommons.cornell.edu:1813/40890	Manning,Sturt
+oai:ecommons.cornell.edu:1813/40891	Hua,Ying
+oai:ecommons.cornell.edu:1813/40892	Young,Sera Lewise
+oai:ecommons.cornell.edu:1813/40893	O'Donoghue,Edward Donald
+oai:ecommons.cornell.edu:1813/40894	Shapleigh,James P
+oai:ecommons.cornell.edu:1813/40895	Dubreuil,Laurent
+oai:ecommons.cornell.edu:1813/40896	Linder,Maurine E.
+oai:ecommons.cornell.edu:1813/40897	Johnson,Patricia A
+oai:ecommons.cornell.edu:1813/40898	Bicalho,Rodrigo Carvalho
+oai:ecommons.cornell.edu:1813/40899	Smart,Christine Durbahn
+oai:ecommons.cornell.edu:1813/40900	Cutting,James Eric
+oai:ecommons.cornell.edu:1813/40901	Walter,Michael Todd
+oai:ecommons.cornell.edu:1813/40902	Chang,Derek S.
+oai:ecommons.cornell.edu:1813/40903	Muscalu,Florin Camil
+oai:ecommons.cornell.edu:1813/40904	Stoltzfus,Rebecca Joyce
+oai:ecommons.cornell.edu:1813/40905	McLeod,Poppy L
+oai:ecommons.cornell.edu:1813/40906	Walter,Michael Todd
+oai:ecommons.cornell.edu:1813/40907	Fussell,Susan R.
+oai:ecommons.cornell.edu:1813/40908	Feigenson,Gerald W
+oai:ecommons.cornell.edu:1813/40909	Shore,Richard A
+oai:ecommons.cornell.edu:1813/40910	Chau,Ho Yan
+oai:ecommons.cornell.edu:1813/40911	Sobal,Jeffery
+oai:ecommons.cornell.edu:1813/40912	Bynoe,Margaret S.
+oai:ecommons.cornell.edu:1813/40913	Suh,Gookwon Edward
+oai:ecommons.cornell.edu:1813/40914	Batten,Christopher
+oai:ecommons.cornell.edu:1813/40915	Cawley,John H.
+oai:ecommons.cornell.edu:1813/40916	Greenberg,Donald P
+oai:ecommons.cornell.edu:1813/40917	Molnar,Alyosha Christopher
+oai:ecommons.cornell.edu:1813/40918	Myers,Andrew C.
+oai:ecommons.cornell.edu:1813/40919	Herter,Terry Lee
+oai:ecommons.cornell.edu:1813/40920	Cheetham,Jonathan
+oai:ecommons.cornell.edu:1813/40921	Sider,Theodore R.
+oai:ecommons.cornell.edu:1813/40922	Shmoys,David B
+oai:ecommons.cornell.edu:1813/40923	Collum,David B
+oai:ecommons.cornell.edu:1813/40924	Edelman,Shimon J.
+oai:ecommons.cornell.edu:1813/40925	Hua,Ying
+oai:ecommons.cornell.edu:1813/40926	Wells,Nancy M.
+oai:ecommons.cornell.edu:1813/40927	Morgan,Stephen L.
+oai:ecommons.cornell.edu:1813/40928	Pass,Rafael N.
+oai:ecommons.cornell.edu:1813/40929	Chen,Tsuhan
+oai:ecommons.cornell.edu:1813/40930	Steenhuis,Tammo S
+oai:ecommons.cornell.edu:1813/40931	Elser,Veit
+oai:ecommons.cornell.edu:1813/40932	Albonesi,David H.
+oai:ecommons.cornell.edu:1813/40933	Grigoriu,Mircea Dan
+oai:ecommons.cornell.edu:1813/40934	McEuen,Paul L.
+oai:ecommons.cornell.edu:1813/40935	Bathrick,David
+oai:ecommons.cornell.edu:1813/40936	Lee,David R
+oai:ecommons.cornell.edu:1813/40937	Topaloglu,Huseyin
+oai:ecommons.cornell.edu:1813/40938	Travis,Alexander J.
+oai:ecommons.cornell.edu:1813/40939	Kirby,Brian
+oai:ecommons.cornell.edu:1813/40940	Haas,Jere Douglas
+oai:ecommons.cornell.edu:1813/40941	McCouch,Susan Rutherford
+oai:ecommons.cornell.edu:1813/40942	Hua,Ying
+oai:ecommons.cornell.edu:1813/40943	de Bary,Brett
+oai:ecommons.cornell.edu:1813/40944	Hassan,Salah
+oai:ecommons.cornell.edu:1813/40945	Lipson,Hod
+oai:ecommons.cornell.edu:1813/40946	Muscalu,Florin Camil
+oai:ecommons.cornell.edu:1813/40947	Fortune,Joanne Elizabeth
+oai:ecommons.cornell.edu:1813/40948	Liu,Rui Hai
+oai:ecommons.cornell.edu:1813/40949	Topaloglu,Huseyin
+oai:ecommons.cornell.edu:1813/40950	Myers,Christopher R
+oai:ecommons.cornell.edu:1813/40951	Zipfel,Warren R.
+oai:ecommons.cornell.edu:1813/40952	Travis,Alexander J.
+oai:ecommons.cornell.edu:1813/40953	McComas,Katherine Anne
+oai:ecommons.cornell.edu:1813/40954	Schulze,William D.
+oai:ecommons.cornell.edu:1813/40955	Samuels,Shirley R
+oai:ecommons.cornell.edu:1813/40956	Place,Ned J.
+oai:ecommons.cornell.edu:1813/40957	Cassano,Patricia Ann
+oai:ecommons.cornell.edu:1813/40958	Gourdon,Delphine
+oai:ecommons.cornell.edu:1813/40959	Ashdown,Susan P
+oai:ecommons.cornell.edu:1813/40960	Kozen,Dexter Campbell
+oai:ecommons.cornell.edu:1813/40961	Joachims,Thorsten
+oai:ecommons.cornell.edu:1813/40962	Frakes,Michael D
+oai:ecommons.cornell.edu:1813/40963	Myers,Andrew C.
+oai:ecommons.cornell.edu:1813/40964	Park,Jiwoong
+oai:ecommons.cornell.edu:1813/40965	Halpern,Joseph Yehuda
+oai:ecommons.cornell.edu:1813/40966	Moraru,Carmen I
+oai:ecommons.cornell.edu:1813/40967	Hua,Ying
+oai:ecommons.cornell.edu:1813/40968	Saccamano,Neil Charles
+oai:ecommons.cornell.edu:1813/40969	Marohn,John A.
+oai:ecommons.cornell.edu:1813/40970	Zec,Draga
+oai:ecommons.cornell.edu:1813/40971	Elliott,John Jack R.
+oai:ecommons.cornell.edu:1813/40972	Chiang,Hsiao-Dong
+oai:ecommons.cornell.edu:1813/40973	Prasad,Eswar Shanker
+oai:ecommons.cornell.edu:1813/40974	Brooks,Samantha A.
+oai:ecommons.cornell.edu:1813/40975	van de Walle,Nicolas
+oai:ecommons.cornell.edu:1813/40976	Lipsky,David Bruce
+oai:ecommons.cornell.edu:1813/40977	Lewis,Chad Arthur
+oai:ecommons.cornell.edu:1813/40978	Rayor,Linda Susan
+oai:ecommons.cornell.edu:1813/40979	Henderson,David W.
+oai:ecommons.cornell.edu:1813/40980	Cohn,Abigail C
+oai:ecommons.cornell.edu:1813/40981	Lovelace,Richard V E
+oai:ecommons.cornell.edu:1813/40982	Kassam,Karim-Aly Saleh
+oai:ecommons.cornell.edu:1813/40983	Richards,Annette
+oai:ecommons.cornell.edu:1813/40984	Park,Huiju
+oai:ecommons.cornell.edu:1813/40985	Elser,Veit
+oai:ecommons.cornell.edu:1813/40986	Gierasch,Peter Jay
+oai:ecommons.cornell.edu:1813/40987	Helbling,Damian E
+oai:ecommons.cornell.edu:1813/40988	Ober,Christopher Kemper
+oai:ecommons.cornell.edu:1813/40989	Buhrman,Robert A
+oai:ecommons.cornell.edu:1813/40990	Teukolsky,Saul A
+oai:ecommons.cornell.edu:1813/40991	Coates,Geoffrey
+oai:ecommons.cornell.edu:1813/40992	Munasinghe,Viranjini P
+oai:ecommons.cornell.edu:1813/40993	Liu,Philip Li-Fan
+oai:ecommons.cornell.edu:1813/40994	Gleason,Kathryn L.
+oai:ecommons.cornell.edu:1813/40995	Elliott,John Jack R.
+oai:ecommons.cornell.edu:1813/40996	Chau,Ho Yan
+oai:ecommons.cornell.edu:1813/40997	Garces,Maria Antonia
+oai:ecommons.cornell.edu:1813/40998	Elliott,John Jack R.
+oai:ecommons.cornell.edu:1813/40999	Kourkoutis,Lena Fitting
+oai:ecommons.cornell.edu:1813/41000	Prasad,Eswar Shanker
+oai:ecommons.cornell.edu:1813/41001	Lovelace,Richard V E
+oai:ecommons.cornell.edu:1813/41002	Hoy,Ronald Raymond
+oai:ecommons.cornell.edu:1813/41003	Rudstam,Lars Gosta
+oai:ecommons.cornell.edu:1813/41004	Richardson,Ruth E.
+oai:ecommons.cornell.edu:1813/41005	Turnquist,Mark Alan
+oai:ecommons.cornell.edu:1813/41006	Nozick,Linda K.
+oai:ecommons.cornell.edu:1813/41007	Hennig,Richard G.
+oai:ecommons.cornell.edu:1813/41008	Jarrow,Robert A.
+oai:ecommons.cornell.edu:1813/41009	Ghosh,Durba
+oai:ecommons.cornell.edu:1813/41010	Hysell,David Lee
+oai:ecommons.cornell.edu:1813/41011	Lewis,Mark E.
+oai:ecommons.cornell.edu:1813/41012	Baker,Shefford P.
+oai:ecommons.cornell.edu:1813/41013	Suh,Gookwon Edward
+oai:ecommons.cornell.edu:1813/41014	Liu,Rui Hai
+oai:ecommons.cornell.edu:1813/41015	Stillman,Michael Eugene
+oai:ecommons.cornell.edu:1813/41016	Studer,Christoph
+oai:ecommons.cornell.edu:1813/41017	Squyres,Steven Weldon
+oai:ecommons.cornell.edu:1813/41018	Bemis,William Elliott
+oai:ecommons.cornell.edu:1813/41019	Mannix,Elizabeth A.
+oai:ecommons.cornell.edu:1813/41020	Wasserman,Ira M
+oai:ecommons.cornell.edu:1813/41021	Pritchard,Sara B.
+oai:ecommons.cornell.edu:1813/41022	Baker,Shefford P.
+oai:ecommons.cornell.edu:1813/41023	Tolbert,Pamela S
+oai:ecommons.cornell.edu:1813/41024	Batt,Carl A
+oai:ecommons.cornell.edu:1813/41025	Gao,Yingxin
+oai:ecommons.cornell.edu:1813/41026	Molnar,Alyosha Christopher
+oai:ecommons.cornell.edu:1813/41027	Wiedmann,Martin
+oai:ecommons.cornell.edu:1813/41028	Cleland,Thomas A.
+oai:ecommons.cornell.edu:1813/41029	Haas,Jere Douglas
+oai:ecommons.cornell.edu:1813/41030	Shoemaker,Christine Ann
+oai:ecommons.cornell.edu:1813/41031	Barbash,Daniel A.
+oai:ecommons.cornell.edu:1813/41032	Donaghy,Kieran Patrick
+oai:ecommons.cornell.edu:1813/41033	Gao,Huaizhu
+oai:ecommons.cornell.edu:1813/41034	Abruna,Hector D
+oai:ecommons.cornell.edu:1813/41035	Chen,Jian
+oai:ecommons.cornell.edu:1813/41036	Bellinder,Robin R
+oai:ecommons.cornell.edu:1813/41037	Lazzaro,Brian
+oai:ecommons.cornell.edu:1813/41038	Doerschuk,Peter
+oai:ecommons.cornell.edu:1813/41039	Zipfel,Warren R.
+oai:ecommons.cornell.edu:1813/41040	Washington,Margaret
+oai:ecommons.cornell.edu:1813/41041	Sangren,Paul Steven
+oai:ecommons.cornell.edu:1813/41042	Walter,Michael Todd
+oai:ecommons.cornell.edu:1813/41043	Thompson,Michael Olgar
+oai:ecommons.cornell.edu:1813/41044	Huang,Ming
+oai:ecommons.cornell.edu:1813/41045	Mao,Yuxin
+oai:ecommons.cornell.edu:1813/41046	Mueller,Erich
+oai:ecommons.cornell.edu:1813/41047	Coates,Geoffrey
+oai:ecommons.cornell.edu:1813/41048	Hubbard,John Hamal
+oai:ecommons.cornell.edu:1813/41049	Halpern,Joseph Yehuda
+oai:ecommons.cornell.edu:1813/41050	Tomlan,Michael Andrew
+oai:ecommons.cornell.edu:1813/41051	Kushnir,Tamar
+oai:ecommons.cornell.edu:1813/41052	Wegkamp,Marten H.
+oai:ecommons.cornell.edu:1813/41053	Mansury,Yuri Surtadi
+oai:ecommons.cornell.edu:1813/41054	Turnquist,Mark Alan
+oai:ecommons.cornell.edu:1813/41055	Peck,Mason
+oai:ecommons.cornell.edu:1813/41056	Elser,Veit
+oai:ecommons.cornell.edu:1813/41057	Hennig,Richard G.
+oai:ecommons.cornell.edu:1813/41058	Suntivich,Jin
+oai:ecommons.cornell.edu:1813/41059	Cawley,John H.
+oai:ecommons.cornell.edu:1813/41060	Hazan,Cynthia
+oai:ecommons.cornell.edu:1813/41061	MacDougall,Bonnie Graham
+oai:ecommons.cornell.edu:1813/41062	Lipson,Michal
+oai:ecommons.cornell.edu:1813/41063	Ruina,Andy Lee
+oai:ecommons.cornell.edu:1813/41064	Williams,Wendy M
+oai:ecommons.cornell.edu:1813/41065	Gilovich,Thomas Dashiff
+oai:ecommons.cornell.edu:1813/41066	Bunce,Valerie Jane
+oai:ecommons.cornell.edu:1813/41067	Buckley,Daniel H
+oai:ecommons.cornell.edu:1813/41068	Blau,Francine D
+oai:ecommons.cornell.edu:1813/41069	Schwarz,Anette
+oai:ecommons.cornell.edu:1813/41070	Cosley,Daniel R.
+oai:ecommons.cornell.edu:1813/41071	Steenhuis,Tammo S
+oai:ecommons.cornell.edu:1813/41072	Ruppert,David
+oai:ecommons.cornell.edu:1813/41073	Whittaker,Gary R
+oai:ecommons.cornell.edu:1813/41074	Clancy,Paulette
+oai:ecommons.cornell.edu:1813/41075	August,Avery
+oai:ecommons.cornell.edu:1813/41076	Sakai,Naoki
+oai:ecommons.cornell.edu:1813/41077	Flecker,Alexander S
+oai:ecommons.cornell.edu:1813/41078	Rasmussen,Kathleen Maher
+oai:ecommons.cornell.edu:1813/41079	Strang,David
+oai:ecommons.cornell.edu:1813/41080	Aristilde,Ludmilla
+oai:ecommons.cornell.edu:1813/41081	Dichtel,William Robert
+oai:ecommons.cornell.edu:1813/41082	Frank,Robert H
+oai:ecommons.cornell.edu:1813/41083	Xu,Chunhui
+oai:ecommons.cornell.edu:1813/41084	van de Walle,Nicolas
+oai:ecommons.cornell.edu:1813/41085	Reyna,Valerie
+oai:ecommons.cornell.edu:1813/41086	Wise,Frank William
+oai:ecommons.cornell.edu:1813/41087	Butcher,Jonathan T.
+oai:ecommons.cornell.edu:1813/41088	Riha,Susan Jean
+oai:ecommons.cornell.edu:1813/41089	Myers,Christopher R
+oai:ecommons.cornell.edu:1813/41090	Hewson,Ian
+oai:ecommons.cornell.edu:1813/41091	Kirby,Brian
+oai:ecommons.cornell.edu:1813/41092	Lee,Siu Sylvia
+oai:ecommons.cornell.edu:1813/41093	Mount,Timothy Douglas
+oai:ecommons.cornell.edu:1813/41094	Nozick,Linda K.
+oai:ecommons.cornell.edu:1813/41095	Chen,Gang
+oai:ecommons.cornell.edu:1813/41096	Willford,Andrew C.
+oai:ecommons.cornell.edu:1813/41097	Bala,Kavita
+oai:ecommons.cornell.edu:1813/41098	Peters,Scott
+oai:ecommons.cornell.edu:1813/41099	Blossey,Bernd
+oai:ecommons.cornell.edu:1813/41100	Hooker,Giles J.
+oai:ecommons.cornell.edu:1813/41101	Bean,Rachel E.
+oai:ecommons.cornell.edu:1813/41102	Aquadro,Charles F
+oai:ecommons.cornell.edu:1813/41103	Reyna,Valerie
+oai:ecommons.cornell.edu:1813/41104	Falk,Oren
+oai:ecommons.cornell.edu:1813/41105	Ober,Christopher Kemper
+oai:ecommons.cornell.edu:1813/41106	Webster Jr,Michael Stilson
+oai:ecommons.cornell.edu:1813/41107	Flaminio,Maria Julia Bevilaqua Felippe
+oai:ecommons.cornell.edu:1813/41108	Robinson,Richard Douglas
+oai:ecommons.cornell.edu:1813/41109	Bazarov,Ivan
+oai:ecommons.cornell.edu:1813/41110	King,Michael R.
+oai:ecommons.cornell.edu:1813/41111	Molnar,Alyosha Christopher
+oai:ecommons.cornell.edu:1813/41112	Hencey,Brandon M.
+oai:ecommons.cornell.edu:1813/41113	Field,David James
+oai:ecommons.cornell.edu:1813/41114	Brown,Dan L
+oai:ecommons.cornell.edu:1813/41115	Wise,Frank William
+oai:ecommons.cornell.edu:1813/41116	Kan,Edwin Chihchuan
+oai:ecommons.cornell.edu:1813/41117	Swartz,Edward B.
+oai:ecommons.cornell.edu:1813/41118	Abruna,Hector D
+oai:ecommons.cornell.edu:1813/41119	Cerione,Richard A
+oai:ecommons.cornell.edu:1813/41120	Abruna,Hector D
+oai:ecommons.cornell.edu:1813/41121	Seeley,Thomas Dyer
+oai:ecommons.cornell.edu:1813/41122	Tolbert,Pamela S
+oai:ecommons.cornell.edu:1813/41123	Linster,Christiane
+oai:ecommons.cornell.edu:1813/41124	Putnam,David A.
+oai:ecommons.cornell.edu:1813/41125	Kraft,Clifford Elliott
+oai:ecommons.cornell.edu:1813/41126	Hooker,Giles J.
+oai:ecommons.cornell.edu:1813/41127	Csaki,Csaba
+oai:ecommons.cornell.edu:1813/41128	Barbano,David Mark
+oai:ecommons.cornell.edu:1813/41129	Colvin,Alexander James
+oai:ecommons.cornell.edu:1813/41130	Estroff,Lara A.
+oai:ecommons.cornell.edu:1813/41131	Hernandez,Christopher J.
+oai:ecommons.cornell.edu:1813/41132	Tomlan,Michael Andrew
+oai:ecommons.cornell.edu:1813/41133	Coates,Geoffrey
+oai:ecommons.cornell.edu:1813/41134	Diamessis,Peter J.
+oai:ecommons.cornell.edu:1813/41135	Lucks,Julius
+oai:ecommons.cornell.edu:1813/41136	Overton,Thomas R
+oai:ecommons.cornell.edu:1813/41137	Welker,Marina Andrea
+oai:ecommons.cornell.edu:1813/41138	Kessler,Andre
+oai:ecommons.cornell.edu:1813/41139	Grossman,Yuval
+oai:ecommons.cornell.edu:1813/41140	Lipson,Michal
+oai:ecommons.cornell.edu:1813/41141	Wiesner,Ulrich B.
+oai:ecommons.cornell.edu:1813/41142	Matteson,David
+oai:ecommons.cornell.edu:1813/41143	Regan,Elizabeth
+oai:ecommons.cornell.edu:1813/41144	Thompson,Michael Olgar
+oai:ecommons.cornell.edu:1813/41145	Reyna,Valerie
+oai:ecommons.cornell.edu:1813/41146	Muller,David Anthony
+oai:ecommons.cornell.edu:1813/41147	Gay,Geraldine K
+oai:ecommons.cornell.edu:1813/41148	Reisch,Bruce Irving
+oai:ecommons.cornell.edu:1813/41149	Basu,Kaushik
+oai:ecommons.cornell.edu:1813/41150	McGowan,Kaja Maria
+oai:ecommons.cornell.edu:1813/41151	Diamessis,Peter J.
+oai:ecommons.cornell.edu:1813/41152	Luo,Dan
+oai:ecommons.cornell.edu:1813/41153	Lassoie,James Philip
+oai:ecommons.cornell.edu:1813/41154	Reyna,Valerie
+oai:ecommons.cornell.edu:1813/41155	Lin,David M.
+oai:ecommons.cornell.edu:1813/41156	Erber,Pedro Rabelo
+oai:ecommons.cornell.edu:1813/41157	Suntivich,Jin
+oai:ecommons.cornell.edu:1813/41158	King,Michael R.
+oai:ecommons.cornell.edu:1813/41159	Gilovich,Thomas Dashiff
+oai:ecommons.cornell.edu:1813/41160	Xu,Chunhui
+oai:ecommons.cornell.edu:1813/41161	Zehnder,Alan Taylor
+oai:ecommons.cornell.edu:1813/41162	Munasinghe,Viranjini P
+oai:ecommons.cornell.edu:1813/41163	Castillo,Debra Ann
+oai:ecommons.cornell.edu:1813/41164	King,Cynthia A.
+oai:ecommons.cornell.edu:1813/41165	Craib,Raymond B.
+oai:ecommons.cornell.edu:1813/41166	McAllister,Liam
+oai:ecommons.cornell.edu:1813/41167	Barrett,Christopher
+oai:ecommons.cornell.edu:1813/41168	Rizvi,Syed S H
+oai:ecommons.cornell.edu:1813/41169	Gehrke,Johannes E.
+oai:ecommons.cornell.edu:1813/41170	Kourkoutis,Lena Fitting
+oai:ecommons.cornell.edu:1813/41171	Muller,David Anthony
+oai:ecommons.cornell.edu:1813/41172	Roeder,Adrienne H.K.
+oai:ecommons.cornell.edu:1813/41173	Frazier,Peter
+oai:ecommons.cornell.edu:1813/41174	Wiesner,Ulrich B.
+oai:ecommons.cornell.edu:1813/41175	Wiesner,Ulrich B.
+oai:ecommons.cornell.edu:1813/41176	Yu,Haiyuan
+oai:ecommons.cornell.edu:1813/41177	Gaeta,Alexander L.
+oai:ecommons.cornell.edu:1813/41178	Saxena,Ashutosh
+oai:ecommons.cornell.edu:1813/41179	Wagner,Aaron B.
+oai:ecommons.cornell.edu:1813/41180	Zhang, Ke
+oai:ecommons.cornell.edu:1813/41181	Matteson, David
+oai:ecommons.cornell.edu:1813/41197	Sider, Theodore R.
+oai:ecommons.cornell.edu:1813/41198	Bonassar, Lawrence
+oai:ecommons.cornell.edu:1813/41199	Lipson, Michal
+oai:ecommons.cornell.edu:1813/42871	Turvey, Calum G.
+oai:ecommons.cornell.edu:1813/42872	Smith, David M.
+oai:ecommons.cornell.edu:1813/43549	Diamessis,Peter J.
+oai:ecommons.cornell.edu:1813/43550	Gainor,J Ellen
+oai:ecommons.cornell.edu:1813/43551	Wells,Martin Timothy
+oai:ecommons.cornell.edu:1813/43552	Brown,Larry Douglas
+oai:ecommons.cornell.edu:1813/43553	King,Michael R.
+oai:ecommons.cornell.edu:1813/43554	Datta,Ashim K
+oai:ecommons.cornell.edu:1813/43555	Reyna,Valerie
+oai:ecommons.cornell.edu:1813/43556	Brainerd,Charles
+oai:ecommons.cornell.edu:1813/43557	Fiskesjo,N Magnus G
+oai:ecommons.cornell.edu:1813/43558	Rudstam,Lars Gosta
+oai:ecommons.cornell.edu:1813/43559	Arias,Tomas A.
+oai:ecommons.cornell.edu:1813/43560	Ernste,Kevin M.
+oai:ecommons.cornell.edu:1813/43561	Anker,Elizabeth Susan
+oai:ecommons.cornell.edu:1813/43562	Sturgeon,Nicholas Lee
+oai:ecommons.cornell.edu:1813/43563	Kraft,Clifford Elliott
+oai:ecommons.cornell.edu:1813/43564	Joo,Yong L.
+oai:ecommons.cornell.edu:1813/43565	Fitzpatrick,John Weaver
+oai:ecommons.cornell.edu:1813/43566	Wolczanski,Peter Thomas
+oai:ecommons.cornell.edu:1813/43567	O'Rourke,Thomas Denis
+oai:ecommons.cornell.edu:1813/43568	Culler,Jonathan Dwight
+oai:ecommons.cornell.edu:1813/43569	Manohar,Rajit
+oai:ecommons.cornell.edu:1813/43570	Cardie,Claire T
+oai:ecommons.cornell.edu:1813/43571	Weiss,Michael L
+oai:ecommons.cornell.edu:1813/43572	Craighead,Harold G
+oai:ecommons.cornell.edu:1813/43573	Petersen,Poul B.
+oai:ecommons.cornell.edu:1813/43574	Crane,Brian
+oai:ecommons.cornell.edu:1813/43575	Platt,Verity Jane
+oai:ecommons.cornell.edu:1813/43576	Pepiot,Perrine
+oai:ecommons.cornell.edu:1813/43577	Winkler,David Ward
+oai:ecommons.cornell.edu:1813/43578	Kassam,Karim-Aly Saleh
+oai:ecommons.cornell.edu:1813/43579	Mansfield,Anna K.
+oai:ecommons.cornell.edu:1813/43580	Smolka,Marcus B
+oai:ecommons.cornell.edu:1813/43581	Henderson,Shane G.
+oai:ecommons.cornell.edu:1813/43582	Shmoys,David B.
+oai:ecommons.cornell.edu:1813/43583	Tester,Jefferson William
+oai:ecommons.cornell.edu:1813/43584	Li,Li
+oai:ecommons.cornell.edu:1813/43585	Miller,Matthew Peter
+oai:ecommons.cornell.edu:1813/43586	Pepinsky,Thomas
+oai:ecommons.cornell.edu:1813/43587	Katzenstein,Peter Joachim
+oai:ecommons.cornell.edu:1813/43588	Bonassar,Lawrence
+oai:ecommons.cornell.edu:1813/43589	Ralph,Daniel C
+oai:ecommons.cornell.edu:1813/43590	Chen,Peng
+oai:ecommons.cornell.edu:1813/43591	Baird,Barbara Ann
+oai:ecommons.cornell.edu:1813/43592	Loring,Roger F
+oai:ecommons.cornell.edu:1813/43593	Crane,Brian
+oai:ecommons.cornell.edu:1813/43594	Culler,Jonathan Dwight
+oai:ecommons.cornell.edu:1813/43595	Campbell,Timothy C.
+oai:ecommons.cornell.edu:1813/43596	Nault,Brian A.
+oai:ecommons.cornell.edu:1813/43597	Schaffer,Chris
+oai:ecommons.cornell.edu:1813/43598	O'Connor,Kathleen M
+oai:ecommons.cornell.edu:1813/43599	Geisler,Charles C
+oai:ecommons.cornell.edu:1813/43600	Casasola,Marianella
+oai:ecommons.cornell.edu:1813/43601	Popescu,Sorina Claudia
+oai:ecommons.cornell.edu:1813/43602	Bean,Rachel E.
+oai:ecommons.cornell.edu:1813/43603	Anker,Elizabeth Susan
+oai:ecommons.cornell.edu:1813/43604	Swedberg,Richard
+oai:ecommons.cornell.edu:1813/43605	Grimson,Andrew William
+oai:ecommons.cornell.edu:1813/43606	Rasmussen,Kathleen Maher
+oai:ecommons.cornell.edu:1813/43607	Shaw,Kerry L
+oai:ecommons.cornell.edu:1813/43608	Escobedo,Fernando
+oai:ecommons.cornell.edu:1813/43609	Hua,Ying
+oai:ecommons.cornell.edu:1813/43610	Samorodnitsky,Gennady
+oai:ecommons.cornell.edu:1813/43611	Eshelman,Paul Edwin
+oai:ecommons.cornell.edu:1813/43612	Crane,Brian
+oai:ecommons.cornell.edu:1813/43613	Smith,David M.
+oai:ecommons.cornell.edu:1813/43614	Rodewald,Amanda Dumin
+oai:ecommons.cornell.edu:1813/43615	Franck,Carl Peter
+oai:ecommons.cornell.edu:1813/43616	Fontaine,Michael Scott
+oai:ecommons.cornell.edu:1813/43617	Spencer,Michael G.
+oai:ecommons.cornell.edu:1813/43618	Van Renesse,Robbert
+oai:ecommons.cornell.edu:1813/43619	Nixon,Alan J
+oai:ecommons.cornell.edu:1813/43620	Saxena,Ashutosh
+oai:ecommons.cornell.edu:1813/43621	Barbash,Daniel A.
+oai:ecommons.cornell.edu:1813/43622	Chen,Ya-Ru
+oai:ecommons.cornell.edu:1813/43623	Hedge,Alan
+oai:ecommons.cornell.edu:1813/43624	Lion,Leonard William
+oai:ecommons.cornell.edu:1813/43625	Kurpios,Natasza
+oai:ecommons.cornell.edu:1813/43626	Villarejo,Amy
+oai:ecommons.cornell.edu:1813/43627	Bonassar,Lawrence
+oai:ecommons.cornell.edu:1813/43628	Tomlan,Michael Andrew
+oai:ecommons.cornell.edu:1813/43629	Pollack,Lois
+oai:ecommons.cornell.edu:1813/43630	Hanson,Maureen R
+oai:ecommons.cornell.edu:1813/43631	Thorne,Robert Edward
+oai:ecommons.cornell.edu:1813/43632	Greenberg,Donald P.
+oai:ecommons.cornell.edu:1813/43633	Lunine,Jonathan I.
+oai:ecommons.cornell.edu:1813/43634	Manohar,Rajit
+oai:ecommons.cornell.edu:1813/43635	McLeod,Poppy L
+oai:ecommons.cornell.edu:1813/43636	Wiesner,Ulrich B.
+oai:ecommons.cornell.edu:1813/43637	Chau,Ho Yan
+oai:ecommons.cornell.edu:1813/43638	Manohar,Rajit
+oai:ecommons.cornell.edu:1813/43639	Joachims,Thorsten
+oai:ecommons.cornell.edu:1813/43640	Krasny,Marianne Elizabeth
+oai:ecommons.cornell.edu:1813/43641	Bhojraj,Sanjeev
+oai:ecommons.cornell.edu:1813/43642	Kourkoutis,Lena Fitting
+oai:ecommons.cornell.edu:1813/43643	Philpot,William Douglas
+oai:ecommons.cornell.edu:1813/43644	Sevier,Carolyn S
+oai:ecommons.cornell.edu:1813/43645	Bloomfield,Robert J.
+oai:ecommons.cornell.edu:1813/43646	Vatamaniuk,Olena K
+oai:ecommons.cornell.edu:1813/43647	Tomlan,Michael Andrew
+oai:ecommons.cornell.edu:1813/43648	Ceci,Stephen John
+oai:ecommons.cornell.edu:1813/43649	Ryan,Matthew R.
+oai:ecommons.cornell.edu:1813/43650	Lewis,Van Dyke
+oai:ecommons.cornell.edu:1813/43651	Lucks,Julius
+oai:ecommons.cornell.edu:1813/43652	Shen,Xiling
+oai:ecommons.cornell.edu:1813/43653	Nozick,Linda K.
+oai:ecommons.cornell.edu:1813/43654	Collum,David B
+oai:ecommons.cornell.edu:1813/43655	Clark,Andrew
+oai:ecommons.cornell.edu:1813/43656	Lipson,Michal
+oai:ecommons.cornell.edu:1813/43657	Warner,Derek H.
+oai:ecommons.cornell.edu:1813/43658	Arias,Tomas A.
+oai:ecommons.cornell.edu:1813/43659	Campbell,Mark
+oai:ecommons.cornell.edu:1813/43660	Wiesner,Ulrich B.
+oai:ecommons.cornell.edu:1813/43661	Hennig,Richard G.
+oai:ecommons.cornell.edu:1813/43662	Ceci,Stephen John
+oai:ecommons.cornell.edu:1813/43663	Pass,Rafael N.
+oai:ecommons.cornell.edu:1813/43664	Varner,Jeffrey D.
+oai:ecommons.cornell.edu:1813/43665	Kao-Kniffin,Jenny T.
+oai:ecommons.cornell.edu:1813/43666	Delisa,Matthew
+oai:ecommons.cornell.edu:1813/43667	Greenberg,Mitchell D
+oai:ecommons.cornell.edu:1813/43668	Thomas,Chantal
+oai:ecommons.cornell.edu:1813/43669	Rand,Richard Herbert
+oai:ecommons.cornell.edu:1813/43670	Smillie,John D
+oai:ecommons.cornell.edu:1813/43671	Cardie,Claire T
+oai:ecommons.cornell.edu:1813/43672	Webster,James
+oai:ecommons.cornell.edu:1813/43673	Cheetham,Jonathan
+oai:ecommons.cornell.edu:1813/43674	Scherer,Clifford Wayne
+oai:ecommons.cornell.edu:1813/43675	Regan,Elizabeth
+oai:ecommons.cornell.edu:1813/43676	Daniel,Susan
+oai:ecommons.cornell.edu:1813/43677	Chen,Peng
+oai:ecommons.cornell.edu:1813/43678	Greenberg,Mitchell D
+oai:ecommons.cornell.edu:1813/43679	Wang,Qi
+oai:ecommons.cornell.edu:1813/43680	March,John C
+oai:ecommons.cornell.edu:1813/43681	Kay,Suzanne Mahlburg
+oai:ecommons.cornell.edu:1813/43682	Bass,Andrew Howard
+oai:ecommons.cornell.edu:1813/43683	Fuller,Angela K.
+oai:ecommons.cornell.edu:1813/43684	Macy,Michael Walton
+oai:ecommons.cornell.edu:1813/43685	Netravali,Anil Narayan
+oai:ecommons.cornell.edu:1813/43686	Castillo,Debra Ann
+oai:ecommons.cornell.edu:1813/43687	Robinson,Richard Douglas
+oai:ecommons.cornell.edu:1813/43688	Sullivan,Patrick J
+oai:ecommons.cornell.edu:1813/43689	Escobedo,Fernando
+oai:ecommons.cornell.edu:1813/43690	Gomez,Miguel I.
+oai:ecommons.cornell.edu:1813/43691	Nozick,Linda K.
+oai:ecommons.cornell.edu:1813/43692	Rodewald,Amanda Dumin
+oai:ecommons.cornell.edu:1813/43693	Pope,Stephen Bailey
+oai:ecommons.cornell.edu:1813/43694	Giannelis,Emmanuel P
+oai:ecommons.cornell.edu:1813/43695	Wang,Qi
+oai:ecommons.cornell.edu:1813/43696	Silins,Nicholas
+oai:ecommons.cornell.edu:1813/43697	Joachims,Thorsten
+oai:ecommons.cornell.edu:1813/43698	Williamson,David P
+oai:ecommons.cornell.edu:1813/43699	Zipfel,Warren R.
+oai:ecommons.cornell.edu:1813/43700	Samuels,Shirley R
+oai:ecommons.cornell.edu:1813/43701	Joo,Yong L.
+oai:ecommons.cornell.edu:1813/43702	Pass,Rafael N.
+oai:ecommons.cornell.edu:1813/43703	Butcher,Jonathan T.
+oai:ecommons.cornell.edu:1813/43704	Pinstrup-Andersen,Per
+oai:ecommons.cornell.edu:1813/43705	Lehmann,Christopher Johannes
+oai:ecommons.cornell.edu:1813/43706	Olson,Christine Marie
+oai:ecommons.cornell.edu:1813/43707	Halseth,Donald Earl
+oai:ecommons.cornell.edu:1813/43708	Rossi,Frank S
+oai:ecommons.cornell.edu:1813/43709	Avestimehr,Amir Salman
+oai:ecommons.cornell.edu:1813/43710	Cleland,Thomas A.
+oai:ecommons.cornell.edu:1813/43711	Nydam,Daryl Van
+oai:ecommons.cornell.edu:1813/43712	Escobedo,Fernando
+oai:ecommons.cornell.edu:1813/43713	Cox,Kerik D.
+oai:ecommons.cornell.edu:1813/43714	Lion,Leonard William
+oai:ecommons.cornell.edu:1813/43715	Archer,Lynden A.
+oai:ecommons.cornell.edu:1813/43716	Lipson,Michal
+oai:ecommons.cornell.edu:1813/43717	Jones-Correa,Michael
+oai:ecommons.cornell.edu:1813/43718	Shapiro,Michael A
+oai:ecommons.cornell.edu:1813/43719	Cleland,Thomas A.
+oai:ecommons.cornell.edu:1813/43720	Wang,Xiaohong
+oai:ecommons.cornell.edu:1813/43721	Giannelis,Emmanuel P
+oai:ecommons.cornell.edu:1813/43722	Barcelo III,John James
+oai:ecommons.cornell.edu:1813/43723	Walcott,Charles
+oai:ecommons.cornell.edu:1813/43724	Netravali,Anil Narayan
+oai:ecommons.cornell.edu:1813/43725	Tiwari,Sandip
+oai:ecommons.cornell.edu:1813/43726	Ceci,Stephen John
+oai:ecommons.cornell.edu:1813/43727	Lion,Leonard William
+oai:ecommons.cornell.edu:1813/43728	Manning,Sturt
+oai:ecommons.cornell.edu:1813/43729	Suh,Gookwon Edward
+oai:ecommons.cornell.edu:1813/43730	Engstrom,James R
+oai:ecommons.cornell.edu:1813/43731	Gao,Huaizhu
+oai:ecommons.cornell.edu:1813/43732	Warner,Mildred E.
+oai:ecommons.cornell.edu:1813/43733	Ng,David T.
+oai:ecommons.cornell.edu:1813/43734	Murray,Timothy Conway
+oai:ecommons.cornell.edu:1813/43735	Basu,Arnab K.
+oai:ecommons.cornell.edu:1813/43736	Nozick,Linda K.
+oai:ecommons.cornell.edu:1813/43737	Wells,Martin Timothy
+oai:ecommons.cornell.edu:1813/43738	Lewis,Tasha Lenise
